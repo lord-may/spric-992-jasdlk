@@ -17,14 +17,12 @@
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"PREBLE","TotOut":"2"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.538036,39.616827],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/12/2026 07:00 PM","INCIDENTID":"1816682","IND":"D","LAT":"39.61682744","LNG":"-84.5380356651996","OutageTime":"10/12/2026 04:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.549506,39.623011],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/12/2026 08:00 PM","INCIDENTID":"1816685","IND":"D","LAT":"39.62301129","LNG":"-84.5495056303035","OutageTime":"10/12/2026 05:09 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.043498,39.688142],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"null","INCIDENTID":"1816686","IND":"D","LAT":"39.68814158","LNG":"-84.0434981746362","OutageTime":"10/12/2026 05:40 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.046348,39.685988],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/12/2026 08:00 PM","INCIDENTID":"1816686","IND":"D","LAT":"39.68598778","LNG":"-84.0463484515408","OutageTime":"10/12/2026 05:40 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

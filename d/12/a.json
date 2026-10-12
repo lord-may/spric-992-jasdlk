@@ -5,10 +5,10 @@
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"11"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,9 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"14","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.044692,39.690503],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/12/2026 06:00 PM","INCIDENTID":"1816678","IND":"D","LAT":"39.69050309","LNG":"-84.0446924981108","OutageTime":"10/12/2026 04:04 PM","TOTALCUSTS":"11"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.538506,39.616471],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/12/2026 07:00 PM","INCIDENTID":"1816682","IND":"D","LAT":"39.61647144","LNG":"-84.5385062621278","OutageTime":"10/12/2026 04:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.619998,40.103072],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"10/12/2026 07:00 PM","INCIDENTID":"1816683","IND":"D","LAT":"40.10307181","LNG":"-84.619998109043","OutageTime":"10/12/2026 04:58 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.549976,39.622655],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"null","INCIDENTID":"1816685","IND":"D","LAT":"39.62265529","LNG":"-84.549976272525","OutageTime":"10/12/2026 05:09 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.540142,39.615234],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/12/2026 07:00 PM","INCIDENTID":"1816682","IND":"D","LAT":"39.61523434","LNG":"-84.5401415864534","OutageTime":"10/12/2026 04:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.551612,39.621418],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/12/2026 08:00 PM","INCIDENTID":"1816685","IND":"D","LAT":"39.62141819","LNG":"-84.5516117542447","OutageTime":"10/12/2026 05:09 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

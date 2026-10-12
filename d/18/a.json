@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.062234,46.807369],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791841817000,"ETR":1791849600000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.001213","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.062621,46.80737],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1791841817000,"ETR":1791849600000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.001213","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.123658,46.767769],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791842940000,"ETR":1791850500000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.001216","STATUS":"New Outage"},"type":"Feature"}
 ]}

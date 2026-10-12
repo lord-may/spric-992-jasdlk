@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.443838,40.509766],"type":"Point"},"properties":{"cause":"Scheduled outage","crewAssigned":true,"estimateTime":1791839700000,"id":"474995","nbrOut":1,"planned":false,"timeOff":1791828800000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.550917,40.392628],"type":"Point"},"properties":{"cause":"Unknown","crewAssigned":true,"estimateTime":1791840600000,"id":"475004","nbrOut":22,"planned":false,"timeOff":1791828998000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.214138,40.761681],"type":"Point"},"properties":{"cause":"Unknown","crewAssigned":true,"estimateTime":1791841500000,"id":"475006","nbrOut":4,"planned":false,"timeOff":1791830310000},"type":"Feature"}
+{"geometry":{"coordinates":[-84.550917,40.392628],"type":"Point"},"properties":{"cause":"Broken conductor","crewAssigned":true,"estimateTime":1791840600000,"id":"475004","nbrOut":22,"planned":false,"timeOff":1791828998000},"type":"Feature"}
 ]}

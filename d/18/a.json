@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.105114,46.75573],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1791825960000,"ETR":1791837900000,"LOCATION":"Menahga","ORDERID":"JE.2610.001127","STATUS":"New Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.402305,46.392949],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791827812000,"ETR":1791838800000,"LOCATION":"Fairview Township","ORDERID":"JE.2610.001130","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.252125,46.470194],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1791827848000,"ETR":1791838800000,"LOCATION":"Lake Edward Township","ORDERID":"JE.2610.001131","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.143729,46.767888],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":12,"DATEOFF":1791828836000,"ETR":1791837000000,"LOCATION":"Duluth - Lincoln Park,Duluth - Piedmont Heights","ORDERID":"JE.2610.001136","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.132526,46.763165],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791831540000,"ETR":1791839700000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.001174","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.144249,46.767717],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":15,"DATEOFF":1791828836000,"ETR":1791837000000,"LOCATION":"Duluth - Lincoln Park,Duluth - Piedmont Heights","ORDERID":"JE.2610.001136","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.327927,46.501227],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791831740000,"ETR":1791843300000,"LOCATION":"Nisswa","ORDERID":"JE.2610.001175","STATUS":"Assigned"},"type":"Feature"}
 ]}

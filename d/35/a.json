@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry":{"geometries":[{"coordinates":[[[-95.460606,46.581187],[-95.45915,46.581205],[-95.457812,46.581372],[-95.452009,46.582712],[-95.450544,46.583107],[-95.462869,46.581798],[-95.460606,46.581187]]],"type":"Polygon"},{"coordinates":[-95.457515,46.581995],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Planned outage for a line revision project.  Approximate duration: 2 hours","crewAssigned":true,"id":"232219","nbrOut":18,"planned":true,"timeOff":1791818559921},"type":"Feature"},
+{"geometry":{"coordinates":[-95.697437,46.623323],"type":"Point"},"properties":{"crewAssigned":true,"id":"232220","nbrOut":1,"planned":true,"timeOff":1791818991607},"type":"Feature"},
+{"geometry":{"coordinates":[-96.05061,46.511069],"type":"Point"},"properties":{"crewAssigned":true,"id":"232222","nbrOut":1,"planned":false,"timeOff":1791819736000},"type":"Feature"},
+{"geometry":{"coordinates":[-95.603896,46.394729],"type":"Point"},"properties":{"crewAssigned":true,"id":"232223","nbrOut":2,"planned":false,"timeOff":1791820379384},"type":"Feature"}
+]}

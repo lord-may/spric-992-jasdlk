@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.122823,46.771984],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791853020000,"ETR":1791864000000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.001239","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.474957,46.326764],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791859320000,"ETR":1791870300000,"LOCATION":"Pillager","ORDERID":"JE.2610.001243","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.122823,46.771984],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791853020000,"ETR":1791867600000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.001239","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.474957,46.326764],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791859320000,"ETR":1791870300000,"LOCATION":"Pillager","ORDERID":"JE.2610.001243","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.081006,46.800624],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791862275000,"ETR":1791870300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.001244","STATUS":"New Outage"},"type":"Feature"}
 ]}

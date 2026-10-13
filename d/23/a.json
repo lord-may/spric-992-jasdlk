@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.161794,46.516972],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1791919800000,"id":"730915","nbrOut":1,"timeOff":1791912600000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.859102,45.852671],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791916200000,"id":"730916","nbrOut":1,"timeOff":1791912201395},"type":"Feature"},
-{"geometry":{"coordinates":[-92.858078,45.852903],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791916200000,"id":"730917","nbrOut":1,"timeOff":1791912215857},"type":"Feature"}
+{"geometry":{"coordinates":[-92.990975,46.35164],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","comment":"The planned outage will occur, Tuesday, 10/13/2026, at, 12:45 p.m., for, 90 minutes.","crewAssigned":true,"estimateTime":1791918900000,"id":"730896","nbrOut":9,"timeOff":1791913500000},"type":"Feature"},
+{"geometry":{"coordinates":[-92.161794,46.516972],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1791919800000,"id":"730915","nbrOut":1,"timeOff":1791912930000},"type":"Feature"},
+{"geometry":{"coordinates":[-92.859102,45.852671],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1791916200000,"id":"730916","nbrOut":1,"timeOff":1791912201395},"type":"Feature"},
+{"geometry":{"coordinates":[-92.858078,45.852903],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1791916200000,"id":"730917","nbrOut":1,"timeOff":1791912786000},"type":"Feature"},
+{"geometry":{"coordinates":[-92.979054,46.186528],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1791921600000,"id":"730919","nbrOut":1,"timeOff":1791914013000},"type":"Feature"}
 ]}

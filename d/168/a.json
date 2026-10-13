@@ -1,6 +1,9 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-96.412191,43.644496],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1791918000000,"id":"446032","nbrOut":2,"timeOff":1791912620000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.412227,43.646583],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1791918000000,"id":"446033","nbrOut":1,"timeOff":1791912626000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.400827,43.646434],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1791918000000,"id":"446034","nbrOut":1,"timeOff":1791912618000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.41538,43.646271],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1791918000000,"id":"446035","nbrOut":1,"timeOff":1791912651000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.97106,43.772051],"type":"Point"},"properties":{"cause":"VEHICLE--FARM                 ","crewAssigned":true,"id":"446045","nbrOut":1,"timeOff":1791845775163},"type":"Feature"},
-{"geometry":{"coordinates":[-96.382106,44.025899],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446067","nbrOut":1,"timeOff":1791903519766},"type":"Feature"},
 {"geometry":{"coordinates":[-96.971922,43.760646],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446068","nbrOut":1,"timeOff":1791903942517},"type":"Feature"},
 {"geometry":{"coordinates":[-96.561069,43.775119],"type":"Point"},"properties":{"cause":"EQUIPMENT                     ","crewAssigned":true,"id":"446069","nbrOut":1,"timeOff":1791904194495},"type":"Feature"},
 {"geometry":{"coordinates":[-96.305768,44.087326],"type":"Point"},"properties":{"cause":"PLANNED MAINTENANCE           ","crewAssigned":true,"id":"446070","nbrOut":1,"timeOff":1791905616000},"type":"Feature"},

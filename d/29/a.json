@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.602674,43.982038],"type":"Point"},"properties":{"crewAssigned":false,"id":"335668","nbrOut":1,"planned":false,"timeOff":1791895610000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.136178,44.083377],"type":"Point"},"properties":{"comment":"Member is disconnected for Electrician is on site installing a whole house generator and transfer switch. Outage is for551217 TM","crewAssigned":true,"id":"335669","nbrOut":1,"planned":false,"timeOff":1791896867000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.663696,43.748973],"type":"Point"},"properties":{"comment":"Power will be out to plow new cable and upgrade primary line","crewAssigned":false,"estimateTime":1791919920000,"id":"335672","nbrOut":1,"planned":false,"timeOff":1791898453000},"type":"Feature"}
 ]}

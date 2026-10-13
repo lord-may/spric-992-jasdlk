@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.440694,44.905818],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T15:17:04.33-04:00","outageName":"","outagePoint":{"lat":44.9058178138682,"lng":-83.44069438039062},"outageRecID":"2026-10-13-0046","outageStartTime":"2026-10-13T15:16:41-04:00","outageWorkStatus":"","streetsAffected":["ALPHONSE ST"],"verified":false},"type":"Feature"}
 ]}

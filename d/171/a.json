@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.718273,38.735346],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T14:28:04.787-04:00","outageName":"B3   30W  10W  1","outagePoint":{"lat":38.735345716156246,"lng":-85.71827286893885},"outageRecID":"2026-10-13-0055","outageStartTime":"2026-10-13T14:27:59-04:00","outageWorkStatus":"","streetsAffected":["N BETHLEHEM RD"],"verified":false},"type":"Feature"}
 ]}

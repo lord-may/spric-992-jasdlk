@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-94.90567,46.008344],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791898337000,"ETR":1791909900000,"LOCATION":"Reynolds Township","ORDERID":"JE.2610.001251","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.072731,46.813658],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791900022000,"ETR":1791908100000,"LOCATION":"Duluth - UMD Chester Creek","ORDERID":"JE.2610.001254","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.326877,46.49772],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":7,"DATEOFF":1791900225000,"ETR":1791911700000,"LOCATION":"Nisswa","ORDERID":"JE.2610.001255","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.139525,47.512239],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791901623000,"ETR":1791912600000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001256","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.139525,47.512239],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791901623000,"ETR":1791912600000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001256","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.573175,45.80883],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791902220000,"ETR":1791913500000,"LOCATION":"Upsala","ORDERID":"JE.2610.001258","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.793278,47.344265],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1791902805000,"ETR":1791914400000,"LOCATION":"Deer River Township","ORDERID":"JE.2610.001261","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.691227,38.384356],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T15:50:52.647-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T10:50:52.693-04:00","outageName":"707440228","outagePoint":{"lat":38.384356085898744,"lng":-85.6912269911886},"outageRecID":"2026-10-13-0056","outageStartTime":"2026-10-13T10:50:19-04:00","outageWorkStatus":"","streetsAffected":["DEER SPRINGS TRAIL"],"verified":false},"type":"Feature"}
 ]}

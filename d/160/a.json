@@ -1,3 +1,11 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.520754,44.052335],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":2,"ID":91149,"INCIDENT_ID":"91149","TIME_OUTAGE":1791849221000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.463865,44.019656],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":3,"ID":91152,"INCIDENT_ID":"91152","TIME_OUTAGE":1791849239000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.494978,44.039148],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":15,"ID":91181,"INCIDENT_ID":"91181","TIME_OUTAGE":1791849282000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.482448,44.028062],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":29,"ID":91188,"INCIDENT_ID":"91188","TIME_OUTAGE":1791849299000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.491333,44.045311],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":34,"ID":91195,"INCIDENT_ID":"91195","TIME_OUTAGE":1791849297000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.496732,44.03859],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":3,"ID":91197,"INCIDENT_ID":"91197","TIME_OUTAGE":1791849320000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.531512,44.038509],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":8,"ID":91221,"INCIDENT_ID":"91221","TIME_OUTAGE":1791849221000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.507098,44.050344],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":16,"ID":91234,"INCIDENT_ID":"91234","TIME_OUTAGE":1791849324000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.499144,44.04244],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":5,"ID":91236,"INCIDENT_ID":"91236","TIME_OUTAGE":1791849290000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
 ]}

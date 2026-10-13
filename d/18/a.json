@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.90567,46.008344],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791898337000,"ETR":1791917100000,"LOCATION":"Reynolds Township","ORDERID":"JE.2610.001251","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.139525,47.512239],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791901623000,"ETR":1791919800000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001256","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.150926,46.803919],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791916246000,"ETR":1791924300000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2610.001461","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.113682,46.799606],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791916672000,"ETR":1791924300000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2610.001463","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.326549,46.500398],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1791917023000,"ETR":1791928800000,"LOCATION":"Nisswa","ORDERID":"JE.2610.001464","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.09076,46.77635],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791918274000,"ETR":1791926100000,"LOCATION":"Duluth - Park Point","ORDERID":"JE.2610.001465","STATUS":"Assigned"},"type":"Feature"}
 ]}

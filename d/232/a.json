@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-102.21047,42.799683],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":42.79968333,"location":"GORDON","locationType":1,"lon":-102.21047,"zipCode":"69343"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"10/13/2026 1:20:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":null,"OutageAttribute3":null,"OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002232-1","lat":42.79968333,"location":"GORDON","locationType":1,"lon":-102.21047,"name":null,"notes":"Utility","outageType":2,"restorationTime":"13:20","serviceType":1,"startTime":"10/13/2026 11:10:00","status":1,"zipCode":"69343"},"type":"Feature"}
 ]}

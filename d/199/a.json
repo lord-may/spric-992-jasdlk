@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.331883,45.890526],"type":"Point"},"properties":{"cause":"Scheduled Outage","code":"100","crewAssigned":true,"customersOutInitially":28,"customersOutNow":28,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T09:24:50.12-05:00","outageName":"14182-99","outagePoint":{"lat":45.890525826592935,"lng":-92.3318825193749},"outageRecID":"2026-10-13-0062","outageStartTime":"2026-10-13T09:24:23-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-93.587897,44.346054],[-93.589612,44.352106],[-93.603402,44.350545],[-93.600437,44.347378],[-93.587897,44.346054]]],"type":"Polygon"},{"coordinates":[-93.594697,44.349106],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"MInnesota Valley Electric crews are working on the lines in your area, crews will work as quickly and safely as possible to restore your power.  Thank you for your patience.","crewAssigned":true,"estimateTime":1791905373381,"id":"283111","nbrOut":5,"planned":true,"timeOff":1791900033000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.326181,44.741198],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791912796890,"id":"283112","nbrOut":1,"planned":false,"timeOff":1791905593618},"type":"Feature"},
-{"geometry":{"coordinates":[-93.701084,44.829171],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791913132811,"id":"283113","nbrOut":1,"planned":true,"timeOff":1791905932778},"type":"Feature"},
-{"geometry":{"coordinates":[-93.468915,44.744835],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1791913729554,"id":"283114","nbrOut":1,"planned":false,"timeOff":1791906513223},"type":"Feature"}
+{"geometry":{"coordinates":[-93.468915,44.744835],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791913729554,"id":"283114","nbrOut":1,"planned":false,"timeOff":1791906513223},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.416013,39.711055],"type":"Point"},"properties":{"cause":"Maintenance","estimateTime":1791918600000,"id":"273350","nbrOut":9,"planned":true,"timeOff":1791915000000},"type":"Feature"},
+{"geometry":{"coordinates":[-91.829283,39.730975],"type":"Point"},"properties":{"cause":"Cause unknown","id":"273353","nbrOut":13,"planned":false,"timeOff":1791914922000},"type":"Feature"}
 ]}

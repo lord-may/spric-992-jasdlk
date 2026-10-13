@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-102.481863,42.828704],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":42.82870369,"location":"RUSHVILLE","locationType":1,"lon":-102.4818631,"zipCode":"69360"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"10/13/2026 2:20:00 AM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"10-13-2026 02:05","OutageAttribute3":"10-13-2026 02:20","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002229-1","lat":42.82870369,"location":"RUSHVILLE","locationType":1,"lon":-102.4818631,"name":null,"notes":"Utility","outageType":2,"restorationTime":"02:20","serviceType":1,"startTime":"10/13/2026 02:05:00","status":1,"zipCode":"69360"},"type":"Feature"}
 ]}

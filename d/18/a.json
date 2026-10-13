@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.4856,46.654616],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":61,"DATEOFF":1791847810000,"ETR":1791855900000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.001221","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.091049,46.807807],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791849420000,"ETR":1791857700000,"LOCATION":"Duluth - UMD Chester Creek","ORDERID":"JE.2610.001227","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.459416,46.713362],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791849844000,"ETR":1791857700000,"LOCATION":"Cloquet","ORDERID":"JE.2610.001228","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.091049,46.807807],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791849420000,"ETR":1791857700000,"LOCATION":"Duluth - UMD Chester Creek","ORDERID":"JE.2610.001227","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.459416,46.713362],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791849844000,"ETR":1791857700000,"LOCATION":"Cloquet","ORDERID":"JE.2610.001228","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.539786,47.404542],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":28,"DATEOFF":1791849970000,"ETR":1791861300000,"LOCATION":"Fayal Township","ORDERID":"JE.2610.001229","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.122823,46.771984],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791850449000,"ETR":1791858600000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.001231","STATUS":"New Outage"},"type":"Feature"}
 ]}

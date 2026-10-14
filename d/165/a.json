@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.021477,40.962269],"type":"Point"},"properties":{"crewAssigned":false,"id":"445791","nbrOut":1,"timeOff":1791984725303},"type":"Feature"},
-{"geometry":{"coordinates":[-81.997474,40.910531],"type":"Point"},"properties":{"crewAssigned":false,"id":"445792","nbrOut":1,"timeOff":1791985288952},"type":"Feature"},
-{"geometry":{"coordinates":[-81.995596,40.779397],"type":"Point"},"properties":{"crewAssigned":false,"id":"445793","nbrOut":1,"timeOff":1791986040356},"type":"Feature"}
+{"geometry":{"coordinates":[-82.021477,40.962269],"type":"Point"},"properties":{"crewAssigned":true,"id":"445791","nbrOut":1,"timeOff":1791984725303},"type":"Feature"},
+{"geometry":{"coordinates":[-81.997375,40.911611],"type":"Point"},"properties":{"cause":"ACCIDENT                      ","crewAssigned":true,"id":"445792","nbrOut":1,"timeOff":1791985288952},"type":"Feature"},
+{"geometry":{"coordinates":[-81.995596,40.779397],"type":"Point"},"properties":{"crewAssigned":true,"id":"445793","nbrOut":1,"timeOff":1791986040356},"type":"Feature"}
 ]}

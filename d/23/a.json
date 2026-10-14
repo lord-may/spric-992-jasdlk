@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.497293,45.625185],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791998100000,"id":"730968","nbrOut":1,"timeOff":1791989424439},"type":"Feature"},
 {"geometry":{"coordinates":[-93.58919,45.821553],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792009800000,"id":"730974","nbrOut":1,"timeOff":1792000433000},"type":"Feature"},
 {"geometry":{"coordinates":[-93.199654,46.206164],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1792009800000,"id":"730975","nbrOut":1,"timeOff":1792000793550},"type":"Feature"},
-{"geometry":{"coordinates":[-92.979207,46.299004],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"id":"730976","nbrOut":1,"timeOff":1792001637000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.979207,46.299004],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"id":"730976","nbrOut":1,"timeOff":1792001637000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.489046,45.791502],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"id":"730983","nbrOut":1,"timeOff":1792002401000},"type":"Feature"}
 ]}

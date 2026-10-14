@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.679341,44.756384],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T21:57:33-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T20:01:19.203-05:00","outageName":"Clear Lake - North Feeder","outagePoint":{"lat":44.75638400451755,"lng":-96.67934110545247},"outageRecID":"2026-10-13-0616","outageStartTime":"2026-10-13T19:57:33-05:00","outageWorkStatus":"In Review","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

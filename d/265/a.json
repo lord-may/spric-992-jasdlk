@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.09,41.15],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-99.49,41.79],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-99.57,41.75],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-99.57,41.77],"type":"Point"},"properties":{"affected":2,"status":"outage"},"type":"Feature"}
 ]}

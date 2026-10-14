@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.307218,43.930803],"type":"Point"},"properties":{"comment":"Outage is for a member requested disconnect reconnect Should be back on about 1 o'clock. TM","crewAssigned":true,"id":"335820","nbrOut":1,"planned":false,"timeOff":1791983943816},"type":"Feature"},
-{"geometry":{"coordinates":[-89.890709,43.80878],"type":"Point"},"properties":{"crewAssigned":true,"id":"335821","nbrOut":1,"planned":false,"timeOff":1791984592000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.890709,43.80878],"type":"Point"},"properties":{"crewAssigned":true,"id":"335821","nbrOut":1,"planned":false,"timeOff":1791984592000},"type":"Feature"},
+{"geometry":{"coordinates":[-89.288164,43.564734],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792008000000,"id":"335822","nbrOut":1,"planned":false,"timeOff":1791985479000},"type":"Feature"}
 ]}

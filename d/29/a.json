@@ -1,11 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.799441,44.054719],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE WEDNESDAY, OCTOBER 14TH.","crewAssigned":true,"estimateTime":1791997200000,"id":"335622","nbrOut":4,"planned":false,"timeOff":1791986621000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.307218,43.930803],"type":"Point"},"properties":{"comment":"Outage is for a member requested disconnect reconnect Should be back on about 1 o'clock. TM","crewAssigned":true,"id":"335820","nbrOut":1,"planned":false,"timeOff":1791984032000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.288164,43.564734],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792008000000,"id":"335822","nbrOut":1,"planned":false,"timeOff":1791985479000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.292647,43.570677],"type":"Point"},"properties":{"crewAssigned":true,"id":"335824","nbrOut":1,"planned":false,"timeOff":1791986419000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.295683,43.568548],"type":"Point"},"properties":{"crewAssigned":true,"id":"335825","nbrOut":3,"planned":false,"timeOff":1791986413000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.800213,44.05439],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791997200000,"id":"335826","nbrOut":1,"planned":false,"timeOff":1791986621000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.253184,43.808676],"type":"Point"},"properties":{"crewAssigned":true,"id":"335830","nbrOut":1,"planned":false,"timeOff":1791995134000},"type":"Feature"},
+{"geometry":{"coordinates":[-89.253184,43.808676],"type":"Point"},"properties":{"comment":"ETA 12:20pm","crewAssigned":true,"id":"335830","nbrOut":1,"planned":false,"timeOff":1791995134000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.252762,43.809137],"type":"Point"},"properties":{"comment":"Eta 25 min","crewAssigned":true,"id":"335831","nbrOut":2,"planned":false,"timeOff":1791995134000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.678509,44.130818],"type":"Point"},"properties":{"crewAssigned":false,"id":"335832","nbrOut":2,"planned":false,"timeOff":1791997752000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.678509,44.130818],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792004400000,"id":"335832","nbrOut":2,"planned":false,"timeOff":1791997752000},"type":"Feature"}
 ]}

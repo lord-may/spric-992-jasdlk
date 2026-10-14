@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.970736,45.821297],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1791945900000,"id":"730957","nbrOut":1,"timeOff":1791936614144},"type":"Feature"},
-{"geometry":{"coordinates":[-92.974123,45.818354],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1791945900000,"id":"730958","nbrOut":1,"timeOff":1791936950175},"type":"Feature"},
-{"geometry":{"coordinates":[-92.969191,45.817584],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1791945000000,"id":"730959","nbrOut":1,"timeOff":1791937188228},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-92.966451,45.817246],[-92.966128,45.817271],[-92.968661,45.817415],[-92.9684,45.817271],[-92.967933,45.817265],[-92.966451,45.817246]]],"type":"Polygon"},{"coordinates":[-92.967628,45.817315],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Unknown Cause,Overhead Equipment","crewAssigned":true,"estimateTime":1791945000000,"id":"730962","nbrOut":8,"timeOff":1791936301000},"type":"Feature"}
 ]}

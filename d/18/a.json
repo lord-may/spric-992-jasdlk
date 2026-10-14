@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.59666,45.999796],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1791991111000,"ETR":1792006200000,"LOCATION":"Culdrum Township","ORDERID":"JE.2610.001582","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.28678,46.901861],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":9,"DATEOFF":1791997212000,"ETR":1792005300000,"LOCATION":"Canosia Township","ORDERID":"JE.2610.001623","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.073812,46.809682],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1791997680000,"ETR":1792005300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.001628","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.867461,46.070912],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1792000305000,"ETR":1792011600000,"LOCATION":"Hartford Township","ORDERID":"JE.2610.001631","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.867461,46.070912],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1792000305000,"ETR":1792011600000,"LOCATION":"Hartford Township","ORDERID":"JE.2610.001631","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.414306,45.855342],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792000933000,"ETR":1792012500000,"LOCATION":"Swan River Township","ORDERID":"JE.2610.001632","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.591489,47.088269],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1792001325000,"ETR":1792012500000,"LOCATION":"Shingobee Township","ORDERID":"JE.2610.001637","STATUS":"Assigned"},"type":"Feature"}
 ]}

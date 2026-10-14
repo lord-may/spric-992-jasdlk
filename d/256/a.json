@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.028274,39.385113],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T10:52:08.133-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T07:52:08.263-04:00","outageName":"FUS407-010-0029","outagePoint":{"lat":39.38511342593212,"lng":-83.02827418834741},"outageRecID":"2026-10-14-0543","outageStartTime":"2026-10-14T07:50:56-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

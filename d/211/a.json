@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.761432,39.565334],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T08:15:37.007-04:00","outageName":"TR_D3-20-19-P5","outagePoint":{"lat":39.565334179150874,"lng":-85.76143165565212},"outageRecID":"2026-10-14-0088","outageStartTime":"2026-10-14T08:11:21-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

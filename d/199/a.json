@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.294381,45.871923],"type":"Point"},"properties":{"cause":"Scheduled Outage","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T09:12:35.54-05:00","outageName":"Xfmr7734","outagePoint":{"lat":45.87192322777533,"lng":-92.29438109538299},"outageRecID":"2026-10-14-0065","outageStartTime":"2026-10-14T09:09:35-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

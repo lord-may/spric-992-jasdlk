@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.872464,40.345567],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T08:51:37.513-04:00","outageName":"PC4-41A/87-1  Chad TD","outagePoint":{"lat":40.345566966697255,"lng":-86.87246449590356},"outageRecID":"2026-10-14-0073","outageStartTime":"2026-10-14T08:42:15-04:00","outageWorkStatus":"Planned Outage","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -20,11 +20,10 @@
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"UNION","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"42","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.388403,39.914221],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 07:00 PM","INCIDENTID":"1817122","IND":"D","LAT":"39.91422122","LNG":"-84.3884029795994","OutageTime":"10/14/2026 02:58 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.351828,40.249553],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"10/14/2026 05:00 PM","INCIDENTID":"1817126","IND":"D","LAT":"40.2495533259142","LNG":"-83.3518280641794","OutageTime":"10/14/2026 03:14 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.999551,39.787063],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/14/2026 07:00 PM","INCIDENTID":"1817134","IND":"D","LAT":"39.78706289","LNG":"-83.9995508894163","OutageTime":"10/14/2026 04:13 PM","TOTALCUSTS":"40"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"41","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.384136,39.917434],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 07:00 PM","INCIDENTID":"1817122","IND":"D","LAT":"39.91743412","LNG":"-84.3841358094722","OutageTime":"10/14/2026 02:58 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.995292,39.790276],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/14/2026 07:00 PM","INCIDENTID":"1817134","IND":"D","LAT":"39.79027579","LNG":"-83.995292227782","OutageTime":"10/14/2026 04:13 PM","TOTALCUSTS":"40"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.816314,39.762833],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":14,"customersOutNow":14,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T03:50:03.9-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T00:50:05.31-04:00","outageName":"FUS161-006-0058","outagePoint":{"lat":39.76283252434823,"lng":-82.81631422584783},"outageRecID":"2026-10-14-0542","outageStartTime":"2026-10-14T00:48:53-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

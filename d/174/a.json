@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.328473,39.344838],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":19,"customersOutNow":19,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T23:07:34.517-04:00","outageName":"R47-4A3-1","outagePoint":{"lat":39.34483827699891,"lng":-87.3284728873877},"outageRecID":"2026-10-13-0131","outageStartTime":"2026-10-13T23:00:33-04:00","outageWorkStatus":"","streetsAffected":["BONO ROAD","E COUGAR DR","E COUGAR DR # 5","E COUGAR DRIVE","S SINGHURST RD"],"verified":false},"type":"Feature"}
 ]}

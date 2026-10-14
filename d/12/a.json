@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"3"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,11 +23,10 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"8","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.113944,39.630699],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 05:00 PM","INCIDENTID":"1817118","IND":"D","LAT":"39.63069884","LNG":"-84.1139438506211","OutageTime":"10/14/2026 02:27 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.388261,39.914328],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817122","IND":"D","LAT":"39.91432802","LNG":"-84.388261134609","OutageTime":"10/14/2026 02:58 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.00939,39.837217],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817123","IND":"D","LAT":"39.83721728","LNG":"-84.00939027206","OutageTime":"10/14/2026 03:00 PM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.371158,39.604231],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817124","IND":"D","LAT":"39.60423145","LNG":"-83.3711575514066","OutageTime":"10/14/2026 03:00 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.209285,39.765607],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817125","IND":"D","LAT":"39.76560717","LNG":"-84.209285371174","OutageTime":"10/14/2026 03:08 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.351685,40.24966],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"null","INCIDENTID":"1817126","IND":"D","LAT":"40.2496601259142","LNG":"-83.3516854642832","OutageTime":"10/14/2026 03:14 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"7","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.109437,39.634108],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 05:00 PM","INCIDENTID":"1817118","IND":"D","LAT":"39.63410754","LNG":"-84.1094366846714","OutageTime":"10/14/2026 02:27 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.383734,39.917737],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817122","IND":"D","LAT":"39.91773672","LNG":"-84.3837339153328","OutageTime":"10/14/2026 02:58 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.004869,39.840626],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817123","IND":"D","LAT":"39.84062598","LNG":"-84.0048685340292","OutageTime":"10/14/2026 03:00 PM","TOTALCUSTS":"3"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.366652,39.60764],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/14/2026 06:00 PM","INCIDENTID":"1817124","IND":"D","LAT":"39.60764015","LNG":"-83.3666522417322","OutageTime":"10/14/2026 03:00 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.347134,40.253069],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"10/14/2026 05:00 PM","INCIDENTID":"1817126","IND":"D","LAT":"40.2530688259142","LNG":"-83.3471341509285","OutageTime":"10/14/2026 03:14 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

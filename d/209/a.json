@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.230973,43.985871],"type":"Point"},"properties":{"causeGroup":"Planned Outage Maintenance/Construction ","crewAssigned":false,"id":"484466","nbrOut":1,"planned":false,"timeOff":1791895062000},"type":"Feature"},
 {"geometry":{"coordinates":[-92.14248,44.179085],"type":"Point"},"properties":{"causeGroup":"Planned Outage Maintenance/Construction ","crewAssigned":true,"id":"484476","nbrOut":1,"planned":false,"timeOff":1791983152000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.468012,44.07531],"type":"Point"},"properties":{"causeGroup":"Planned Outage Maintenance/Construction ","crewAssigned":true,"id":"484479","nbrOut":3,"planned":false,"timeOff":1791988291000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.62334,44.034967],"type":"Point"},"properties":{"causeGroup":"Planned Outage Maintenance/Construction ","crewAssigned":true,"id":"484480","nbrOut":1,"planned":false,"timeOff":1791988537000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.468012,44.07531],"type":"Point"},"properties":{"causeGroup":"Planned Outage Maintenance/Construction ","crewAssigned":true,"id":"484479","nbrOut":3,"planned":false,"timeOff":1791988291000},"type":"Feature"}
 ]}

@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.046522,42.755453],"type":"Point"},"properties":{"cause":"PLANNED-OTHER ","crewAssigned":false,"id":"433143","nbrOut":1,"planned":false,"timeOff":1792070365000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-90.023085,42.590989],[-90.022564,42.591994],[-90.02172,42.593654],[-90.021881,42.595096],[-90.024576,42.59581],[-90.030263,42.597199],[-90.063967,42.600029],[-90.076652,42.593886],[-90.040261,42.591373],[-90.023085,42.590989]]],"type":"Polygon"},{"coordinates":[-90.047627,42.595129],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"MOTOR VEHICLE","crewAssigned":true,"id":"433146","nbrOut":23,"planned":false,"timeOff":1792077255000},"type":"Feature"}
+{"geometry":{"coordinates":[-90.046522,42.755453],"type":"Point"},"properties":{"cause":"PLANNED-OTHER ","crewAssigned":false,"id":"433143","nbrOut":1,"planned":false,"timeOff":1792070365000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.421755,42.50427],"type":"Point"},"properties":{"CreateDatetime":"10-15  08:10 AM","District":"578B","Downstream":1,"ETA":"","ETR":"10-15  12:15 PM","ETR_SOURCE":"SYS","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005632722","Latitude":42.50427,"LocationCause":"","Longitude":-95.421755,"MAJ_OTG_ID":"0","METRO_AREA":"Sioux City","StatusCd":"WORKING"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.421737,42.503796],"type":"Point"},"properties":{"CreateDatetime":"10-15  08:10 AM","District":"578B","Downstream":3,"ETA":"","ETR":"10-15  11:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005632722","Latitude":42.503796,"LocationCause":"AN EQUIPMENT PROBLEM","Longitude":-95.421737,"MAJ_OTG_ID":"","METRO_AREA":"Sioux City","StatusCd":"WORKING"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.566081,41.103568],"type":"Point"},"properties":{"affectedAreas":[],"affectedCount":1,"crewStatus":"NA","description":null,"endTime":"12/31/9999 12:00:00 AM","extension":{"OutageAttribute1":"Thu, 10/15/2026, 06:45 AM","OutageAttribute2":"To Be Determined","OutageAttribute3":"N","OutageAttribute5":"PREDICTED"},"incidentId":"J.26.10.15.000003","lat":41.1035677647878,"location":"Saunders","locationType":1,"lon":-96.5660814215099,"name":null,"notes":"Thu, 10/15/2026, 06:45 AM","outageType":2,"restorationTime":null,"serviceType":1,"startTime":"10/15/2026 04:14:51","status":0,"zipCode":null},"type":"Feature"}
 ]}

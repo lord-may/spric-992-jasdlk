@@ -1,4 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.531218,43.840446],"type":"Point"},"properties":{"cause":"VEHICLE--FARM                 ","crewAssigned":true,"id":"446176","nbrOut":2,"timeOff":1792029858596},"type":"Feature"},
-{"geometry":{"coordinates":[-96.635171,43.791968],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446215","nbrOut":1,"timeOff":1792071198386},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-96.509532,43.956643],[-96.499804,43.962508],[-96.505211,43.963879],[-96.509532,43.956643]]],"type":"Polygon"},{"coordinates":[-96.504852,43.961014],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1792078200000,"id":"446214","nbrOut":3,"timeOff":1792074720000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.635171,43.791968],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446215","nbrOut":1,"timeOff":1792071198386},"type":"Feature"},
+{"geometry":{"coordinates":[-96.973225,44.413803],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792075500000,"id":"446216","nbrOut":1,"timeOff":1792074600000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.974339,44.411717],"type":"Point"},"properties":{"cause":"PLANNED MAINTENANCE           ","crewAssigned":true,"id":"446217","nbrOut":1,"timeOff":1792074622000},"type":"Feature"}
 ]}

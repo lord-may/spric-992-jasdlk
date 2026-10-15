@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-94.325536,46.711659],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792071634000,"ETR":1792082700000,"LOCATION":"Jenkins Township","ORDERID":"JE.2610.001666","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.301847,46.853049],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792071880000,"ETR":1792080000000,"LOCATION":"Canosia Township,Grand Lake Township","ORDERID":"JE.2610.001667","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.92342,46.925507],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792071945000,"ETR":1792080000000,"LOCATION":"Floodwood","ORDERID":"JE.2610.001668","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.100339,46.741107],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792073579000,"ETR":1792085400000,"LOCATION":"Menahga","ORDERID":"JE.2610.001672","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.100339,46.741107],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792073579000,"ETR":1792085400000,"LOCATION":"Menahga","ORDERID":"JE.2610.001672","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.059178,46.834199],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1792074094000,"ETR":1792081800000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2610.001674","STATUS":"Assigned"},"type":"Feature"}
 ]}

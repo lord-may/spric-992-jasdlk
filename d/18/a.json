@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.92342,46.925507],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792071945000,"ETR":1792083600000,"LOCATION":"Floodwood","ORDERID":"JE.2610.001668","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.850071,47.522344],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792080620000,"ETR":1792091700000,"LOCATION":"Balkan Township","ORDERID":"JE.2610.001686","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.359401,46.406026],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1792080920000,"ETR":1792092600000,"LOCATION":"East Gull Lake","ORDERID":"JE.2610.001688","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.92342,46.925507],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792071945000,"ETR":1792087200000,"LOCATION":"Floodwood","ORDERID":"JE.2610.001668","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.850071,47.522344],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792080620000,"ETR":1792091700000,"LOCATION":"Balkan Township","ORDERID":"JE.2610.001686","STATUS":"Assigned"},"type":"Feature"}
 ]}

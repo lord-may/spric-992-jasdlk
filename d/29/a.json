@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.942093,44.133488],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE OCTOBER 15TH 8-10AM","crewAssigned":true,"estimateTime":1792076400000,"id":"335827","nbrOut":1,"planned":false,"timeOff":1792071774000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.173108,44.173087],"type":"Point"},"properties":{"crewAssigned":true,"id":"335870","nbrOut":1,"planned":false,"timeOff":1792071321000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.763966,43.967118],"type":"Point"},"properties":{"crewAssigned":true,"id":"335873","nbrOut":1,"planned":false,"timeOff":1792072731000},"type":"Feature"},
-{"geometry":{"coordinates":[-88.903129,43.501236],"type":"Point"},"properties":{"comment":"Linemen on site.","crewAssigned":true,"id":"335874","nbrOut":1,"planned":false,"timeOff":1792077589000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.763966,43.967118],"type":"Point"},"properties":{"crewAssigned":true,"id":"335873","nbrOut":1,"planned":false,"timeOff":1792072731000},"type":"Feature"}
 ]}

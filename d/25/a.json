@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.396106,44.70859],"type":"Point"},"properties":{"comment":"Minnesota Valley Electric is aware of the power interruption in your area. Crews are working in your area. Thank you for your patience.","crewAssigned":true,"estimateTime":1792082125892,"id":"283151","nbrOut":2,"planned":true,"timeOff":1792074925772},"type":"Feature"}
+{"geometry":{"coordinates":[-93.396106,44.70859],"type":"Point"},"properties":{"comment":"Minnesota Valley Electric is aware of the power interruption in your area. Crews are working in your area. Thank you for your patience.","crewAssigned":true,"estimateTime":1792082125892,"id":"283151","nbrOut":2,"planned":true,"timeOff":1792074925772},"type":"Feature"},
+{"geometry":{"coordinates":[-93.395927,44.708743],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792085828092,"id":"283152","nbrOut":1,"planned":true,"timeOff":1792078628005},"type":"Feature"},
+{"geometry":{"coordinates":[-93.396277,44.708666],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792085840786,"id":"283153","nbrOut":1,"planned":true,"timeOff":1792078640717},"type":"Feature"}
 ]}

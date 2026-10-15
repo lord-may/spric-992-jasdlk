@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-89.942093,44.133488],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE OCTOBER 15TH 8-10AM","crewAssigned":false,"estimateTime":1792076400000,"id":"335827","nbrOut":1,"planned":true,"timeOff":1792069200000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.252816,43.820169],"type":"Point"},"properties":{"comment":"ETA 5:20","crewAssigned":true,"id":"335868","nbrOut":1,"planned":false,"timeOff":1792056767000},"type":"Feature"}
 ]}

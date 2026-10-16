@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.265891,43.512124],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446264","nbrOut":1,"timeOff":1792156541000},"type":"Feature"}
+{"geometry":{"coordinates":[-96.944838,44.269937],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","comment":"Sioux Valley Energy has planned power outage information for you. Line workers will be working in your area, along 215th Street, tomorrow morning, October 16th. Your power will be off around 8:30am for approximately 2 and a half hours. Again, you will be with out power starting around 8:30am tomorrow morning. If you have any questions please call dispatch at 1 800 234 1960, Thank you.","crewAssigned":true,"estimateTime":1792166400000,"id":"446220","nbrOut":1,"timeOff":1792157411000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.943517,44.266804],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1792166400000,"id":"446221","nbrOut":1,"timeOff":1792157408000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.265891,43.512124],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446264","nbrOut":1,"timeOff":1792156541000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.193343,43.524982],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"446265","nbrOut":1,"timeOff":1792157748890},"type":"Feature"}
 ]}

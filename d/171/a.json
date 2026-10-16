@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.683888,39.046876],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T17:06:42.027-04:00","outageName":"G5   31S  11W  1","outagePoint":{"lat":39.04687580520276,"lng":-85.68388840077864},"outageRecID":"2026-10-16-0071","outageStartTime":"2026-10-16T17:06:39-04:00","outageWorkStatus":"","streetsAffected":["COVENTRY GARDENS DR","DORYDOWN CT"],"verified":false},"type":"Feature"}
 ]}

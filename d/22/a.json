@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.573059,46.6282],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T23:56:23-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T22:09:17.757-05:00","outageName":"Enderlin 115kV Sub - West","outagePoint":{"lat":46.62819978116789,"lng":-97.57305931882618},"outageRecID":"2026-10-15-0727","outageStartTime":"2026-10-15T21:56:23-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

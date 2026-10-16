@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-100.901333,38.483499],"type":"Point"},"properties":{"cause":"420 Tree growth","crewAssigned":true,"id":"449414","nbrOut":4,"planned":true,"timeOff":1792156740000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.773619,38.335389],"type":"Point"},"properties":{"cause":"100 Construction","crewAssigned":true,"id":"449424","nbrOut":4,"planned":true,"timeOff":1792165390000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.268447,37.834901],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":true,"id":"449425","nbrOut":1,"planned":false,"timeOff":1792167510537},"type":"Feature"},
-{"geometry":{"coordinates":[-97.639308,37.363187],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":true,"id":"449427","nbrOut":2,"planned":false,"timeOff":1792168327000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.351955,38.489441],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449428","nbrOut":1,"planned":true,"timeOff":1792168485000},"type":"Feature"}
 ]}

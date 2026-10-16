@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.383589,47.311992],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792157728000,"ETR":1792172700000,"LOCATION":"Taconite","ORDERID":"JE.2610.001768","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.415858,46.701719],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165456000,"ETR":1792174500000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.001785","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.838861,46.962922],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1792168444000,"ETR":1792179900000,"LOCATION":"Nevis","ORDERID":"JE.2610.001796","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.383589,47.311992],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792157728000,"ETR":1792176300000,"LOCATION":"Taconite","ORDERID":"JE.2610.001768","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.838861,46.962922],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1792168444000,"ETR":1792179900000,"LOCATION":"Nevis","ORDERID":"JE.2610.001796","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.26803,46.449965],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792170217000,"ETR":1792181700000,"LOCATION":"West Crow Wing","ORDERID":"JE.2610.001798","STATUS":"Assigned"},"type":"Feature"}
 ]}

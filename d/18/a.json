@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.383589,47.311992],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792157728000,"ETR":1792169100000,"LOCATION":"Taconite","ORDERID":"JE.2610.001768","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.970273,46.446563],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792162048000,"ETR":1792173600000,"LOCATION":"Irondale Township","ORDERID":"JE.2610.001777","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.970273,46.446563],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792162048000,"ETR":1792173600000,"LOCATION":"Irondale Township","ORDERID":"JE.2610.001777","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.415858,46.701719],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165456000,"ETR":1792173600000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.001785","STATUS":"New Outage"},"type":"Feature"}
 ]}

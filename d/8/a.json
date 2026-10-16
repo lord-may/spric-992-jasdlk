@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.921566,41.338108],"type":"Point"},"properties":{"CreateDatetime":"10-15  08:33 PM","District":"515B","Downstream":6,"ETA":"","ETR":"","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005632885","Latitude":41.338108,"LocationCause":"AN EQUIPMENT PROBLEM","Longitude":-93.921566,"MAJ_OTG_ID":"","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.611856,41.642781],"type":"Point"},"properties":{"CreateDatetime":"10-16  06:37 AM","District":"236A","Downstream":1,"ETA":"","ETR":"10-16  09:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005633058","Latitude":41.642781,"LocationCause":"","Longitude":-93.611856,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":""},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"CrewStatus":null,"CustomerAffected":null,"OutageLatitude":0,"OutageLongitude":0,"OutageStatus":null,"Outagedate":null,"OutagedateDB":"0001-01-01T00:00:00","Outageid":null,"RestorationTime":null,"Restorationdate":null,"RestorationdateDB":"0001-01-01T00:00:00","ZipCode":null},"type":"Feature"}
+{"geometry":{"coordinates":[-89.372675,42.986027],"type":"Point"},"properties":{"CrewStatus":null,"CustomerAffected":1,"OutageLatitude":42.9860268560584,"OutageLongitude":-89.372674612706,"OutageStatus":"U","Outagedate":"October 16, 2026 07:17","OutagedateDB":"2026-10-16T07:17:12","Outageid":22106,"RestorationTime":"3","Restorationdate":"October 16, 2026 10:30","RestorationdateDB":"2026-10-16T10:30:00","ZipCode":"53711"},"type":"Feature"}
 ]}

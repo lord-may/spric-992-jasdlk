@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.138158,38.253126],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T12:55:03.86-04:00","outageName":"D2-13-P097","outagePoint":{"lat":38.25312629875725,"lng":-86.13815847103989},"outageRecID":"2026-10-16-0410","outageStartTime":"2026-10-16T12:41:27-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

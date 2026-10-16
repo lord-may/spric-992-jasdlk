@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.413082,38.595978],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T11:37:41.323-04:00","outageName":"T8-1F-14.2","outagePoint":{"lat":38.59597788218986,"lng":-87.41308195079868},"outageRecID":"2026-10-16-0165","outageStartTime":"2026-10-16T11:29:47-04:00","outageWorkStatus":"","streetsAffected":["S HART STREET RD"],"verified":false},"type":"Feature"}
 ]}

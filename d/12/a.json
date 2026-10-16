@@ -19,12 +19,13 @@
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"7"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"97","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.018871,39.827323],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/16/2026 10:00 AM","INCIDENTID":"299171","IND":"T","LAT":"39.8273231","LNG":"-84.0188708110567","OutageTime":"10/16/2026 01:54 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.010545,39.805209],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/16/2026 07:00 AM","INCIDENTID":"1817273","IND":"D","LAT":"39.80520861","LNG":"-84.0105446219843","OutageTime":"10/16/2026 04:47 AM","TOTALCUSTS":"61"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.397212,40.149494],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"null","INCIDENTID":"1817279","IND":"D","LAT":"40.14949369","LNG":"-84.3972122043314","OutageTime":"10/16/2026 06:01 AM","TOTALCUSTS":"35"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"104","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.020193,39.826326],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/16/2026 10:00 AM","INCIDENTID":"299171","IND":"T","LAT":"39.8263263","LNG":"-84.0201928548706","OutageTime":"10/16/2026 01:54 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.011866,39.804212],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/16/2026 07:00 AM","INCIDENTID":"1817273","IND":"D","LAT":"39.80421181","LNG":"-84.0118662075742","OutageTime":"10/16/2026 04:47 AM","TOTALCUSTS":"61"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.398541,40.148497],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/16/2026 09:00 AM","INCIDENTID":"1817279","IND":"D","LAT":"40.14849689","LNG":"-84.3985409838667","OutageTime":"10/16/2026 06:01 AM","TOTALCUSTS":"35"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.161757,40.299095],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"10/16/2026 09:00 AM","INCIDENTID":"1817280","IND":"D","LAT":"40.29909508","LNG":"-84.1617566492835","OutageTime":"10/16/2026 06:12 AM","TOTALCUSTS":"7"},"type":"Feature"}
 ]}

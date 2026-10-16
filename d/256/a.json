@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.673143,39.810753],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T14:57:12.75-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T11:57:12.86-04:00","outageName":"T-124969","outagePoint":{"lat":39.81075271387738,"lng":-82.67314348346672},"outageRecID":"2026-10-16-0638","outageStartTime":"2026-10-16T11:55:51-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

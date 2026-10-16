@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.383589,47.311992],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792157728000,"ETR":1792169100000,"LOCATION":"Taconite","ORDERID":"JE.2610.001768","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.970273,46.446563],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792162048000,"ETR":1792173600000,"LOCATION":"Irondale Township","ORDERID":"JE.2610.001777","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.415858,46.701719],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165456000,"ETR":1792173600000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.001785","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.415858,46.701719],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165456000,"ETR":1792173600000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.001785","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.454414,46.63905],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165630000,"ETR":1792173600000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.001786","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.209313,46.778303],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792166059000,"ETR":1792173600000,"LOCATION":"Hermantown","ORDERID":"JE.2610.001791","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.196817,46.811847],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792166220000,"ETR":1792173600000,"LOCATION":"Hermantown","ORDERID":"JE.2610.001792","STATUS":"Assigned"},"type":"Feature"}
 ]}

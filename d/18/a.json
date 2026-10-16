@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.383589,47.311992],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792157728000,"ETR":1792172700000,"LOCATION":"Taconite","ORDERID":"JE.2610.001768","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.415858,46.701719],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165456000,"ETR":1792173600000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.001785","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.209313,46.778303],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792166059000,"ETR":1792173600000,"LOCATION":"Hermantown","ORDERID":"JE.2610.001791","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.415858,46.701719],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792165456000,"ETR":1792174500000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.001785","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.838861,46.962922],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1792168444000,"ETR":1792179900000,"LOCATION":"Nevis","ORDERID":"JE.2610.001796","STATUS":"Assigned"},"type":"Feature"}
 ]}

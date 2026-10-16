@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.803501,38.747075],"type":"Point"},"properties":{"cause":"Planned Construction","code":"100","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T13:42:22-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T07:53:20.417-05:00","outageName":"48890024","outagePoint":{"lat":38.747075404703445,"lng":-90.80350110755975},"outageRecID":"2026-10-16-0259","outageStartTime":"2026-10-16T07:42:22-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

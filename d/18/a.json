@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.26803,46.449965],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792170217000,"ETR":1792181700000,"LOCATION":"West Crow Wing","ORDERID":"JE.2610.001798","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.360501,46.323646],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792173679000,"ETR":1792185300000,"LOCATION":"Sylvan Township","ORDERID":"JE.2610.001804","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.095019,46.735726],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792174146000,"ETR":1792185300000,"LOCATION":"Superior","ORDERID":"JE.2610.001807","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.360501,46.323646],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792173679000,"ETR":1792185300000,"LOCATION":"Sylvan Township","ORDERID":"JE.2610.001804","STATUS":"Assigned"},"type":"Feature"}
 ]}

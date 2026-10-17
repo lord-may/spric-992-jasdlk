@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.410152,47.278782],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792265422000,"ETR":1792277100000,"LOCATION":"Trout Lake Township","ORDERID":"JE.2610.001888","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.377441,45.921772],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792269627000,"ETR":1792280700000,"LOCATION":"Little Falls Township","ORDERID":"JE.2610.001889","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.377441,45.921772],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792269627000,"ETR":1792280700000,"LOCATION":"Little Falls Township","ORDERID":"JE.2610.001889","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.90567,46.008344],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792270051000,"ETR":1792281600000,"LOCATION":"Reynolds Township","ORDERID":"JE.2610.001890","STATUS":"Assigned"},"type":"Feature"}
 ]}

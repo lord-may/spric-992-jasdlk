@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-92.916746,46.20334],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1792258654000,"ETR":1792266300000,"LOCATION":"Finlayson","ORDERID":"JE.2610.001842","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.816949,46.383017],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792261323000,"ETR":1792269000000,"LOCATION":"Sturgeon Lake","ORDERID":"JE.2610.001843","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.099921,46.722127],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792261713000,"ETR":1792272600000,"LOCATION":"Superior","ORDERID":"JE.2610.001846","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.104813,46.713385],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":242,"DATEOFF":1792261593000,"ETR":1792272600000,"LOCATION":"Superior","ORDERID":"JE.2610.001868","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.103032,46.720493],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1792261594000,"ETR":1792272600000,"LOCATION":"Superior","ORDERID":"JE.2610.001873","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.103441,46.723862],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792261854000,"ETR":1792273500000,"LOCATION":"Superior","ORDERID":"JE.2610.001875","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.104324,46.713657],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":247,"DATEOFF":1792261593000,"ETR":1792272600000,"LOCATION":"Superior","ORDERID":"JE.2610.001868","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.086508,46.711335],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792262181000,"ETR":1792273500000,"LOCATION":"Superior","ORDERID":"JE.2610.001876","STATUS":"New Outage"},"type":"Feature"}
 ]}

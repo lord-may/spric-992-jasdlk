@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.816949,46.383017],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792261323000,"ETR":1792269000000,"LOCATION":"Sturgeon Lake","ORDERID":"JE.2610.001843","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.099921,46.722127],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792261713000,"ETR":1792272600000,"LOCATION":"Superior","ORDERID":"JE.2610.001846","STATUS":"New Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.104324,46.713657],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":247,"DATEOFF":1792261593000,"ETR":1792272600000,"LOCATION":"Superior","ORDERID":"JE.2610.001868","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.086508,46.711335],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792262181000,"ETR":1792273500000,"LOCATION":"Superior","ORDERID":"JE.2610.001876","STATUS":"New Outage"},"type":"Feature"},

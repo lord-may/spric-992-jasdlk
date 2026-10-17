@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.689739,39.049194],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T00:46:20.753-04:00","outageName":"G5   23N  11S  1","outagePoint":{"lat":39.04919361077555,"lng":-85.68973915458862},"outageRecID":"2026-10-17-0073","outageStartTime":"2026-10-17T00:46:19-04:00","outageWorkStatus":"","streetsAffected":["BUCKINGHAM DR","EDDINGTON LN","PRIMSHIRE LN"],"verified":false},"type":"Feature"}
 ]}

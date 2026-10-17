@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.371662,46.369902],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792215286000,"ETR":1792226700000,"LOCATION":"East Gull Lake","ORDERID":"JE.2610.001825","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.371662,46.369902],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792215286000,"ETR":1792226700000,"LOCATION":"East Gull Lake","ORDERID":"JE.2610.001825","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.332867,47.798876],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792219488000,"ETR":1792231200000,"LOCATION":"Vermilion Lake Township","ORDERID":"JE.2610.001826","STATUS":"New Outage"},"type":"Feature"}
 ]}

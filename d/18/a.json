@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.945166,46.483605],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792234908000,"ETR":1792250100000,"LOCATION":"Crosby","ORDERID":"JE.2610.001828","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.945166,46.483605],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792234908000,"ETR":1792250100000,"LOCATION":"Crosby","ORDERID":"JE.2610.001828","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.271273,48.617218],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":49,"DATEOFF":1792246171000,"ETR":1792257300000,"LOCATION":"Rainy Lake","ORDERID":"JE.2610.001832","STATUS":"New Outage"},"type":"Feature"}
 ]}

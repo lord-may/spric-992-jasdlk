@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.471418,38.439275],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T21:24:28.36-04:00","outageName":"T17-2C1-6.3","outagePoint":{"lat":38.43927477699891,"lng":-87.4714183873877},"outageRecID":"2026-10-16-0169","outageStartTime":"2026-10-16T21:08:00-04:00","outageWorkStatus":"","streetsAffected":["E 590 N"],"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.945166,46.483605],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792234908000,"ETR":1792246500000,"LOCATION":"Crosby","ORDERID":"JE.2610.001828","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.945166,46.483605],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792234908000,"ETR":1792246500000,"LOCATION":"Crosby","ORDERID":"JE.2610.001828","STATUS":"Assigned"},"type":"Feature"}
 ]}

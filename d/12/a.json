@@ -7,7 +7,7 @@
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"FAYETTE","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"FAYETTE","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"4"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -24,8 +24,8 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"6","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.356473,39.519246],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/17/2026 02:00 PM","INCIDENTID":"1817508","IND":"D","LAT":"39.51924582","LNG":"-83.3564730511389","OutageTime":"10/17/2026 10:29 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.045156,39.72719],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/17/2026 04:00 PM","INCIDENTID":"1817517","IND":"D","LAT":"39.72719002","LNG":"-84.0451561714183","OutageTime":"10/17/2026 12:41 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.705938,39.651441],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"null","INCIDENTID":"1817518","IND":"D","LAT":"39.65144081","LNG":"-83.7059384479744","OutageTime":"10/17/2026 01:05 PM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.108895,39.6744],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"null","INCIDENTID":"1817519","IND":"D","LAT":"39.67439964","LNG":"-84.10889544277","OutageTime":"10/17/2026 01:14 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.35941,39.517021],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/17/2026 02:00 PM","INCIDENTID":"1817508","IND":"D","LAT":"39.51702082","LNG":"-83.3594098289118","OutageTime":"10/17/2026 10:29 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.048102,39.724965],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/17/2026 04:00 PM","INCIDENTID":"1817517","IND":"D","LAT":"39.72496502","LNG":"-84.0481024701214","OutageTime":"10/17/2026 12:41 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.708881,39.649216],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/17/2026 03:00 PM","INCIDENTID":"1817518","IND":"D","LAT":"39.64921581","LNG":"-83.7088812665103","OutageTime":"10/17/2026 01:05 PM","TOTALCUSTS":"3"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.562282,39.662287],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/17/2026 04:00 PM","INCIDENTID":"1817521","IND":"D","LAT":"39.66228726","LNG":"-83.562281896551","OutageTime":"10/17/2026 01:28 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

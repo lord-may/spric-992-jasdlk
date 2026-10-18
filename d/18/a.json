@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.274709,46.801518],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1792326268000,"ETR":1792333800000,"LOCATION":"Hermantown","ORDERID":"JE.2610.001898","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.274709,46.801518],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1792326268000,"ETR":1792333800000,"LOCATION":"Hermantown","ORDERID":"JE.2610.001898","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.409586,46.325239],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792327218000,"ETR":1792338300000,"LOCATION":"Sylvan Township","ORDERID":"JE.2610.001900","STATUS":"Assigned"},"type":"Feature"}
 ]}

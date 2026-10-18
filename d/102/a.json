@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.24867,44.552053],"type":"Point"},"properties":{"cause":"Consumers Problem","crewAssigned":true,"estimateTime":1792309500000,"id":"360269","nbrOut":1,"planned":false,"timeOff":1792301750907},"type":"Feature"}
+{"geometry":{"coordinates":[-92.24867,44.552053],"type":"Point"},"properties":{"cause":"Consumers Problem","crewAssigned":true,"estimateTime":1792309500000,"id":"360269","nbrOut":1,"planned":false,"timeOff":1792301750907},"type":"Feature"},
+{"geometry":{"coordinates":[-92.093917,44.454938],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792333800000,"id":"360270","nbrOut":1,"planned":false,"timeOff":1792326127612},"type":"Feature"}
 ]}

@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.409586,46.325239],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792327218000,"ETR":1792338300000,"LOCATION":"Sylvan Township","ORDERID":"JE.2610.001900","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.409586,46.325239],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792327218000,"ETR":1792338300000,"LOCATION":"Sylvan Township","ORDERID":"JE.2610.001900","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.426827,48.593829],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1792329105000,"ETR":1792340100000,"LOCATION":"International Falls","ORDERID":"JE.2610.001901","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.114172,46.778701],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792329608000,"ETR":1792337400000,"LOCATION":"Duluth - Central Hillside","ORDERID":"JE.2610.001903","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.471529,46.718323],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":9,"DATEOFF":1792329941000,"ETR":1792337400000,"LOCATION":"Cloquet","ORDERID":"JE.2610.001905","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.012091,46.845941],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792331051000,"ETR":1792342800000,"LOCATION":"Hubbard Township","ORDERID":"JE.2610.001906","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.012091,46.845941],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792331051000,"ETR":1792342800000,"LOCATION":"Hubbard Township","ORDERID":"JE.2610.001906","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.317287,46.425725],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792331916000,"ETR":1792343700000,"LOCATION":"West Crow Wing","ORDERID":"JE.2610.001907","STATUS":"Assigned"},"type":"Feature"}
 ]}

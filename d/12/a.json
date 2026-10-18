@@ -20,10 +20,11 @@
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"UNION","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"273","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.354334,40.080867],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/18/2026 04:00 AM","INCIDENTID":"1817584","IND":"D","LAT":"40.08086726","LNG":"-84.3543342953282","OutageTime":"10/18/2026 12:48 AM","TOTALCUSTS":"272"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.270059,39.649489],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/18/2026 05:00 AM","INCIDENTID":"1817585","IND":"D","LAT":"39.64948922","LNG":"-84.2700589611293","OutageTime":"10/18/2026 01:58 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"275","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.358518,40.077726],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/18/2026 04:00 AM","INCIDENTID":"1817584","IND":"D","LAT":"40.07772556","LNG":"-84.3585176390204","OutageTime":"10/18/2026 12:48 AM","TOTALCUSTS":"272"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.274214,39.646348],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/18/2026 05:00 AM","INCIDENTID":"1817585","IND":"D","LAT":"39.64634752","LNG":"-84.2742140634415","OutageTime":"10/18/2026 01:58 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.443634,40.132097],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"10/18/2026 05:00 AM","INCIDENTID":"1817586","IND":"D","LAT":"40.13209688","LNG":"-83.4436344593533","OutageTime":"10/18/2026 02:52 AM","TOTALCUSTS":"2"},"type":"Feature"}
 ]}

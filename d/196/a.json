@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.451102,45.059806],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T16:48:45.617-04:00","outageName":"","outagePoint":{"lat":45.05980556628222,"lng":-83.45110249123171},"outageRecID":"2026-10-18-0057","outageStartTime":"2026-10-18T16:41:00-04:00","outageWorkStatus":"","streetsAffected":["BEDFORD ST","S RIPLEY ST","W Campbell St"],"verified":false},"type":"Feature"}
 ]}

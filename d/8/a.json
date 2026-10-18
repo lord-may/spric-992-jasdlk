@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.260666,41.727838],"type":"Point"},"properties":{"CreateDatetime":"10-18  02:54 AM","District":"236C","Downstream":1,"ETA":"","ETR":"10-18  07:15 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005633451","Latitude":41.727838,"LocationCause":"","Longitude":-93.260666,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.260666,41.727838],"type":"Point"},"properties":{"CreateDatetime":"10-18  02:54 AM","District":"236C","Downstream":1,"ETA":"","ETR":"10-18  07:15 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005633451","Latitude":41.727838,"LocationCause":"","Longitude":-93.260666,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":""},"type":"Feature"}
 ]}

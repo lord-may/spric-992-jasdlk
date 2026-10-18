@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.547821,44.906741],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T02:53:13.033-04:00","outageName":"","outagePoint":{"lat":44.90674124735286,"lng":-83.54782086162497},"outageRecID":"2026-10-18-0055","outageStartTime":"2026-10-18T02:45:00-04:00","outageWorkStatus":"","streetsAffected":["INDIAN RES RD"],"verified":false},"type":"Feature"}
 ]}

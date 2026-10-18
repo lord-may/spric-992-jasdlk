@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.005139,40.866929],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":40.86692918,"location":"AURORA","locationType":1,"lon":-98.00513889,"zipCode":"68818"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"10/18/2026 6:25:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":null,"OutageAttribute3":null,"OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002313-1","lat":40.86692918,"location":"AURORA","locationType":1,"lon":-98.00513889,"name":null,"notes":"Utility","outageType":2,"restorationTime":"18:25","serviceType":1,"startTime":"10/18/2026 15:48:00","status":1,"zipCode":"68818"},"type":"Feature"}
 ]}

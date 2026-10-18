@@ -22,8 +22,9 @@
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.043017,39.945335],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/18/2026 12:00 PM","INCIDENTID":"1817588","IND":"D","LAT":"39.94533547","LNG":"-84.0430169932479","OutageTime":"10/18/2026 08:30 AM","TOTALCUSTS":"2"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.027961,39.801312],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/18/2026 11:00 AM","INCIDENTID":"1817589","IND":"D","LAT":"39.80131187","LNG":"-84.0279606019056","OutageTime":"10/18/2026 08:40 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"County":"WARREN","TotOut":"19"},"type":"Feature"},
+{"geometry":null,"properties":{"TotalOut":"22","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.042142,39.945994],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/18/2026 12:00 PM","INCIDENTID":"1817588","IND":"D","LAT":"39.94599407","LNG":"-84.0421418582391","OutageTime":"10/18/2026 08:30 AM","TOTALCUSTS":"2"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.027087,39.80197],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/18/2026 11:00 AM","INCIDENTID":"1817589","IND":"D","LAT":"39.80197047","LNG":"-84.0270874446487","OutageTime":"10/18/2026 08:40 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.186444,39.584491],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"10/18/2026 12:00 PM","INCIDENTID":"1817592","IND":"D","LAT":"39.58449105","LNG":"-84.1864443513625","OutageTime":"10/18/2026 09:06 AM","TOTALCUSTS":"19"},"type":"Feature"}
 ]}

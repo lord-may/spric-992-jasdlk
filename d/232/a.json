@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.371607,40.714937],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":40.7149366,"location":"ELM CREEK","locationType":1,"lon":-99.37160703,"zipCode":"68836"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"10/18/2026 5:45:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":null,"OutageAttribute3":null,"OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002312-1","lat":40.7149366,"location":"ELM CREEK","locationType":1,"lon":-99.37160703,"name":null,"notes":"Utility","outageType":2,"restorationTime":"17:45","serviceType":1,"startTime":"10/18/2026 15:10:00","status":1,"zipCode":"68836"},"type":"Feature"}
 ]}

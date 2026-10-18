@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.986577,42.535516],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":42.5355159,"location":"ATKINSON","locationType":1,"lon":-98.98657691,"zipCode":"68713"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"10/18/2026 4:15:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"10-18-2026 13:41","OutageAttribute3":"10-18-2026 16:15","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002311-1","lat":42.5355159,"location":"ATKINSON","locationType":1,"lon":-98.98657691,"name":null,"notes":"Utility","outageType":2,"restorationTime":"16:15","serviceType":1,"startTime":"10/18/2026 13:41:00","status":1,"zipCode":"68713"},"type":"Feature"}
+
 ]}

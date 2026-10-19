@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"34"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"31"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,7 +23,6 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"34","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.316967,39.910664],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 06:00 PM","INCIDENTID":"1817776","IND":"D","LAT":"39.91066367","LNG":"-84.3169673828391","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.318886,39.910584],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 06:00 PM","INCIDENTID":"1817777","IND":"D","LAT":"39.91058431","LNG":"-84.3188859931546","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"31"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"31","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.320564,39.909321],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 06:00 PM","INCIDENTID":"1817777","IND":"D","LAT":"39.90932051","LNG":"-84.3205643214567","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"31"},"type":"Feature"}
 ]}

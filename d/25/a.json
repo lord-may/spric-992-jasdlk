@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.937952,44.629626],"type":"Point"},"properties":{"comment":"Minnesota Valley Electric is working in your area today. You are experiencing an outage due to the work they are doing. Thank you for your patience!","crewAssigned":true,"estimateTime":1792430771000,"id":"283254","nbrOut":1,"planned":true,"timeOff":1792422731000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.644787,44.845867],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792440280989,"id":"283255","nbrOut":1,"planned":false,"timeOff":1792432957473},"type":"Feature"},
-{"geometry":{"coordinates":[-93.643907,44.847103],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792440378790,"id":"283256","nbrOut":1,"planned":false,"timeOff":1792433174135},"type":"Feature"}
+{"geometry":{"coordinates":[-93.649916,44.845415],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792441205609,"id":"283259","nbrOut":1,"planned":false,"timeOff":1792434005580},"type":"Feature"},
+{"geometry":{"coordinates":[-93.644095,44.847759],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792441286313,"id":"283260","nbrOut":1,"planned":false,"timeOff":1792434070021},"type":"Feature"}
 ]}

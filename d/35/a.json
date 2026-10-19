@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.809098,46.660839],"type":"Point"},"properties":{"comment":"Planned outage for tree trimming.  Approximate duration: 1 hour","crewAssigned":false,"id":"232328","nbrOut":2,"planned":true,"timeOff":1792419351000},"type":"Feature"}
+{"geometry":{"coordinates":[-95.809098,46.660839],"type":"Point"},"properties":{"comment":"Planned outage for tree trimming.  Approximate duration: 1 hour","crewAssigned":false,"id":"232328","nbrOut":2,"planned":true,"timeOff":1792419351000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-96.239104,46.742904],[-96.228494,46.744942],[-96.22677,46.748697],[-96.236436,46.753171],[-96.240801,46.74456],[-96.239104,46.742904]]],"type":"Polygon"},{"coordinates":[-96.234136,46.74749],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"232329","nbrOut":11,"planned":true,"timeOff":1792420983905},"type":"Feature"},
+{"geometry":{"coordinates":[-96.235627,46.744843],"type":"Point"},"properties":{"crewAssigned":false,"id":"232330","nbrOut":1,"planned":true,"timeOff":1792421016419},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-95.988545,46.737302],[-95.988285,46.739204],[-95.988914,46.739211],[-95.988545,46.737302]]],"type":"Polygon"},{"coordinates":[-95.988581,46.738576],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"232331","nbrOut":4,"planned":true,"timeOff":1792421265898},"type":"Feature"},
+{"geometry":{"coordinates":[-96.238151,46.743981],"type":"Point"},"properties":{"crewAssigned":false,"id":"232332","nbrOut":1,"planned":true,"timeOff":1792421277287},"type":"Feature"}
 ]}

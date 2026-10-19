@@ -1,9 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.753741,45.824019],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792412496000,"ETR":1792423800000,"LOCATION":"Grey Eagle","ORDERID":"JE.2610.001924","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.753741,45.824019],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792412496000,"ETR":1792423800000,"LOCATION":"Grey Eagle","ORDERID":"JE.2610.001924","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.004586,46.839579],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792416009000,"ETR":1792423800000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2610.001927","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.62268,47.257457],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417098000,"ETR":1792428300000,"LOCATION":"Cohasset","ORDERID":"JE.2610.001935","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.16066,47.530867],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417287000,"ETR":1792428300000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001936","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.298998,46.507067],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":9,"DATEOFF":1792418370000,"ETR":1792430100000,"LOCATION":"Nisswa","ORDERID":"JE.2610.001938","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.298998,46.507067],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":9,"DATEOFF":1792418370000,"ETR":1792430100000,"LOCATION":"Nisswa","ORDERID":"JE.2610.001938","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.154153,46.877617],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792419738000,"ETR":1792427400000,"LOCATION":"Rice Lake","ORDERID":"JE.2610.001941","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-91.710521,47.896817],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":29,"DATEOFF":1792420135000,"ETR":1792431900000,"LOCATION":"Fall Lake Township","ORDERID":"JE.2610.001944","STATUS":"Assigned"},"type":"Feature"}
 ]}

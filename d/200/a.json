@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.945274,37.713509],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-19T12:15:37.417-05:00","outageName":"4C SYS MAINT- PRUG4056","outagePoint":{"lat":37.71350877699287,"lng":-88.94527437961305},"outageRecID":"2026-10-19-0206","outageStartTime":"2026-10-19T12:14:32-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

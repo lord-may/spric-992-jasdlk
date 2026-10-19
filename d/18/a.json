@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.62268,47.257457],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417098000,"ETR":1792435500000,"LOCATION":"Cohasset","ORDERID":"JE.2610.001935","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.16066,47.530867],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417287000,"ETR":1792435500000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001936","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.092863,46.880582],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792425265000,"ETR":1792440000000,"LOCATION":"Rice Lake","ORDERID":"JE.2610.001965","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.16066,47.530867],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417287000,"ETR":1792435500000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001936","STATUS":"Assigned"},"type":"Feature"}
 ]}

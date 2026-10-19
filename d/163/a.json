@@ -1,11 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.106076,44.740094],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792456200000,"id":"1978390","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.637757,44.896435],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792450800000,"id":"1978395","nbrOut":12,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.817573,45.492628],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792451700000,"id":"1978399","nbrOut":5,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.005087,44.815243],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792459800000,"id":"1978403","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.966302,42.891746],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792460700000,"id":"1978407","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.345629,45.034497],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792460700000,"id":"1978409","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.470585,44.0885],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792465200000,"id":"1978411","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.659087,44.191215],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792466100000,"id":"1978412","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-86.418029,43.50843],"type":"Point"},"properties":{"crewAssigned":false,"id":"1978414","nbrOut":2,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-86.418029,43.50843],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792460700000,"id":"1978414","nbrOut":2,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.418366,44.024],"type":"Point"},"properties":{"crewAssigned":false,"id":"1978415","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

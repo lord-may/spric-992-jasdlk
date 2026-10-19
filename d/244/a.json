@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-97.543946,42.033032],"type":"Point"},"properties":{"coordinates":[-97.543946,42.033032],"group":"Maintenance - BC"},"type":"Feature"},
 {"geometry":{"coordinates":[-97.67591,42.129256],"type":"Point"},"properties":{"coordinates":[-97.6759102,42.1292561],"group":"Maintenance - BC"},"type":"Feature"},
-{"geometry":{"coordinates":[-98.165367,42.235519],"type":"Point"},"properties":{"coordinates":[-98.165367,42.235519],"group":"Maintenance - Neligh"},"type":"Feature"}
+{"geometry":{"coordinates":[-98.165367,42.235519],"type":"Point"},"properties":{"coordinates":[-98.165367,42.235519],"group":"Maintenance - Neligh"},"type":"Feature"},
+{"geometry":{"coordinates":[-97.535538,42.089341],"type":"Point"},"properties":{"coordinates":[-97.535538,42.089341],"group":"Standard"},"type":"Feature"},
+{"geometry":{"coordinates":[-98.29547,41.974793],"type":"Point"},"properties":{"coordinates":[-98.29547,41.974793],"group":"Standard"},"type":"Feature"},
+{"geometry":{"coordinates":[-98.301189,41.965918],"type":"Point"},"properties":{"coordinates":[-98.301189,41.965918],"group":"Standard"},"type":"Feature"}
 ]}

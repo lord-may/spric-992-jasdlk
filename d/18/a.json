@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.16066,47.530867],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417287000,"ETR":1792435500000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001936","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.16066,47.530867],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792417287000,"ETR":1792435500000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2610.001936","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.009222,46.902417],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1792449673000,"ETR":1792458000000,"LOCATION":"Lakewood Township","ORDERID":"JE.2610.001988","STATUS":"Assigned"},"type":"Feature"}
 ]}

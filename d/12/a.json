@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"32","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.321415,39.90868],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 08:00 PM","INCIDENTID":"1817777","IND":"D","LAT":"39.90867971","LNG":"-84.3214153048212","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"31"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.357075,40.003559],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/19/2026 08:00 PM","INCIDENTID":"1817790","IND":"D","LAT":"40.00355914","LNG":"-84.3570748804409","OutageTime":"10/19/2026 05:29 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.322869,39.907585],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 08:00 PM","INCIDENTID":"1817777","IND":"D","LAT":"39.90758501","LNG":"-84.3228690680688","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"31"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.358531,40.002464],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/19/2026 08:00 PM","INCIDENTID":"1817790","IND":"D","LAT":"40.00246444","LNG":"-84.3585308185972","OutageTime":"10/19/2026 05:29 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

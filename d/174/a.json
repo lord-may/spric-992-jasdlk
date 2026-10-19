@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.606256,38.402556],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T09:30:44.993-04:00","outageName":"F2-4E2-1","outagePoint":{"lat":38.40255639532582,"lng":-87.6062558230565},"outageRecID":"2026-10-19-0190","outageStartTime":"2026-10-19T09:22:48-04:00","outageWorkStatus":"","streetsAffected":["N 150 W","W 350 N"],"verified":false},"type":"Feature"}
 ]}

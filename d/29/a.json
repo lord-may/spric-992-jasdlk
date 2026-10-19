@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-89.719949,44.202879],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE MONDAY, OCT. 19TH 8-10AM.","crewAssigned":false,"estimateTime":1792422000000,"id":"335970","nbrOut":5,"planned":false,"timeOff":1792414800000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.158187,44.153993],"type":"Point"},"properties":{"comment":"Eta 830","crewAssigned":true,"id":"336069","nbrOut":4,"planned":false,"timeOff":1792413380000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.80316,44.208442],"type":"Point"},"properties":{"crewAssigned":true,"id":"336070","nbrOut":1,"planned":false,"timeOff":1792415233000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.055564,44.144937],"type":"Point"},"properties":{"crewAssigned":true,"id":"336071","nbrOut":1,"planned":false,"timeOff":1792415322818},"type":"Feature"}
+{"geometry":{"coordinates":[-89.055564,44.144937],"type":"Point"},"properties":{"crewAssigned":true,"id":"336071","nbrOut":1,"planned":false,"timeOff":1792415322818},"type":"Feature"},
+{"geometry":{"coordinates":[-89.222345,43.870548],"type":"Point"},"properties":{"crewAssigned":true,"id":"336072","nbrOut":1,"planned":false,"timeOff":1792416172136},"type":"Feature"}
 ]}

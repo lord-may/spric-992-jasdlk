@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.806921,46.82721],"type":"Point"},"properties":{"cause":"111 Maintenance - Underground","code":"111","crewAssigned":false,"customersOutInitially":15,"customersOutNow":9,"customersRestored":6,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T09:03:18.5-05:00","outageName":"2026-10-19-0122","outagePoint":{"lat":46.8272098221383,"lng":-96.80692091005497},"outageRecID":"2026-10-19-0122","outageStartTime":"2026-10-19T09:01:22-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

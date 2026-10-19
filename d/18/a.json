@@ -10,5 +10,7 @@
 {"geometry":{"coordinates":[-94.316483,46.506657],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":23,"DATEOFF":1792423168000,"ETR":1792434600000,"LOCATION":"Nisswa","ORDERID":"JE.2610.001957","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.795378,47.342578],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792424009000,"ETR":1792435500000,"LOCATION":"Deer River Township","ORDERID":"JE.2610.001963","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.867803,47.438873],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792424045000,"ETR":1792435500000,"LOCATION":"Hibbing","ORDERID":"JE.2610.001964","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.092863,46.880582],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792425265000,"ETR":1792432800000,"LOCATION":"Rice Lake","ORDERID":"JE.2610.001965","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.092863,46.880582],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792425265000,"ETR":1792432800000,"LOCATION":"Rice Lake","ORDERID":"JE.2610.001965","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.378132,46.381557],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792426800000,"ETR":1792438200000,"LOCATION":"East Gull Lake","ORDERID":"JE.2610.001968","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.199504,46.811682],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792426680000,"ETR":1792434600000,"LOCATION":"Hermantown","ORDERID":"JE.2610.001969","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.331194,41.212395],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":59,"customersOutNow":59,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T07:04:57.697-04:00","outageName":"MA006-001-REC-1824","outagePoint":{"lat":41.212395365158315,"lng":-85.33119436635833},"outageRecID":"2026-10-19-0166","outageStartTime":"2026-10-19T07:04:12-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.140114,38.636493],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":16,"customersOutNow":16,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T09:17:48.097-04:00","outageName":"F-MB   29E 158-E","outagePoint":{"lat":38.63649340176413,"lng":-86.14011360752819},"outageRecID":"2026-10-19-0083","outageStartTime":"2026-10-19T09:16:40-04:00","outageWorkStatus":"","streetsAffected":["N EUNICE DR","N RUSH CREEK RD","W NUBIAN RD","W VANCE DR"],"verified":false},"type":"Feature"}
 ]}

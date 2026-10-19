@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[-95.550078,46.71025],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Planned outage for a line revision project.  Approximate duration: 30 min","crewAssigned":false,"id":"232334","nbrOut":3,"planned":true,"timeOff":1792432336971},"type":"Feature"},
 {"geometry":{"coordinates":[-95.600842,46.307252],"type":"Point"},"properties":{"crewAssigned":true,"id":"232335","nbrOut":1,"planned":false,"timeOff":1792433856070},"type":"Feature"}
 ]}

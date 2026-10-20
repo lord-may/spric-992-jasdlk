@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.511248,43.99277],"type":"Point"},"properties":{"CREW_NAME":"Trk 555 (Floeter)","CUSTOMER_COUNT":8,"ID":91589,"INCIDENT_ID":"91589","TIME_OUTAGE":1792501751000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
-{"geometry":{"coordinates":[-92.449365,44.044462],"type":"Point"},"properties":{"CREW_NAME":"Trk 1 Night Crew","CUSTOMER_COUNT":133,"ID":91592,"INCIDENT_ID":"91592","TIME_OUTAGE":1792504670000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+{"geometry":{"coordinates":[-92.511248,43.99277],"type":"Point"},"properties":{"CREW_NAME":"Trk 555 (Floeter)","CUSTOMER_COUNT":8,"ID":91589,"INCIDENT_ID":"91589","TIME_OUTAGE":1792501751143,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
 ]}

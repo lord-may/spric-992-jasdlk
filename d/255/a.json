@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.09519,45.232847],"type":"Point"},"properties":{"CREW_STATU":"Crew Responding","CRITICAL_C":0,"CUSTOMER_C":1,"CUSTOMER_RESTO":0,"DEVICE_FCI":null,"DEVICE_OID":null,"FID":5,"INCIDENT_I":null,"TIME_OUTAG":"October 20 2026 2:00 PM","TIME_RESTO":null,"X":-93.09518971947006,"Y":45.23284708725338},"type":"Feature"},
+{"geometry":{"coordinates":[-93.09519,45.232847],"type":"Point"},"properties":{"CREW_STATU":"Crew Arrived","CRITICAL_C":0,"CUSTOMER_C":1,"CUSTOMER_RESTO":0,"DEVICE_FCI":null,"DEVICE_OID":null,"FID":5,"INCIDENT_I":null,"TIME_OUTAG":"October 20 2026 2:00 PM","TIME_RESTO":null,"X":-93.09518971947006,"Y":45.23284708725338},"type":"Feature"},
 {"geometry":{"coordinates":[-93.241984,45.191514],"type":"Point"},"properties":{"CREW_STATU":"Outage","CRITICAL_C":0,"CUSTOMER_C":1,"CUSTOMER_RESTO":0,"DEVICE_FCI":null,"DEVICE_OID":null,"FID":2,"INCIDENT_I":null,"TIME_OUTAG":"October 20 2026 1:00 PM","TIME_RESTO":null,"X":-93.24198410308823,"Y":45.1915137697479},"type":"Feature"}
 ]}

@@ -24,8 +24,8 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"7","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.185351,39.77727],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/20/2026 03:00 PM","INCIDENTID":"1817841","IND":"D","LAT":"39.77727005","LNG":"-84.1853514015966","OutageTime":"10/20/2026 09:05 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.864524,39.586948],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/20/2026 03:00 PM","INCIDENTID":"1817946","IND":"D","LAT":"39.5869475","LNG":"-83.8645242067134","OutageTime":"10/20/2026 12:46 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.404153,39.566051],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/20/2026 04:00 PM","INCIDENTID":"1817957","IND":"D","LAT":"39.56605075","LNG":"-83.4041528591062","OutageTime":"10/20/2026 01:23 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.009574,39.825482],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/20/2026 04:00 PM","INCIDENTID":"1817963","IND":"D","LAT":"39.82548198","LNG":"-84.009573699088","OutageTime":"10/20/2026 02:09 PM","TOTALCUSTS":"4"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.180928,39.780608],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/20/2026 03:00 PM","INCIDENTID":"1817841","IND":"D","LAT":"39.78060755","LNG":"-84.1809282266204","OutageTime":"10/20/2026 09:05 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.860114,39.590285],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/20/2026 03:00 PM","INCIDENTID":"1817946","IND":"D","LAT":"39.590285","LNG":"-83.860114145542","OutageTime":"10/20/2026 12:46 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.399744,39.569388],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"10/20/2026 04:00 PM","INCIDENTID":"1817957","IND":"D","LAT":"39.56938825","LNG":"-83.3997442299002","OutageTime":"10/20/2026 01:23 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.005147,39.828819],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/20/2026 04:00 PM","INCIDENTID":"1817963","IND":"D","LAT":"39.82881948","LNG":"-84.0051471815136","OutageTime":"10/20/2026 02:09 PM","TOTALCUSTS":"4"},"type":"Feature"}
 ]}

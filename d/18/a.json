@@ -1,7 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.546607,46.798384],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792481149000,"ETR":1792495800000,"LOCATION":"Brevator Township","ORDERID":"JE.2610.001991","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.08095,46.017294],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792502130000,"ETR":1792513800000,"LOCATION":"Buh Township","ORDERID":"JE.2610.001995","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.08095,46.017294],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792502130000,"ETR":1792513800000,"LOCATION":"Buh Township","ORDERID":"JE.2610.001995","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.877432,47.439584],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792502547000,"ETR":1792513800000,"LOCATION":"Hibbing","ORDERID":"JE.2610.001996","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.169838,46.744753],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":18,"DATEOFF":1792503404000,"ETR":1792511100000,"LOCATION":"Duluth - Cody","ORDERID":"JE.2610.001999","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.958167,45.966181],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792503493000,"ETR":1792514700000,"LOCATION":"Reynolds Township","ORDERID":"JE.2610.002000","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.958167,45.966181],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792503493000,"ETR":1792514700000,"LOCATION":"Reynolds Township","ORDERID":"JE.2610.002000","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.324206,46.856413],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792504152000,"ETR":1792512000000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2610.002001","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.554178,47.063412],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792504920000,"ETR":1792516500000,"LOCATION":"Shingobee Township","ORDERID":"JE.2610.002004","STATUS":"Assigned"},"type":"Feature"}
 ]}

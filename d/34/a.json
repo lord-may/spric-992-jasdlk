@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-100.687453,38.009706],"type":"Point"},"properties":{"cause":"120 Planned Restoration Work","crewAssigned":true,"id":"449441","nbrOut":2,"planned":true,"timeOff":1792190318000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.751463,38.468112],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"449564","nbrOut":1,"planned":false,"timeOff":1792505100000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.377188,38.090059],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449570","nbrOut":2,"planned":true,"timeOff":1792507012000},"type":"Feature"},
-{"geometry":{"coordinates":[-100.966425,38.192292],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":false,"id":"449578","nbrOut":1,"planned":false,"timeOff":1792525211000},"type":"Feature"}
+{"geometry":{"coordinates":[-100.966425,38.192292],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":true,"id":"449578","nbrOut":1,"planned":false,"timeOff":1792525211000},"type":"Feature"}
 ]}

@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"County":"AUGLAIZE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"AUGLAIZE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
@@ -23,7 +23,8 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"160","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.182674,39.77929],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/20/2026 05:00 PM","INCIDENTID":"1817841","IND":"D","LAT":"39.77929035","LNG":"-84.1826739063443","OutageTime":"10/20/2026 09:05 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.604709,39.754877],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/20/2026 05:00 PM","INCIDENTID":"1817977","IND":"D","LAT":"39.7548774","LNG":"-84.6047086385297","OutageTime":"10/20/2026 02:45 PM","TOTALCUSTS":"159"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"161","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.183759,39.778472],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/20/2026 05:00 PM","INCIDENTID":"1817841","IND":"D","LAT":"39.77847155","LNG":"-84.1837590586052","OutageTime":"10/20/2026 09:05 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.605793,39.754059],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/20/2026 05:00 PM","INCIDENTID":"1817977","IND":"D","LAT":"39.7540586","LNG":"-84.6057933763272","OutageTime":"10/20/2026 02:45 PM","TOTALCUSTS":"159"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.283934,40.491659],"type":"Point"},"properties":{"COUNTY":"AUGLAIZE","EstimateTime":"10/20/2026 05:00 PM","INCIDENTID":"1817985","IND":"D","LAT":"40.49165858","LNG":"-84.2839343730789","OutageTime":"10/20/2026 03:32 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

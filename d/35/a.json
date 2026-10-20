@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.239104,46.742904],[-96.228494,46.744942],[-96.22677,46.748697],[-96.236436,46.753171],[-96.240801,46.74456],[-96.239104,46.742904]]],"type":"Polygon"},{"coordinates":[-96.234136,46.74749],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Planned outage due to a structure move.  Approximate duration: 1 HOUR","crewAssigned":false,"id":"232344","nbrOut":11,"planned":true,"timeOff":1792524701284},"type":"Feature"},
-{"geometry":{"coordinates":[-96.238151,46.743981],"type":"Point"},"properties":{"comment":"Planned outage due to a structure move.  Approximate duration: 1 HOUR","crewAssigned":false,"id":"232345","nbrOut":1,"planned":true,"timeOff":1792524757189},"type":"Feature"},
-{"geometry":{"coordinates":[-96.235627,46.744843],"type":"Point"},"properties":{"comment":"Planned outage due to a structure move.  Approximate duration: 1 HOUR","crewAssigned":false,"id":"232346","nbrOut":1,"planned":true,"timeOff":1792524861259},"type":"Feature"}
+
 ]}

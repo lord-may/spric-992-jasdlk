@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.765587,40.464859],"type":"Point"},"properties":{"cause":"Transmission outage","crewAssigned":false,"estimateTime":1792525500000,"id":"475188","nbrOut":697,"planned":false,"timeOff":1792513824000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.729673,40.377191],"type":"Point"},"properties":{"cause":"Transmission outage","crewAssigned":false,"estimateTime":1792525500000,"id":"475221","nbrOut":416,"planned":false,"timeOff":1792513824000},"type":"Feature"}
 ]}

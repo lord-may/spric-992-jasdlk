@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.546607,46.798384],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792481149000,"ETR":1792495800000,"LOCATION":"Brevator Township","ORDERID":"JE.2610.001991","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.464163,46.725931],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792502038000,"ETR":1792510200000,"LOCATION":"Cloquet","ORDERID":"JE.2610.001994","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.08095,46.017294],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792502130000,"ETR":1792513800000,"LOCATION":"Buh Township","ORDERID":"JE.2610.001995","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.08095,46.017294],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792502130000,"ETR":1792513800000,"LOCATION":"Buh Township","ORDERID":"JE.2610.001995","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.877432,47.439584],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792502547000,"ETR":1792513800000,"LOCATION":"Hibbing","ORDERID":"JE.2610.001996","STATUS":"Assigned"},"type":"Feature"}
 ]}

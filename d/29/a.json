@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-89.93461,43.918044],"type":"Point"},"properties":{"crewAssigned":true,"id":"336118","nbrOut":1,"planned":false,"timeOff":1792501256000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.525131,44.155714],"type":"Point"},"properties":{"crewAssigned":false,"id":"336122","nbrOut":1,"planned":false,"timeOff":1792502540366},"type":"Feature"},
 {"geometry":{"coordinates":[-89.049437,43.314493],"type":"Point"},"properties":{"comment":"Emergency disconnect for Electrician to make repairs to pole top disconnect","crewAssigned":true,"id":"336123","nbrOut":1,"planned":false,"timeOff":1792502768000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.219515,43.894789],"type":"Point"},"properties":{"crewAssigned":true,"id":"336124","nbrOut":1,"planned":false,"timeOff":1792504950733},"type":"Feature"}
+{"geometry":{"coordinates":[-89.219515,43.894789],"type":"Point"},"properties":{"crewAssigned":true,"id":"336124","nbrOut":1,"planned":false,"timeOff":1792504950733},"type":"Feature"},
+{"geometry":{"coordinates":[-89.76967,44.21246],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792506900000,"id":"336125","nbrOut":1,"planned":false,"timeOff":1792505581000},"type":"Feature"}
 ]}

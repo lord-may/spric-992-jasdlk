@@ -7,5 +7,7 @@
 {"geometry":{"coordinates":[-93.791769,47.343318],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1792508322000,"ETR":1792520100000,"LOCATION":"Deer River Township","ORDERID":"JE.2610.002014","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-95.031996,46.158296],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792508608000,"ETR":1792520100000,"LOCATION":"Eagle Bend","ORDERID":"JE.2610.002017","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.312386,46.721129],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792508853000,"ETR":1792516500000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002018","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.332146,46.858698],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1792509090000,"ETR":1792516500000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2610.002024","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.332146,46.858698],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1792509090000,"ETR":1792516500000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2610.002024","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.741539,47.007924],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792509354000,"ETR":1792517400000,"LOCATION":"Ness Township","ORDERID":"JE.2610.002029","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.367232,46.707216],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792509381000,"ETR":1792517400000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002030","STATUS":"Assigned"},"type":"Feature"}
 ]}

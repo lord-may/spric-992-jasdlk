@@ -10,7 +10,7 @@
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
@@ -23,9 +23,8 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"34","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.321096,39.90892],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 10:00 PM","INCIDENTID":"1817777","IND":"D","LAT":"39.90892001","LNG":"-84.3210961860595","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"31"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.356755,40.003799],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/19/2026 09:00 PM","INCIDENTID":"1817790","IND":"D","LAT":"40.00379944","LNG":"-84.3567552842603","OutageTime":"10/19/2026 05:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.367718,39.361907],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"10/19/2026 10:00 PM","INCIDENTID":"1817794","IND":"D","LAT":"39.36190694","LNG":"-83.3677182854992","OutageTime":"10/19/2026 07:23 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.228869,40.204991],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/19/2026 10:00 PM","INCIDENTID":"1817796","IND":"D","LAT":"40.204991","LNG":"-84.228869129503","OutageTime":"10/19/2026 07:52 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"33","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.318661,39.910753],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/19/2026 10:00 PM","INCIDENTID":"1817777","IND":"D","LAT":"39.91075341","LNG":"-84.3186614281001","OutageTime":"10/19/2026 03:53 PM","TOTALCUSTS":"31"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.354317,40.005633],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/19/2026 09:00 PM","INCIDENTID":"1817790","IND":"D","LAT":"40.00563284","LNG":"-84.3543168837709","OutageTime":"10/19/2026 05:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.226423,40.206824],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/19/2026 10:00 PM","INCIDENTID":"1817796","IND":"D","LAT":"40.2068244","LNG":"-84.2264229451984","OutageTime":"10/19/2026 07:52 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

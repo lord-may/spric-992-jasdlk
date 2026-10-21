@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.615057,41.723179],"type":"Point"},"properties":{"CreateDatetime":"10-21  07:07 AM","District":"236A","Downstream":2,"ETA":"","ETR":"10-21  09:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005634086","Latitude":41.723179,"LocationCause":"","Longitude":-93.615057,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"},
 {"geometry":{"coordinates":[-90.349501,41.634918],"type":"Point"},"properties":{"CreateDatetime":"10-21  07:23 AM","District":"558C","Downstream":1,"ETA":"","ETR":"10-21  09:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005634088","Latitude":41.634918,"LocationCause":"","Longitude":-90.349501,"MAJ_OTG_ID":"0","METRO_AREA":"Quad Cities Ia","StatusCd":"EN ROUTE"},"type":"Feature"}
 ]}

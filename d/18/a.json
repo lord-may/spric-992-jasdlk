@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.133037,46.016114],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792584889000,"ETR":1792596600000,"LOCATION":"Buh Township","ORDERID":"JE.2610.002062","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.554728,47.00062],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1792586541000,"ETR":1792597500000,"LOCATION":"Shingobee Township","ORDERID":"JE.2610.002063","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.133037,46.016114],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792584889000,"ETR":1792596600000,"LOCATION":"Buh Township","ORDERID":"JE.2610.002062","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.554728,47.00062],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1792586541000,"ETR":1792597500000,"LOCATION":"Shingobee Township","ORDERID":"JE.2610.002063","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.274709,46.801518],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1792587686000,"ETR":1792595700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002064","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.210248,46.778572],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1792587796000,"ETR":1792595700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002067","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.792239,47.342798],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":28,"DATEOFF":1792595575000,"ETR":1792607400000,"LOCATION":"Deer River Township","ORDERID":"JE.2610.002084","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.367566,46.706529],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792596079000,"ETR":1792607400000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002085","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.029006,46.837638],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792596620000,"ETR":1792608300000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2610.002086","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.792239,47.342798],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":28,"DATEOFF":1792595575000,"ETR":1792611000000,"LOCATION":"Deer River Township","ORDERID":"JE.2610.002084","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.367566,46.706529],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792596079000,"ETR":1792611000000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002085","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.951586,46.014952],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792602300000,"ETR":1792610100000,"LOCATION":"Hinckley","ORDERID":"JE.2610.002105","STATUS":"Assigned"},"type":"Feature"}
 ]}

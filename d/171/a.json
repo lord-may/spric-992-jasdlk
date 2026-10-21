@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.67583,39.042453],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T22:32:54.303-04:00","outageName":"G1   39S   5","outagePoint":{"lat":39.042453145323464,"lng":-85.67583006948024},"outageRecID":"2026-10-20-0086","outageStartTime":"2026-10-20T22:32:50-04:00","outageWorkStatus":"","streetsAffected":["CLIFFSHIRE LN","WHITTINGTON DR"],"verified":false},"type":"Feature"}
 ]}

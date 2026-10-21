@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-87.081803,40.878215],"type":"Point"},"properties":{"cause":"Motor vehicle - car, truck, tractor, aircaft","crewAssigned":false,"id":"350686","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-87.114762,41.245658],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"id":"350752","nbrOut":1,"planned":true},"type":"Feature"}
+{"geometry":{"coordinates":[-87.114762,41.245658],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"id":"350752","nbrOut":1,"planned":true},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-87.046005,41.15483],[-86.930006,41.173496],[-86.910863,41.178817],[-86.904826,41.184956],[-86.905177,41.192439],[-86.930536,41.219629],[-86.940049,41.224352],[-87.10524,41.226169],[-87.110487,41.186727],[-87.046005,41.15483]]],"type":"Polygon"},{"coordinates":[-87.012462,41.194995],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Default Cause ","crewAssigned":false,"id":"350775","nbrOut":636,"planned":false},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-86.949392,41.132574],[-86.979719,41.17977],[-87.010297,41.18238],[-87.035603,41.157752],[-87.004557,41.140138],[-86.988208,41.135713],[-86.949392,41.132574]]],"type":"Polygon"},{"coordinates":[-86.992619,41.156981],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Default Cause ","crewAssigned":false,"id":"350779","nbrOut":228,"planned":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.070652,40.348126],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T08:37:48.887-04:00","outageName":"RS1-125-33  Zebb TD","outagePoint":{"lat":40.348125509646316,"lng":-87.07065152263725},"outageRecID":"2026-10-21-0123","outageStartTime":"2026-10-21T08:36:40-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

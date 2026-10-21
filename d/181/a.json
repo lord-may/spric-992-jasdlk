@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-90.165531,40.98613],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719522","nbrOut":1,"planned":false,"timeOff":1792415668000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-89.838257,41.389785],[-89.833837,41.392184],[-89.833379,41.394442],[-89.834403,41.403033],[-89.844644,41.396774],[-89.838257,41.389785]]],"type":"Polygon"},{"coordinates":[-89.837844,41.396079],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"CONSTRUCTION                  ","id":"719541","nbrOut":6,"planned":true,"timeOff":1792591204000},"type":"Feature"},
 {"geometry":{"coordinates":[-88.904189,40.458222],"type":"Point"},"properties":{"cause":"CONSTRUCTION                  ","id":"719542","nbrOut":1,"planned":false,"timeOff":1792586683000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.427017,40.523124],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719543","nbrOut":1,"planned":false,"timeOff":1792587409000},"type":"Feature"},
 {"geometry":{"coordinates":[-88.994173,40.385738],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719547","nbrOut":2,"planned":false,"timeOff":1792588355000},"type":"Feature"}

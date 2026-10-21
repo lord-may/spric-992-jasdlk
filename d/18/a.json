@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-95.085152,46.326125],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792606140000,"ETR":1792618200000,"LOCATION":"Hewitt","ORDERID":"JE.2610.002113","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.100959,46.673716],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792611889000,"ETR":1792623600000,"LOCATION":"Superior","ORDERID":"JE.2610.002128","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.538695,46.941721],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1792612495000,"ETR":1792623600000,"LOCATION":"Hiram Township","ORDERID":"JE.2610.002129","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.387795,45.964053],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1792612716000,"ETR":1792624500000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002130","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.387795,45.964053],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1792612716000,"ETR":1792624500000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002130","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.912282,47.569021],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792613379000,"ETR":1792624500000,"LOCATION":"Balkan Township","ORDERID":"JE.2610.002132","STATUS":"Assigned"},"type":"Feature"}
 ]}

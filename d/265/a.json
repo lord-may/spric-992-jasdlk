@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-100.13,41.37],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-100.13,41.39],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-100.15,41.37],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-100.57,41.97],"type":"Point"},"properties":{"affected":5,"status":"outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-100.59,41.97],"type":"Point"},"properties":{"affected":4,"status":"outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-99.53,41.83],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"}
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.274709,46.801518],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1792587686000,"ETR":1792595700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002064","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.210248,46.778572],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1792587796000,"ETR":1792595700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002067","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.922151,45.858423],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792589711000,"ETR":1792601100000,"LOCATION":"Little Sauk Township","ORDERID":"JE.2610.002069","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.95168,46.01606],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":38,"DATEOFF":1792589928000,"ETR":1792597500000,"LOCATION":"Hinckley","ORDERID":"JE.2610.002071","STATUS":"Assigned"},"type":"Feature"},

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.842219,41.716851],"type":"Point"},"properties":{"affected":1,"cause":"3rd-party","city":"BRISTOL","comment":"3rd-party","lat":41.716851,"lng":-85.842219,"maxAffected":1,"reported":"2026-10-20T08:59:00","restore":"2026-10-21T08:45:00Z","status":"","stormMode":false,"zip":"46507"},"type":"Feature"}
+{"geometry":{"coordinates":[-85.842219,41.716851],"type":"Point"},"properties":{"affected":1,"cause":"3rd-party","city":"BRISTOL","comment":"3rd-party","lat":41.716851,"lng":-85.842219,"maxAffected":1,"reported":"2026-10-20T08:59:00","restore":"2026-10-21T09:15:00Z","status":"","stormMode":false,"zip":"46507"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.951893,41.564521],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"WESTVILLE","comment":"Not Yet Determined","lat":41.564521,"lng":-86.951893,"maxAffected":1,"reported":"2026-10-21T06:38:00","restore":"0001-01-01T00:00:00","status":"Assessment in Progress","stormMode":false,"zip":"46391"},"type":"Feature"}
 ]}

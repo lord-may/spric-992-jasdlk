@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.343384,38.60912],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1792684800000,"id":"317547","nbrOut":18,"planned":false,"timeOff":1792677300000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.138065,38.736266],"type":"Point"},"properties":{"cause":"AMI Found/No Member Call","crewAssigned":true,"id":"317548","nbrOut":1,"planned":false,"timeOff":1792674628000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.343384,38.60912],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1792684800000,"id":"317547","nbrOut":18,"planned":false,"timeOff":1792677300000},"type":"Feature"}
 ]}

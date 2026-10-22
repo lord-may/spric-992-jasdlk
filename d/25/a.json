@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.65739,44.8153],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792681617720,"id":"283330","nbrOut":1,"planned":false,"timeOff":1792674300000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.65739,44.8153],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792681617720,"id":"283330","nbrOut":1,"planned":false,"timeOff":1792674300000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-93.504111,44.83486],[-93.502853,44.835236],[-93.503105,44.835211],[-93.503356,44.835134],[-93.503859,44.834981],[-93.504111,44.83486]]],"type":"Polygon"},{"coordinates":[-93.503464,44.835077],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Minnesota Valley Electric crews are upgrading the power transformer that serves you.  Power is expected to be out for less than an hour.  Crews will work as quickly and safely as possible to restore your service.  Thank you for your patience.","crewAssigned":true,"estimateTime":1792687304448,"id":"283333","nbrOut":6,"planned":true,"timeOff":1792680103436},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.005884,40.430223],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T08:36:52.783-04:00","outageName":"KL2-22/25-A4  Nick TD","outagePoint":{"lat":40.43022330423794,"lng":-87.00588431234152},"outageRecID":"2026-10-22-0132","outageStartTime":"2026-10-22T08:35:31-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

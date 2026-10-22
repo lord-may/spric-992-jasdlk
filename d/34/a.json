@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-100.988245,37.92757],"type":"Point"},"properties":{"cause":"410 Corrosion/abrasion of material/equipment","crewAssigned":true,"id":"449585","nbrOut":1,"planned":false,"timeOff":1792656366000},"type":"Feature"},
-{"geometry":{"coordinates":[-101.408683,38.079694],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":true,"id":"449586","nbrOut":1,"planned":false,"timeOff":1792693162000},"type":"Feature"}
+{"geometry":{"coordinates":[-101.408683,38.079694],"type":"Point"},"properties":{"cause":"710 Motor vehicle","crewAssigned":true,"id":"449586","nbrOut":1,"planned":false,"timeOff":1792693162000},"type":"Feature"},
+{"geometry":{"coordinates":[-101.053067,38.322747],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449587","nbrOut":1,"planned":false,"timeOff":1792695093710},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.304301,37.446151],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-22T09:02:37.147-05:00","outageName":"PROH30687","outagePoint":{"lat":37.44615134801564,"lng":-88.30430101717354},"outageRecID":"2026-10-22-0225","outageStartTime":"2026-10-22T09:00:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"","UMessage":""},"type":"Feature"},
+{"geometry":null,"properties":{"TotalOut":"3","UMTime":"","UMessage":""},"type":"Feature"},
 {"geometry":{"coordinates":[-86.112181,39.800888],"type":"Point"},"properties":{"CustAffected":"1","Etr":"10/22/2026 12:30 PM","IncidentId":"6ad9f32f273a20568e696dd5","Lat":"39.80088759888151","Long":"-86.112181","OutageStart":"10/22/2026 07:27 AM","outageType":"OUTAGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-86.232632,39.73702],"type":"Point"},"properties":{"CustAffected":"1","Etr":"10/22/2026 12:30 PM","IncidentId":"6ad9f364273a20568e696dec","Lat":"39.73702049751212","Long":"-86.2326317","OutageStart":"10/22/2026 07:28 AM","outageType":"OUTAGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-86.232632,39.73702],"type":"Point"},"properties":{"CustAffected":"1","Etr":"10/22/2026 12:30 PM","IncidentId":"6ad9f364273a20568e696dec","Lat":"39.73702049751212","Long":"-86.2326317","OutageStart":"10/22/2026 07:28 AM","outageType":"OUTAGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.03335,39.730591],"type":"Point"},"properties":{"CustAffected":"1","Etr":"10/22/2026 01:00 PM","IncidentId":"6ad9fa5a273a20568e69717e","Lat":"39.73059128","Long":"-86.03335","OutageStart":"10/22/2026 07:57 AM","outageType":"OUTAGE"},"type":"Feature"}
 ]}

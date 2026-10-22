@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-92.372614,46.706577],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792679292000,"ETR":1792687500000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002169","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-95.119342,46.120566],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792680434000,"ETR":1792692000000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002171","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.378651,46.319601],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792680460000,"ETR":1792692000000,"LOCATION":"Sylvan Township","ORDERID":"JE.2610.002172","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.245568,47.530598],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1792682483000,"ETR":1792693800000,"LOCATION":"Aurora","ORDERID":"JE.2610.002175","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.245568,47.530598],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1792682483000,"ETR":1792693800000,"LOCATION":"Aurora","ORDERID":"JE.2610.002175","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.272424,48.61864],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1792683700000,"ETR":1792694700000,"LOCATION":"Rainy Lake","ORDERID":"JE.2610.002179","STATUS":"Assigned"},"type":"Feature"}
 ]}

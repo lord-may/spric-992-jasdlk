@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-89.17186,44.231786],"type":"Point"},"properties":{"crewAssigned":true,"id":"336232","nbrOut":1,"planned":false,"timeOff":1792682637622},"type":"Feature"},
 {"geometry":{"coordinates":[-89.357137,43.845351],"type":"Point"},"properties":{"crewAssigned":true,"id":"336233","nbrOut":1,"planned":false,"timeOff":1792684948768},"type":"Feature"},
 {"geometry":{"coordinates":[-89.589675,44.238892],"type":"Point"},"properties":{"crewAssigned":true,"id":"336234","nbrOut":2,"planned":false,"timeOff":1792685332297},"type":"Feature"},
-{"geometry":{"coordinates":[-89.355107,43.846375],"type":"Point"},"properties":{"comment":"Member will be out of power to cut over to new underground line.","crewAssigned":true,"id":"336235","nbrOut":1,"planned":false,"timeOff":1792685333048},"type":"Feature"}
+{"geometry":{"coordinates":[-89.355107,43.846375],"type":"Point"},"properties":{"comment":"Member will be out of power to cut over to new underground line.","crewAssigned":true,"id":"336235","nbrOut":1,"planned":false,"timeOff":1792685333048},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-89.139233,44.174292],[-89.139179,44.174331],[-89.14014,44.17493],[-89.140266,44.17493],[-89.140221,44.174614],[-89.140203,44.174556],[-89.139772,44.174337],[-89.139233,44.174292]]],"type":"Polygon"},{"coordinates":[-89.139835,44.174569],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"336237","nbrOut":12,"planned":false,"timeOff":1792687905000},"type":"Feature"}
 ]}

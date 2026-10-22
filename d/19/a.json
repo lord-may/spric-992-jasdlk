@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.805527,46.827283],"type":"Point"},"properties":{"cause":"101 Construction - Underground","code":"101","crewAssigned":false,"customersOutInitially":9,"customersOutNow":6,"customersRestored":9,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T12:34:41.33-05:00","outageName":"2026-10-22-0143","outagePoint":{"lat":46.82728295747581,"lng":-96.80552665931712},"outageRecID":"2026-10-22-0143","outageStartTime":"2026-10-22T12:30:31-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

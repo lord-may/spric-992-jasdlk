@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.413722,40.454066],"type":"Point"},"properties":{"cause":"FAULTY EQUIPMENT              ","id":"719572","nbrOut":1,"planned":false,"timeOff":1792662906000},"type":"Feature"},
-{"geometry":{"coordinates":[-90.150026,40.970362],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719574","nbrOut":1,"planned":false,"timeOff":1792676230000},"type":"Feature"},
 {"geometry":{"coordinates":[-88.903039,40.602977],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719593","nbrOut":1,"planned":false,"timeOff":1792686781000},"type":"Feature"},
-{"geometry":{"coordinates":[-88.838701,40.083976],"type":"Point"},"properties":{"id":"719596","nbrOut":1,"planned":false,"timeOff":1792691560000},"type":"Feature"}
+{"geometry":{"coordinates":[-88.840947,40.097755],"type":"Point"},"properties":{"id":"719597","nbrOut":2,"planned":false,"timeOff":1792691560000},"type":"Feature"},
+{"geometry":{"coordinates":[-88.840282,40.08854],"type":"Point"},"properties":{"id":"719598","nbrOut":1,"planned":false,"timeOff":1792692853000},"type":"Feature"}
 ]}

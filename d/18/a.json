@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.731046,45.796782],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792684878000,"ETR":1792703700000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2610.002181","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.07739,46.8008],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1792691272000,"ETR":1792706400000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.002192","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.07739,46.8008],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1792691272000,"ETR":1792706400000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.002192","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.879994,47.440489],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792701589000,"ETR":1792712700000,"LOCATION":"Hibbing","ORDERID":"JE.2610.002213","STATUS":"Assigned"},"type":"Feature"}
 ]}

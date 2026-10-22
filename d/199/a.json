@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.227168,45.803394],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T13:24:30.533-05:00","outageName":"Xfmr8506","outagePoint":{"lat":45.80339355517641,"lng":-92.22716806241768},"outageRecID":"2026-10-22-0101","outageStartTime":"2026-10-22T13:23:52.65-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"},
+{"geometry":{"coordinates":[-92.346667,45.898551],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T13:38:02.537-05:00","outageName":"Xfmr11122","outagePoint":{"lat":45.89855109782691,"lng":-92.34666743907388},"outageRecID":"2026-10-22-0102","outageStartTime":"2026-10-22T13:37:50-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

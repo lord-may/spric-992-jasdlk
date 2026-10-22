@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.372614,46.706577],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792679292000,"ETR":1792694700000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002169","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.731046,45.796782],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792684878000,"ETR":1792696500000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2610.002181","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.731046,45.796782],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792684878000,"ETR":1792696500000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2610.002181","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.07739,46.8008],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1792691272000,"ETR":1792699200000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.002192","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.349348,45.969589],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792691481000,"ETR":1792702800000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002195","STATUS":"Assigned"},"type":"Feature"}
 ]}

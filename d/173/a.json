@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.300919,41.020308],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":54,"customersOutNow":54,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T14:07:33.057-04:00","outageName":"WG000-062-0-0000-0000","outagePoint":{"lat":41.02030814742197,"lng":-85.30091942559844},"outageRecID":"2026-10-22-0228","outageStartTime":"2026-10-19T14:19:00-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

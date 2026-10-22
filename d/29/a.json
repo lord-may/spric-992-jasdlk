@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.355089,43.847048],"type":"Point"},"properties":{"crewAssigned":true,"id":"336243","nbrOut":1,"planned":false,"timeOff":1792692899000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.355538,43.847495],"type":"Point"},"properties":{"comment":"Member will be out to cut over to new primary underground. Member is aware of this.","crewAssigned":false,"estimateTime":1792699020000,"id":"336244","nbrOut":1,"planned":false,"timeOff":1792697700000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-89.086735,44.175812],[-89.079737,44.178235],[-89.074365,44.196149],[-89.076836,44.242934],[-89.087777,44.239291],[-89.090832,44.235114],[-89.100686,44.213542],[-89.100857,44.21284],[-89.092161,44.177591],[-89.086735,44.175812]]],"type":"Polygon"},{"coordinates":[-89.086026,44.208629],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"On site troubleshooting","crewAssigned":true,"id":"336249","nbrOut":91,"planned":false,"timeOff":1792697440000},"type":"Feature"}
 ]}

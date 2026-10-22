@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.372614,46.706577],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792679292000,"ETR":1792691100000,"LOCATION":"Thomson Township","ORDERID":"JE.2610.002169","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.119342,46.120566],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792680434000,"ETR":1792692000000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002171","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.787427,46.183706],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792684920000,"ETR":1792692900000,"LOCATION":"Askov","ORDERID":"JE.2610.002180","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.731046,45.796782],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792684878000,"ETR":1792696500000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2610.002181","STATUS":"Assigned"},"type":"Feature"}
 ]}

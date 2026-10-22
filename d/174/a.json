@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.430841,38.454995],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T08:53:47.523-04:00","outageName":"T17-4L-11.1","outagePoint":{"lat":38.454995217917656,"lng":-87.4308406864493},"outageRecID":"2026-10-22-0258","outageStartTime":"2026-10-22T08:53:32-04:00","outageWorkStatus":"","streetsAffected":["N CR 825 W"],"verified":false},"type":"Feature"}
 ]}

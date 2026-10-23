@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.278498,43.167082],"type":"Point"},"properties":{"EstimatedResolvedDate":"","NumberOfUnresolvedOutageCustomers":1,"OutagePublic":"Public","OutageReason":"Unknown","OutageStartDate":"10/23/2026 10:30 AM","OutageStatus":"Open (public)","PublicStatusDescription":null},"type":"Feature"}
+{"geometry":{"coordinates":[-89.278498,43.167082],"type":"Point"},"properties":{"EstimatedResolvedDate":"","NumberOfUnresolvedOutageCustomers":1,"OutagePublic":"Public","OutageReason":"Unknown","OutageStartDate":"10/23/2026 10:30 AM","OutageStatus":"Open (public)","PublicStatusDescription":null},"type":"Feature"},
+{"geometry":{"coordinates":[-89.227411,43.185122],"type":"Point"},"properties":{"EstimatedResolvedDate":"","NumberOfUnresolvedOutageCustomers":6,"OutagePublic":"Public","OutageReason":"Unknown","OutageStartDate":"10/23/2026 10:43 AM","OutageStatus":"Open (public)","PublicStatusDescription":null},"type":"Feature"},
+{"geometry":{"coordinates":[-89.213168,43.192926],"type":"Point"},"properties":{"EstimatedResolvedDate":"","NumberOfUnresolvedOutageCustomers":27,"OutagePublic":"Public","OutageReason":"Unknown","OutageStartDate":"10/23/2026 10:44 AM","OutageStatus":"Open (public)","PublicStatusDescription":null},"type":"Feature"}
 ]}

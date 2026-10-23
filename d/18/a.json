@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.895746,46.449208],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792746425000,"ETR":1792768500000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002225","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.362906,45.969602],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792760259000,"ETR":1792772100000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002228","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.398203,46.389081],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792761600000,"ETR":1792773000000,"LOCATION":"Fairview Township","ORDERID":"JE.2610.002230","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.398203,46.389081],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792761600000,"ETR":1792773000000,"LOCATION":"Fairview Township","ORDERID":"JE.2610.002230","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.361379,45.981566],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792762834000,"ETR":1792773900000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002232","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.06844,46.817965],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792762706000,"ETR":1792770300000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2610.002233","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.289701,46.779026],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792763149000,"ETR":1792771200000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002234","STATUS":"Assigned"},"type":"Feature"}
 ]}

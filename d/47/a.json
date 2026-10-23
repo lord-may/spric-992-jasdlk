@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.282434,43.576306],"type":"Point"},"properties":{"cause":"Planned - Other","crewAssigned":true,"id":"532334","nbrOut":1,"planned":true,"timeOff":1792682106000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.282434,43.576306],"type":"Point"},"properties":{"cause":"Planned - Other","crewAssigned":true,"id":"532334","nbrOut":1,"planned":true,"timeOff":1792682106000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.374089,43.669876],"type":"Point"},"properties":{"cause":"Ag Equipment","crewAssigned":true,"id":"532402","nbrOut":1,"planned":false,"timeOff":1792780884757},"type":"Feature"}
 ]}

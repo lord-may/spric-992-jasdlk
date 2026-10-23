@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.918909,46.464605],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792770540000,"ETR":1792785600000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002247","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.449211,46.586223],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792779389000,"ETR":1792787400000,"LOCATION":"Blackhoof Township","ORDERID":"JE.2610.002259","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.110383,46.137061],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792779494000,"ETR":1792791000000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002261","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.137552,46.761035],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792780260000,"ETR":1792788300000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.002268","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.449211,46.586223],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792779389000,"ETR":1792787400000,"LOCATION":"Blackhoof Township","ORDERID":"JE.2610.002259","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-95.110383,46.137061],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792779494000,"ETR":1792791000000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002261","STATUS":"Assigned"},"type":"Feature"}
 ]}

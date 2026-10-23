@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.607351,39.829075],"type":"Point"},"properties":{"adminstatus":"Acknowledged","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"76661","lat":"39.8290745701186","lng":"-89.6073507823252","name":"175977","priority":null,"starttime":"Oct 23 2026  8:18AM","status1":"Undefined","status2":"Unknown","substation":null,"totalaffected":"4","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"MV | F1 Fault in own network"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.606461,39.830086],"type":"Point"},"properties":{"adminstatus":"Acknowledged","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"76663","lat":"39.830086011769","lng":"-89.6064611623797","name":"175977","priority":null,"starttime":"Oct 23 2026  8:19AM","status1":"Undefined","status2":"Unknown","substation":null,"totalaffected":"65","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"MV | F1 Fault in own network"},"type":"Feature"}
 ]}

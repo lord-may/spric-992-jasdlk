@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.362906,45.969602],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792760259000,"ETR":1792779300000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002228","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.286013,46.779139],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792763976000,"ETR":1792779300000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002237","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.918909,46.464605],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792770540000,"ETR":1792782000000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002247","STATUS":"Assigned"},"type":"Feature"}
 ]}

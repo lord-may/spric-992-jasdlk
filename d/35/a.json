@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.976724,46.677137],"type":"Point"},"properties":{"crewAssigned":true,"id":"232410","nbrOut":1,"planned":true,"timeOff":1792764610379},"type":"Feature"}
+{"geometry":{"coordinates":[-95.976724,46.677137],"type":"Point"},"properties":{"crewAssigned":true,"id":"232410","nbrOut":1,"planned":true,"timeOff":1792764610379},"type":"Feature"},
+{"geometry":{"coordinates":[-95.817434,46.71748],"type":"Point"},"properties":{"comment":"Planned outage for a line revision project.  Approximate duration: 30 mins","crewAssigned":true,"id":"232411","nbrOut":1,"planned":true,"timeOff":1792766704000},"type":"Feature"}
 ]}

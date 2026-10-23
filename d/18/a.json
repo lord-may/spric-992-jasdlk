@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.895746,46.449208],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792746425000,"ETR":1792768500000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002225","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.895746,46.449208],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792746425000,"ETR":1792768500000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002225","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.362906,45.969602],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792760259000,"ETR":1792772100000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002228","STATUS":"Assigned"},"type":"Feature"}
 ]}

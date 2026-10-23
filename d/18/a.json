@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.362906,45.969602],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1792760259000,"ETR":1792779300000,"LOCATION":"Little Falls","ORDERID":"JE.2610.002228","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.918909,46.464605],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792770540000,"ETR":1792782000000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002247","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.312513,46.801238],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792777595000,"ETR":1792785600000,"LOCATION":"Solway Township","ORDERID":"JE.2610.002256","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.918909,46.464605],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792770540000,"ETR":1792785600000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002247","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.449211,46.586223],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792779389000,"ETR":1792787400000,"LOCATION":"Blackhoof Township","ORDERID":"JE.2610.002259","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.312909,46.803158],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792779454000,"ETR":1792787400000,"LOCATION":"Solway Township","ORDERID":"JE.2610.002260","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.110383,46.137061],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1792779494000,"ETR":1792791000000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002261","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.137552,46.761035],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792780260000,"ETR":1792788300000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.002268","STATUS":"New Outage"},"type":"Feature"}
 ]}

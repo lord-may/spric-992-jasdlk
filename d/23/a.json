@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.423047,45.881695],"type":"Point"},"properties":{"cause":"Trees fell on overhead equipment","crewAssigned":true,"estimateTime":1792780200000,"id":"731279","nbrOut":69,"timeOff":1792774234000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.226981,45.571093],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792783800000,"id":"731280","nbrOut":1,"timeOff":1792774524778},"type":"Feature"},
+{"geometry":{"coordinates":[-93.226981,45.571093],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792783800000,"id":"731280","nbrOut":1,"timeOff":1792774524778},"type":"Feature"},
 {"geometry":{"coordinates":[-93.190958,45.574262],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1792786500000,"id":"731281","nbrOut":1,"timeOff":1792778654000},"type":"Feature"}
 ]}

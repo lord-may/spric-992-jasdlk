@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.073064,47.556865],"type":"Point"},"properties":{"crewAssigned":false,"id":"472026","nbrOut":1,"planned":false,"timeOff":1792721881000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.073064,47.556865],"type":"Point"},"properties":{"crewAssigned":false,"id":"472026","nbrOut":1,"planned":false,"timeOff":1792721881000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.080052,47.541015],"type":"Point"},"properties":{"crewAssigned":false,"id":"472049","nbrOut":1,"planned":false,"timeOff":1792730441000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.067521,47.54851],"type":"Point"},"properties":{"crewAssigned":false,"id":"472050","nbrOut":1,"planned":false,"timeOff":1792730445000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.071491,47.549159],"type":"Point"},"properties":{"crewAssigned":false,"id":"472051","nbrOut":1,"planned":false,"timeOff":1792730455000},"type":"Feature"}
 ]}

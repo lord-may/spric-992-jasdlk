@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-87.081803,40.878215],"type":"Point"},"properties":{"cause":"Motor vehicle - car, truck, tractor, aircaft","crewAssigned":false,"id":"350686","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-87.090409,41.06664],[-87.087463,41.067947],[-87.09031,41.066755],[-87.090346,41.066735],[-87.090409,41.06664]]],"type":"Polygon"},{"coordinates":[-87.089412,41.067107],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned","crewAssigned":false,"id":"350806","nbrOut":4,"planned":true},"type":"Feature"},
 {"geometry":{"coordinates":[-87.126405,41.181366],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"id":"350809","nbrOut":1,"planned":true},"type":"Feature"}
 ]}

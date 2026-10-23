@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.083407,40.680835],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":40.68083483,"location":"KEARNEY","locationType":1,"lon":-99.08340702,"zipCode":"68847"}],"affectedCount":1,"crewStatus":"Crew is Enroute for this incident","description":"No Reason Assigned","endTime":"10/23/2026 7:05:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"10-23-2026 16:28","OutageAttribute3":"10-23-2026 19:05","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002403-1","lat":40.68083483,"location":"KEARNEY","locationType":1,"lon":-99.08340702,"name":null,"notes":"Utility","outageType":2,"restorationTime":"19:05","serviceType":1,"startTime":"10/23/2026 16:28:00","status":1,"zipCode":"68847"},"type":"Feature"}
+
 ]}

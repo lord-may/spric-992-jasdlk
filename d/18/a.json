@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.895746,46.449208],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792746425000,"ETR":1792761300000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002225","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.063685,46.722225],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792756968000,"ETR":1792768500000,"LOCATION":"Superior","ORDERID":"JE.2610.002227","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.895746,46.449208],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792746425000,"ETR":1792768500000,"LOCATION":"Deerwood Township","ORDERID":"JE.2610.002225","STATUS":"Assigned"},"type":"Feature"}
 ]}

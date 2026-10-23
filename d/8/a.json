@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.51381,41.504055],"type":"Point"},"properties":{"CreateDatetime":"10-23  07:43 AM","District":"564A","Downstream":15,"ETA":"","ETR":"10-23  02:00 PM","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005634200","Latitude":41.504055,"LocationCause":"SCHEDULED CONSTRUCTION","Longitude":-90.51381,"MAJ_OTG_ID":"","METRO_AREA":"Quad Cities Il","StatusCd":"WORKING"},"type":"Feature"},
+{"geometry":{"coordinates":[-91.653282,41.639826],"type":"Point"},"properties":{"CreateDatetime":"10-23  07:40 AM","District":"568A","Downstream":1,"ETA":"","ETR":"10-23  10:15 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005634455","Latitude":41.639826,"LocationCause":"","Longitude":-91.653282,"MAJ_OTG_ID":"0","METRO_AREA":"Iowa City","StatusCd":""},"type":"Feature"}
 ]}

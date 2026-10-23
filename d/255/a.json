@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-93.045118,45.404966],"type":"Point"},"properties":{"CREW_STATU":"Outage","CRITICAL_C":0,"CUSTOMER_C":2,"CUSTOMER_RESTO":0,"DEVICE_FCI":null,"DEVICE_OID":null,"FID":4,"INCIDENT_I":null,"TIME_OUTAG":"October 22 2026 8:53 PM","TIME_RESTO":null,"X":-93.04511765819281,"Y":45.40496631454153},"type":"Feature"},
 {"geometry":{"coordinates":[-93.04523,45.404968],"type":"Point"},"properties":{"CREW_STATU":"Crew Responding","CRITICAL_C":0,"CUSTOMER_C":13,"CUSTOMER_RESTO":0,"DEVICE_FCI":null,"DEVICE_OID":null,"FID":2,"INCIDENT_I":null,"TIME_OUTAG":"October 22 2026 6:36 PM","TIME_RESTO":null,"X":-93.04523041635129,"Y":45.40496833113248},"type":"Feature"}
 ]}

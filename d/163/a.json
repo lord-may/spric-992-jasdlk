@@ -6,9 +6,9 @@
 {"geometry":{"coordinates":[-85.349232,45.034491],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792793700000,"id":"1978902","nbrOut":3,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.101108,44.741166],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792793700000,"id":"1978903","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.964164,42.61677],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792793700000,"id":"1978904","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.543654,42.651988],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792794600000,"id":"1978905","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.617006,44.667084],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792788300000,"id":"1978916","nbrOut":20,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-84.617006,44.667084],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792788300000,"id":"1978916","nbrOut":20,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.991082,44.815084],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792795500000,"id":"1978917","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.545527,44.986599],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792796400000,"id":"1978919","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.272668,44.792323],"type":"Point"},"properties":{"crewAssigned":false,"id":"1978920","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-85.272668,44.792323],"type":"Point"},"properties":{"crewAssigned":false,"id":"1978920","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-86.353431,43.935739],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792796400000,"id":"1978921","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

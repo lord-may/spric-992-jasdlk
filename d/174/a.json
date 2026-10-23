@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.386933,39.381295],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":9,"customersOutNow":9,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T09:25:03.863-04:00","outageName":"T47-3-104.1","outagePoint":{"lat":39.38129468166455,"lng":-87.38693256769835},"outageRecID":"2026-10-23-0270","outageStartTime":"2026-10-23T09:24:47-04:00","outageWorkStatus":"","streetsAffected":["CLUBHOUSE LN","MIDLEVEL HOUSE PANEL"],"verified":false},"type":"Feature"}
 ]}

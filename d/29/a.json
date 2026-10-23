@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-88.930383,43.337522],[-88.911761,43.339567],[-88.905841,43.342997],[-88.909587,43.34836],[-88.935145,43.344434],[-88.937417,43.343604],[-88.93916,43.341598],[-88.930383,43.337522]]],"type":"Polygon"},{"coordinates":[-88.921634,43.34267],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"PLANNED OUTAGE OCT. 23RD FROM 1-2:30PM","crewAssigned":false,"estimateTime":1792783800000,"id":"336138","nbrOut":17,"planned":true,"timeOff":1792778400000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.354451,43.851117],"type":"Point"},"properties":{"crewAssigned":true,"id":"336281","nbrOut":2,"planned":false,"timeOff":1792780316000},"type":"Feature"}
 ]}

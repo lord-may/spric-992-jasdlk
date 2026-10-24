@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.128183,39.182994],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":110,"customersOutNow":110,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T19:27:30.28-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T16:27:58.01-04:00","outageName":"REC620-002-0004","outagePoint":{"lat":39.18299443716632,"lng":-83.1281832457278},"outageRecID":"2026-10-24-0931","outageStartTime":"2026-10-24T16:26:16-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

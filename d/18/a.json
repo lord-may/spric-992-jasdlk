@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.886399,45.890793],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792843059000,"ETR":1792854900000,"LOCATION":"Round Prairie Township","ORDERID":"JE.2610.002283","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.886399,45.890793],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792843059000,"ETR":1792854900000,"LOCATION":"Round Prairie Township","ORDERID":"JE.2610.002283","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.354758,46.501188],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792845930000,"ETR":1792857600000,"LOCATION":"Lake Shore","ORDERID":"JE.2610.002284","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.44668,46.689533],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792846910000,"ETR":1792854900000,"LOCATION":"Cloquet","ORDERID":"JE.2610.002285","STATUS":"New Outage"},"type":"Feature"}
 ]}

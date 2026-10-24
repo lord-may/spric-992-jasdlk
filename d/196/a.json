@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.435566,45.058762],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T12:44:18.327-04:00","outageName":"","outagePoint":{"lat":45.05876240647595,"lng":-83.43556613436164},"outageRecID":"2026-10-24-0070","outageStartTime":"2026-10-24T12:43:52-04:00","outageWorkStatus":"","streetsAffected":["S 1ST AVE","S STATE AVE"],"verified":false},"type":"Feature"}
 ]}

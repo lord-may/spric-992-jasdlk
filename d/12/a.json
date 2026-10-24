@@ -17,13 +17,12 @@
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"PREBLE","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.711103,40.064015],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"10/24/2026 02:00 PM","INCIDENTID":"1818525","IND":"D","LAT":"40.06401543","LNG":"-84.7111030138572","OutageTime":"10/24/2026 06:40 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.605381,39.75437],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/24/2026 11:00 AM","INCIDENTID":"1818535","IND":"D","LAT":"39.7543701","LNG":"-84.605380704339","OutageTime":"10/24/2026 09:41 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.708129,40.066249],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"10/24/2026 02:00 PM","INCIDENTID":"1818525","IND":"D","LAT":"40.06624933","LNG":"-84.7081291169556","OutageTime":"10/24/2026 06:40 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

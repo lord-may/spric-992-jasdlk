@@ -19,10 +19,11 @@
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"103","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.123254,39.868806],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/24/2026 05:00 PM","INCIDENTID":"1818585","IND":"D","LAT":"39.86880592","LNG":"-84.1232538091017","OutageTime":"10/24/2026 01:06 PM","TOTALCUSTS":"103"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"105","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.123573,39.868566],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/24/2026 05:00 PM","INCIDENTID":"1818585","IND":"D","LAT":"39.86856562","LNG":"-84.1235727199922","OutageTime":"10/24/2026 01:06 PM","TOTALCUSTS":"103"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.14985,40.292484],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"10/24/2026 05:00 PM","INCIDENTID":"1818593","IND":"D","LAT":"40.29248387","LNG":"-84.1498500794376","OutageTime":"10/24/2026 01:56 PM","TOTALCUSTS":"2"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.738753,39.265274],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T18:06:24.733-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T15:06:24.78-04:00","outageName":"T-79944","outagePoint":{"lat":39.26527420193311,"lng":-83.73875297935867},"outageRecID":"2026-10-24-0930","outageStartTime":"2026-10-24T15:05:06-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

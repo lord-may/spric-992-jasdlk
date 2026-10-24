@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.366595,39.770285],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T13:03:39.247-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T10:03:53.047-04:00","outageName":"FUS143-014-0019","outagePoint":{"lat":39.77028481352232,"lng":-82.36659545897646},"outageRecID":"2026-10-24-0926","outageStartTime":"2026-10-24T10:02:25-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

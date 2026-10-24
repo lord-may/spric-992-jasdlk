@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.453417,46.732537],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1792857729000,"ETR":1792865700000,"LOCATION":"Cloquet","ORDERID":"JE.2610.002291","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.453417,46.732537],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1792857729000,"ETR":1792865700000,"LOCATION":"Cloquet","ORDERID":"JE.2610.002291","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.105134,46.717913],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792858746000,"ETR":1792870200000,"LOCATION":"Superior","ORDERID":"JE.2610.002294","STATUS":"New Outage"},"type":"Feature"}
 ]}

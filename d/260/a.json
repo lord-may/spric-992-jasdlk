@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.652768,38.605332],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T06:02:45.203-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T01:08:02-04:00","outageName":"308350008T","outagePoint":{"lat":38.60533183568588,"lng":-85.65276840877604},"outageRecID":"2026-10-24-0169","outageStartTime":"2026-10-24T01:02:43-04:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 362"],"verified":false},"type":"Feature"}
 ]}

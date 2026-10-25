@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.240578,47.533702],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1792879087000,"ETR":1792896300000,"LOCATION":"Aurora","ORDERID":"JE.2610.002343","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.234761,47.530779],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792888079000,"ETR":1792899000000,"LOCATION":"Aurora","ORDERID":"JE.2610.002344","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.234761,47.530779],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792888079000,"ETR":1792899000000,"LOCATION":"Aurora","ORDERID":"JE.2610.002344","STATUS":"Assigned"},"type":"Feature"}
 ]}

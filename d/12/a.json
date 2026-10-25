@@ -19,12 +19,11 @@
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"3"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"6","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.134974,39.75771],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/25/2026 01:00 PM","INCIDENTID":"1818642","IND":"D","LAT":"39.75770976","LNG":"-84.1349738133119","OutageTime":"10/25/2026 10:27 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.125395,40.319717],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"10/25/2026 01:00 PM","INCIDENTID":"1818644","IND":"D","LAT":"40.31971701","LNG":"-84.1253947298277","OutageTime":"10/25/2026 11:02 AM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.203372,40.058532],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/25/2026 01:00 PM","INCIDENTID":"1818646","IND":"D","LAT":"40.05853214","LNG":"-84.203372098045","OutageTime":"10/25/2026 11:10 AM","TOTALCUSTS":"2"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.135198,39.757541],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/25/2026 01:00 PM","INCIDENTID":"1818642","IND":"D","LAT":"39.75754066","LNG":"-84.1351978417115","OutageTime":"10/25/2026 10:27 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.203597,40.058363],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"10/25/2026 01:00 PM","INCIDENTID":"1818646","IND":"D","LAT":"40.05836304","LNG":"-84.2035971889017","OutageTime":"10/25/2026 11:10 AM","TOTALCUSTS":"2"},"type":"Feature"}
 ]}

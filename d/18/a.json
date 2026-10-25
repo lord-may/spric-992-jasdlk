@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.008928,46.883126],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792943375000,"ETR":1792972800000,"LOCATION":"Lakewood Township","ORDERID":"JE.2610.002386","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.882315,45.983875],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792957825000,"ETR":1792969200000,"LOCATION":"Long Prairie Township","ORDERID":"JE.2610.002390","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.882315,45.983875],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792957825000,"ETR":1792969200000,"LOCATION":"Long Prairie Township","ORDERID":"JE.2610.002390","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.096056,46.80793],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1792960020000,"ETR":1792968300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2610.002391","STATUS":"Assigned"},"type":"Feature"}
 ]}

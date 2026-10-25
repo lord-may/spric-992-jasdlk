@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.190973,39.829413],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-25T13:46:47.15-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T10:46:47.21-04:00","outageName":"T-74741","outagePoint":{"lat":39.829412598644836,"lng":-82.19097264201099},"outageRecID":"2026-10-25-0942","outageStartTime":"2026-10-25T10:46:31-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

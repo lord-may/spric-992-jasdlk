@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.515098,47.399395],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":189,"DATEOFF":1792941289000,"ETR":1792953000000,"LOCATION":"Fayal Township,Heikkala Lake","ORDERID":"JE.2610.002374","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.515098,47.399395],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":189,"DATEOFF":1792941289000,"ETR":1792953000000,"LOCATION":"Fayal Township,Heikkala Lake","ORDERID":"JE.2610.002374","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.008928,46.883126],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1792943375000,"ETR":1792951200000,"LOCATION":"Lakewood Township","ORDERID":"JE.2610.002386","STATUS":"Assigned"},"type":"Feature"}
 ]}

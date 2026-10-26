@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"135","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.717149,39.773276],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/26/2026 12:00 AM","INCIDENTID":"1818683","IND":"D","LAT":"39.77327556","LNG":"-83.7171491030773","OutageTime":"10/25/2026 08:23 PM","TOTALCUSTS":"134"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.46176,39.744208],"type":"Point"},"properties":{"COUNTY":"MADISON","EstimateTime":"10/26/2026 12:00 AM","INCIDENTID":"1818687","IND":"D","LAT":"39.74420786","LNG":"-83.4617601478396","OutageTime":"10/25/2026 09:17 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.713375,39.776124],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/26/2026 12:00 AM","INCIDENTID":"1818683","IND":"D","LAT":"39.77612356","LNG":"-83.7133749873914","OutageTime":"10/25/2026 08:23 PM","TOTALCUSTS":"134"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.457988,39.747056],"type":"Point"},"properties":{"COUNTY":"MADISON","EstimateTime":"10/26/2026 12:00 AM","INCIDENTID":"1818687","IND":"D","LAT":"39.74705586","LNG":"-83.4579877479321","OutageTime":"10/25/2026 09:17 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

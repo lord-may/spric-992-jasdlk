@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-88.988522,43.569199],"type":"Point"},"properties":{"crewAssigned":true,"id":"336369","nbrOut":1,"planned":false,"timeOff":1793020445824},"type":"Feature"},
-{"geometry":{"coordinates":[-89.132666,43.325302],"type":"Point"},"properties":{"comment":"Power will be out for Electrician to make upgrade to Service","crewAssigned":true,"estimateTime":1793025900000,"id":"336370","nbrOut":2,"planned":false,"timeOff":1793021680568},"type":"Feature"}
+{"geometry":{"coordinates":[-88.988522,43.569199],"type":"Point"},"properties":{"comment":"Have a secondary fault, will be working on locating and fixing it","crewAssigned":true,"id":"336369","nbrOut":1,"planned":false,"timeOff":1793020445824},"type":"Feature"}
 ]}

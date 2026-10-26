@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.194626,46.720556],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793020871000,"ETR":1793028600000,"LOCATION":"Duluth - Norton Park","ORDERID":"JE.2610.002404","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.214358,46.685254],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793021054000,"ETR":1793028600000,"LOCATION":"Duluth - Morgan Park","ORDERID":"JE.2610.002405","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.214358,46.685254],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793021054000,"ETR":1793028600000,"LOCATION":"Duluth - Morgan Park","ORDERID":"JE.2610.002405","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.696724,45.853568],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793022240000,"ETR":1793033100000,"LOCATION":"Burnhamville Township","ORDERID":"JE.2610.002409","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.718463,46.242919],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793022213000,"ETR":1793030400000,"LOCATION":"Partridge Township","ORDERID":"JE.2610.002410","STATUS":"Assigned"},"type":"Feature"}
 ]}

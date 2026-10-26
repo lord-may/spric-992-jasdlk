@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.29033,39.58206],"type":"Point"},"properties":{"crewAssigned":false,"id":"286069","nbrOut":1,"planned":false,"timeOff":1793024395000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.29033,39.58206],"type":"Point"},"properties":{"cause":"POWER SUPPLIER","crewAssigned":true,"id":"286069","nbrOut":1,"planned":false,"timeOff":1793024395000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.477157,38.825754],"type":"Point"},"properties":{"cause":"MAINTENANCE                   ","crewAssigned":true,"id":"286070","nbrOut":1,"planned":false,"timeOff":1793025033000},"type":"Feature"}
 ]}

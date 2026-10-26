@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-88.988522,43.569199],"type":"Point"},"properties":{"comment":"Have a secondary fault, will be working on locating and fixing it","crewAssigned":true,"id":"336369","nbrOut":1,"planned":false,"timeOff":1793020445824},"type":"Feature"},
-{"geometry":{"coordinates":[-89.778393,44.126911],"type":"Point"},"properties":{"crewAssigned":true,"id":"336372","nbrOut":1,"planned":false,"timeOff":1793028474000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.778393,44.126911],"type":"Point"},"properties":{"crewAssigned":true,"id":"336372","nbrOut":1,"planned":false,"timeOff":1793028474000},"type":"Feature"},
+{"geometry":{"coordinates":[-89.178112,43.768905],"type":"Point"},"properties":{"crewAssigned":true,"id":"336373","nbrOut":1,"planned":false,"timeOff":1793031314388},"type":"Feature"},
+{"geometry":{"coordinates":[-89.379757,43.7832],"type":"Point"},"properties":{"crewAssigned":false,"id":"336374","nbrOut":1,"planned":false,"timeOff":1793031883345},"type":"Feature"}
 ]}

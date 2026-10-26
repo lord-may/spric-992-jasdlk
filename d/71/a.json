@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-88.319116,39.996007],"type":"Point"},"properties":{"cause":"MEMBERS SIDE ISSUE","crewAssigned":false,"id":"388577","nbrOut":1,"timeOff":1793019577000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-87.841859,40.701485],[-87.80395,40.713429],[-87.812071,40.714968],[-87.856277,40.712122],[-87.855935,40.709854],[-87.841859,40.701485]]],"type":"Polygon"},{"coordinates":[-87.833451,40.709555],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"NO CAUSE CODE","crewAssigned":true,"id":"388578","nbrOut":10,"timeOff":1793019609000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-87.841859,40.701485],[-87.80395,40.713429],[-87.812071,40.714968],[-87.856277,40.712122],[-87.855935,40.709854],[-87.841859,40.701485]]],"type":"Polygon"},{"coordinates":[-87.833451,40.709555],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"PREARRANGED-CONSTRUCTION","crewAssigned":true,"id":"388578","nbrOut":10,"timeOff":1793019609000},"type":"Feature"},
+{"geometry":{"coordinates":[-87.988787,40.08012],"type":"Point"},"properties":{"cause":"PREARRANGED-MAINTENANCE","crewAssigned":true,"id":"388584","nbrOut":2,"timeOff":1793020530000},"type":"Feature"}
 ]}

@@ -8,7 +8,7 @@
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"69"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"49"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,6 +23,6 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"69","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.026125,39.781952],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"null","INCIDENTID":"1818693","IND":"D","LAT":"39.78195243","LNG":"-84.0261245518541","OutageTime":"10/26/2026 07:43 AM","TOTALCUSTS":"69"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"49","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.028543,39.780128],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/26/2026 10:00 AM","INCIDENTID":"1818693","IND":"D","LAT":"39.78012793","LNG":"-84.028542595988","OutageTime":"10/26/2026 07:43 AM","TOTALCUSTS":"49"},"type":"Feature"}
 ]}

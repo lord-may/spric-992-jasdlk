@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.919294,46.679535],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FOR CARR'S TO DO TREE TRIMMING.","crewAssigned":false,"id":"232426","nbrOut":1,"planned":true,"timeOff":1793023208000},"type":"Feature"},
+{"geometry":{"coordinates":[-95.646871,46.467936],"type":"Point"},"properties":{"comment":"Planned outage for a line revision project.  Approximate duration: 1 HOUR","crewAssigned":true,"id":"232428","nbrOut":2,"planned":true,"timeOff":1793028654000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.118828,46.33548],"type":"Point"},"properties":{"crewAssigned":true,"id":"232429","nbrOut":1,"planned":true,"timeOff":1793024549502},"type":"Feature"},
 {"geometry":{"coordinates":[-95.963015,46.763073],"type":"Point"},"properties":{"comment":"Planned outage for a line revision project.  Approximate duration: 30 MINS","crewAssigned":true,"id":"232430","nbrOut":1,"planned":true,"timeOff":1793026984002},"type":"Feature"}
 ]}

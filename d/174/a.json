@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.306607,38.877473],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T08:58:23.97-04:00","outageName":"T5-2D1A-15","outagePoint":{"lat":38.877473,"lng":-87.306607},"outageRecID":"2026-10-26-0295","outageStartTime":"2026-10-26T08:57:01-04:00","outageWorkStatus":"","streetsAffected":["N NORTHVIEW RD"],"verified":false},"type":"Feature"}
 ]}

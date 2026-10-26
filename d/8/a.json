@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.774165,41.28633],"type":"Point"},"properties":{"CreateDatetime":"10-25  07:26 PM","District":"580C","Downstream":2,"ETA":"","ETR":"","ETR_SOURCE":"SYS","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005634866","Latitude":41.28633,"LocationCause":"AN EQUIPMENT PROBLEM","Longitude":-95.774165,"MAJ_OTG_ID":"","METRO_AREA":"Council Bluffs","StatusCd":"WORKING"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.146452,41.731847],"type":"Point"},"properties":{"CreateDatetime":"10-26  12:16 AM","District":"236C","Downstream":1,"ETA":"10-26  01:25 AM","ETR":"10-26  03:30 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005634875","Latitude":41.731847,"LocationCause":"","Longitude":-93.146452,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":"EN ROUTE"},"type":"Feature"}
 ]}

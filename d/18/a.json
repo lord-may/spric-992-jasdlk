@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.066186,46.81423],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793034221000,"ETR":1793042100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2610.002449","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.066186,46.81423],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793034221000,"ETR":1793042100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2610.002449","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.870155,45.913513],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793036271000,"ETR":1793047500000,"LOCATION":"Round Prairie Township","ORDERID":"JE.2610.002458","STATUS":"Assigned"},"type":"Feature"}
 ]}

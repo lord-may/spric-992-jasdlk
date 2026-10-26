@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.819631,38.283531],"type":"Point"},"properties":{"comment":"Crew on site working on service.","crewAssigned":true,"estimateTime":1793031300000,"id":"487527","nbrOut":1,"planned":false,"timeOff":1793023828763},"type":"Feature"},
 {"geometry":{"coordinates":[-94.803739,38.123437],"type":"Point"},"properties":{"comment":"Crew on site changing pole.","crewAssigned":true,"estimateTime":1793034000000,"id":"487528","nbrOut":1,"planned":false,"timeOff":1793026133472},"type":"Feature"},
 {"geometry":{"coordinates":[-94.804189,38.124073],"type":"Point"},"properties":{"comment":"Crew on site changing pole.","crewAssigned":true,"estimateTime":1793034000000,"id":"487529","nbrOut":1,"planned":false,"timeOff":1793026157981},"type":"Feature"},
 {"geometry":{"coordinates":[-95.521457,37.709118],"type":"Point"},"properties":{"comment":"Crew on site changing pole.","crewAssigned":true,"estimateTime":1793034000000,"id":"487531","nbrOut":1,"planned":false,"timeOff":1793026229198},"type":"Feature"},
@@ -8,5 +7,5 @@
 {"geometry":{"coordinates":[-94.803551,38.12331],"type":"Point"},"properties":{"comment":"Crew on site changing pole.","crewAssigned":true,"estimateTime":1793034000000,"id":"487534","nbrOut":1,"planned":false,"timeOff":1793026481000},"type":"Feature"},
 {"geometry":{"coordinates":[-95.288875,37.67521],"type":"Point"},"properties":{"comment":"Crew on site changing pole.","crewAssigned":true,"estimateTime":1793036700000,"id":"487535","nbrOut":1,"planned":false,"timeOff":1793028781600},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-95.225409,37.981891],[-95.207577,38.00078],[-95.211835,38.026139],[-95.224537,38.028778],[-95.27522,38.025672],[-95.225409,37.981891]]],"type":"Polygon"},{"coordinates":[-95.234041,38.010746],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crew is assigned to your outage.","crewAssigned":true,"estimateTime":1793036700000,"id":"487538","nbrOut":17,"planned":false,"timeOff":1793028805000},"type":"Feature"},
-{"geometry":{"coordinates":[-94.790058,38.123748],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793037600000,"id":"487539","nbrOut":1,"planned":false,"timeOff":1793030154763},"type":"Feature"}
+{"geometry":{"coordinates":[-94.790058,38.123748],"type":"Point"},"properties":{"comment":"Crew on site changing pole.","crewAssigned":true,"estimateTime":1793037600000,"id":"487539","nbrOut":1,"planned":false,"timeOff":1793030154763},"type":"Feature"}
 ]}

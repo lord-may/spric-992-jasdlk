@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.194626,46.720556],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793020871000,"ETR":1793028600000,"LOCATION":"Duluth - Norton Park","ORDERID":"JE.2610.002404","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.214358,46.685254],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793021054000,"ETR":1793028600000,"LOCATION":"Duluth - Morgan Park","ORDERID":"JE.2610.002405","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-97.29033,39.58206],"type":"Point"},"properties":{"cause":"POWER SUPPLIER","crewAssigned":true,"id":"286069","nbrOut":1,"planned":false,"timeOff":1793024395000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.068388,39.524433],"type":"Point"},"properties":{"cause":"MAINTENANCE                   ","crewAssigned":true,"id":"286071","nbrOut":1,"planned":false,"timeOff":1793028416000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.200413,38.971542],"type":"Point"},"properties":{"crewAssigned":false,"id":"286072","nbrOut":1,"planned":false,"timeOff":1793029053000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.190128,38.97231],"type":"Point"},"properties":{"cause":"MAINTENANCE                   ","crewAssigned":true,"id":"286072","nbrOut":1,"planned":false,"timeOff":1793029053000},"type":"Feature"}
 ]}

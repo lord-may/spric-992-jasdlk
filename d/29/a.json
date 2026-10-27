@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-89.258394,44.104525],[-89.240158,44.108067],[-89.22999,44.111414],[-89.23034,44.111937],[-89.257972,44.113465],[-89.258511,44.113485],[-89.258808,44.10986],[-89.258906,44.104809],[-89.258394,44.104525]]],"type":"Polygon"},{"coordinates":[-89.248198,44.109744],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 10/27/26 FROM 12PM-2PM","crewAssigned":true,"estimateTime":1793127600000,"id":"336371","nbrOut":20,"planned":false,"timeOff":1793120400000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.781753,43.784141],"type":"Point"},"properties":{"crewAssigned":true,"id":"336421","nbrOut":1,"planned":false,"timeOff":1793109229985},"type":"Feature"},
-{"geometry":{"coordinates":[-89.648155,43.774963],"type":"Point"},"properties":{"comment":"ETA 1:10pm","crewAssigned":true,"id":"336438","nbrOut":1,"planned":false,"timeOff":1793121809459},"type":"Feature"},
-{"geometry":{"coordinates":[-89.460542,44.034127],"type":"Point"},"properties":{"crewAssigned":true,"id":"336440","nbrOut":1,"planned":false,"timeOff":1793124234000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.301657,44.031815],"type":"Point"},"properties":{"crewAssigned":true,"id":"336441","nbrOut":1,"planned":false,"timeOff":1793124806483},"type":"Feature"}
+{"geometry":{"coordinates":[-89.781753,43.784141],"type":"Point"},"properties":{"crewAssigned":true,"id":"336421","nbrOut":1,"planned":false,"timeOff":1793109229985},"type":"Feature"}
 ]}

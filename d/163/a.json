@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.030626,44.840364],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793133000000,"id":"1979160","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.999805,44.868792],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793126700000,"id":"1979161","nbrOut":4,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.864959,44.974342],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793134800000,"id":"1979162","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.864869,44.974049],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793134800000,"id":"1979163","nbrOut":1,"planned":false},"type":"Feature"},
@@ -18,5 +17,7 @@
 {"geometry":{"coordinates":[-86.308857,43.949788],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793136600000,"id":"1979176","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.351971,45.029558],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793137500000,"id":"1979178","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.982526,44.062711],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793137500000,"id":"1979179","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.098161,45.550564],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979180","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-85.029422,44.816282],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793137500000,"id":"1979181","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-84.862848,45.593928],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793130300000,"id":"1979191","nbrOut":19,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-84.873897,45.375145],"type":"Point"},"properties":{"crewAssigned":true,"id":"1979192","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-88.266675,44.298787],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"1822","formatted_ert":null,"incident_id":"C126322","lat":"44.29878713057863","lon":"-88.26667484236884","opt_code":"Public - Human Accident","start_date":"10/26 02:29 pm","substation":"18"},"type":"Feature"}
+{"geometry":{"coordinates":[-88.266675,44.298787],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"1822","formatted_ert":null,"incident_id":"C126322","lat":"44.29878713057863","lon":"-88.26667484236884","opt_code":"Public - Human Accident","start_date":"10/26 02:29 pm","substation":"18"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.295481,44.267297],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"1121","formatted_ert":null,"incident_id":"C126325","lat":"44.26729730215387","lon":"-88.29548058692195","opt_code":null,"start_date":"10/27 04:09 pm","substation":"1"},"type":"Feature"}
 ]}

@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.058124,46.053196],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793117700000,"id":"731375","nbrOut":1,"timeOff":1793109192000},"type":"Feature"},
 {"geometry":{"coordinates":[-93.074824,45.586133],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793119500000,"id":"731377","nbrOut":1,"timeOff":1793110128000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.626336,45.69081],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793120400000,"id":"731378","nbrOut":1,"timeOff":1793112145000},"type":"Feature"},
-{"geometry":{"coordinates":[-91.917093,46.17053],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793119500000,"id":"731380","nbrOut":2,"timeOff":1793110966000},"type":"Feature"}
+{"geometry":{"coordinates":[-91.917093,46.17053],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793119500000,"id":"731380","nbrOut":2,"timeOff":1793110966000},"type":"Feature"},
+{"geometry":{"coordinates":[-91.964183,46.188307],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793122200000,"id":"731381","nbrOut":1,"timeOff":1793115048310},"type":"Feature"}
 ]}

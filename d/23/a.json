@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-91.917803,46.168203],[-91.916195,46.170188],[-91.916913,46.170007],[-91.917803,46.168203]]],"type":"Polygon"},{"coordinates":[-91.916967,46.169466],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793107800000,"id":"731368","nbrOut":4,"timeOff":1793091996000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.058124,46.053196],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793117700000,"id":"731375","nbrOut":1,"timeOff":1793108710339},"type":"Feature"},
-{"geometry":{"coordinates":[-91.920372,46.170107],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793119500000,"id":"731376","nbrOut":1,"timeOff":1793109833000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.074824,45.586133],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793119500000,"id":"731377","nbrOut":1,"timeOff":1793110128000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.058124,46.053196],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793117700000,"id":"731375","nbrOut":1,"timeOff":1793109192000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.074824,45.586133],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793119500000,"id":"731377","nbrOut":1,"timeOff":1793110128000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.626336,45.69081],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793120400000,"id":"731378","nbrOut":1,"timeOff":1793112145000},"type":"Feature"},
+{"geometry":{"coordinates":[-91.917093,46.17053],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793119500000,"id":"731380","nbrOut":2,"timeOff":1793110966000},"type":"Feature"}
 ]}

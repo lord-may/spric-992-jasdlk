@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"73","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.904777,39.663176],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/26/2026 10:00 PM","INCIDENTID":"1818799","IND":"D","LAT":"39.66317603","LNG":"-83.9047773086338","OutageTime":"10/26/2026 07:19 PM","TOTALCUSTS":"62"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.725416,40.118538],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"null","INCIDENTID":"1818804","IND":"D","LAT":"40.11853825","LNG":"-83.7254160823017","OutageTime":"10/26/2026 07:48 PM","TOTALCUSTS":"11"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.908239,39.660559],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/26/2026 10:00 PM","INCIDENTID":"1818799","IND":"D","LAT":"39.66055943","LNG":"-83.9082386669314","OutageTime":"10/26/2026 07:19 PM","TOTALCUSTS":"62"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.728902,40.115922],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"null","INCIDENTID":"1818804","IND":"D","LAT":"40.11592165","LNG":"-83.7289023026929","OutageTime":"10/26/2026 07:48 PM","TOTALCUSTS":"11"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"TotalOut":"0","UMTime":"","UMessage":""},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"","UMessage":""},"type":"Feature"},
+{"geometry":{"coordinates":[-86.052826,39.75776],"type":"Point"},"properties":{"CustAffected":"1","Etr":"10/27/2026 09:00 AM","IncidentId":"6ae0598d273a20568e6e794b","Lat":"39.75775981769572","Long":"-86.05282606","OutageStart":"10/27/2026 03:57 AM","outageType":"OUTAGE"},"type":"Feature"}
 ]}

@@ -2,7 +2,7 @@
 {"geometry":null,"properties":{"County":"AUGLAIZE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"4"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"59"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"4"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,10 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"364","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.914379,39.687472],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/27/2026 12:00 PM","INCIDENTID":"1818843","IND":"D","LAT":"39.68747189","LNG":"-83.9143789851549","OutageTime":"10/27/2026 09:51 AM","TOTALCUSTS":"57"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.153176,39.706446],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/27/2026 12:00 PM","INCIDENTID":"1818861","IND":"D","LAT":"39.70644591","LNG":"-84.1531763738537","OutageTime":"10/27/2026 09:39 AM","TOTALCUSTS":"59"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.568486,40.306917],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"10/27/2026 02:00 PM","INCIDENTID":"1818893","IND":"D","LAT":"40.30691659","LNG":"-83.5684860137794","OutageTime":"10/27/2026 12:14 PM","TOTALCUSTS":"248"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"313","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.912801,39.688664],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/27/2026 12:00 PM","INCIDENTID":"1818843","IND":"D","LAT":"39.68866449","LNG":"-83.9128007237226","OutageTime":"10/27/2026 09:51 AM","TOTALCUSTS":"57"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.566892,40.308109],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"10/27/2026 02:00 PM","INCIDENTID":"1818893","IND":"D","LAT":"40.30810919","LNG":"-83.5668922502665","OutageTime":"10/27/2026 12:14 PM","TOTALCUSTS":"248"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.539984,40.087103],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"null","INCIDENTID":"1818900","IND":"D","LAT":"40.08710287","LNG":"-83.5399843163487","OutageTime":"10/27/2026 12:53 PM","TOTALCUSTS":"4"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.250712,39.825492],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"null","INCIDENTID":"1818902","IND":"D","LAT":"39.82549196","LNG":"-84.250712249132","OutageTime":"10/27/2026 12:59 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.251221,39.825368],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"null","INCIDENTID":"1818903","IND":"D","LAT":"39.82536766","LNG":"-84.2512208225583","OutageTime":"10/27/2026 12:59 PM","TOTALCUSTS":"3"},"type":"Feature"}
 ]}

@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-100.838819,38.039724],"type":"Point"},"properties":{"cause":"400 Decay/age of material/equipment","crewAssigned":true,"id":"449660","nbrOut":1,"planned":false,"timeOff":1793028056000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.649306,37.388551],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449685","nbrOut":1,"planned":true,"timeOff":1793116203000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.760055,38.381155],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"449686","nbrOut":1,"planned":true,"timeOff":1793117708000},"type":"Feature"},
-{"geometry":{"coordinates":[-100.912589,38.475961],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449687","nbrOut":1,"planned":false,"timeOff":1793119000964},"type":"Feature"}
+{"geometry":{"coordinates":[-100.912589,38.475961],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449687","nbrOut":1,"planned":true,"timeOff":1793119000964},"type":"Feature"}
 ]}

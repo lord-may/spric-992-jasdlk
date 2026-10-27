@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.94565,46.01824],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":11,"DATEOFF":1793141764000,"ETR":1793149200000,"LOCATION":"Hinckley","ORDERID":"JE.2610.002534","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.94565,46.01824],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":11,"DATEOFF":1793141764000,"ETR":1793149200000,"LOCATION":"Hinckley","ORDERID":"JE.2610.002534","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.308936,46.465368],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":46,"DATEOFF":1793142420000,"ETR":1793153700000,"LOCATION":"Nisswa","ORDERID":"JE.2610.002536","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.932867,39.630613],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-27T11:32:52.903-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T08:33:27-04:00","outageName":"234-021-0127","outagePoint":{"lat":39.63061291561669,"lng":-82.93286702284672},"outageRecID":"2026-10-27-0996","outageStartTime":"2026-10-27T08:31:08-04:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

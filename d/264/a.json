@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.098414,39.838327],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T08:40:09.123-04:00","outageName":"RW4.P13.6.2","outagePoint":{"lat":39.83832669750219,"lng":-87.09841431613414},"outageRecID":"2026-10-27-0159","outageStartTime":"2026-10-27T08:39:35-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

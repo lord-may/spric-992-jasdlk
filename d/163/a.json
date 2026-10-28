@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.352699,45.034459],"type":"Point"},"properties":{"crewAssigned":true,"id":"1979372","nbrOut":57,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.355655,44.960849],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793216700000,"id":"1979378","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.65195,45.001744],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793229300000,"id":"1979395","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.601964,42.581425],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793223000000,"id":"1979399","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.601964,42.581425],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793230200000,"id":"1979400","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.744612,45.023672],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793231100000,"id":"1979402","nbrOut":6,"planned":false},"type":"Feature"},
@@ -16,10 +15,12 @@
 {"geometry":{"coordinates":[-85.007468,45.445008],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793239200000,"id":"1979423","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.051988,44.819041],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793239200000,"id":"1979424","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.623415,43.79984],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793239200000,"id":"1979426","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.028183,44.108221],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979428","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.028183,44.107989],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979430","nbrOut":3,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.891639,44.946405],"type":"Point"},"properties":{"crewAssigned":true,"id":"1979431","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.028183,44.109008],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979432","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.015022,44.109479],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979433","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.650252,45.001712],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241000000,"id":"1979434","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-84.650252,45.001712],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241000000,"id":"1979434","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.019065,44.815415],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241000000,"id":"1979438","nbrOut":3,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.027689,44.117386],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793232000000,"id":"1979439","nbrOut":28,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.072011,44.760037],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241900000,"id":"1979442","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.071257,44.763685],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241900000,"id":"1979443","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.071985,44.764936],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241900000,"id":"1979444","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.040373,44.117219],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979445","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

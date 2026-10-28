@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-101.436271,38.024207],"type":"Point"},"properties":{"cause":"999 Cause unknown  (Use only if no other option is reasonable)","crewAssigned":true,"id":"449647","nbrOut":1,"planned":false,"timeOff":1792992458000},"type":"Feature"},
 {"geometry":{"coordinates":[-100.838819,38.039724],"type":"Point"},"properties":{"cause":"400 Decay/age of material/equipment","crewAssigned":true,"id":"449660","nbrOut":1,"planned":false,"timeOff":1793028056000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.634897,37.373503],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":false,"id":"449874","nbrOut":1,"planned":false,"timeOff":1793200258000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.634897,37.373503],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449874","nbrOut":1,"planned":true,"timeOff":1793200258000},"type":"Feature"}
 ]}

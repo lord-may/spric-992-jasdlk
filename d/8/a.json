@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.507902,41.656808],"type":"Point"},"properties":{"CreateDatetime":"10-28  12:05 AM","District":"568A","Downstream":220,"ETA":"","ETR":"","ETR_SOURCE":"","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005635481","Latitude":41.656808,"LocationCause":"","Longitude":-91.507902,"MAJ_OTG_ID":"","METRO_AREA":"Iowa City","StatusCd":""},"type":"Feature"},
+{"geometry":{"coordinates":[-90.610148,41.582304],"type":"Point"},"properties":{"CreateDatetime":"10-28  12:09 AM","District":"558A","Downstream":53,"ETA":"","ETR":"10-28  04:30 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005635501","Latitude":41.582304,"LocationCause":"","Longitude":-90.610148,"MAJ_OTG_ID":"0","METRO_AREA":"Quad Cities Ia","StatusCd":""},"type":"Feature"}
 ]}

@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.42989,46.644457],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793174224000,"ETR":1793188800000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.002581","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.42989,46.644457],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793174224000,"ETR":1793188800000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.002581","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.02308,46.835222],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793193270000,"ETR":1793205000000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2610.002585","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.910716,45.968388],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793193536000,"ETR":1793205000000,"LOCATION":"Reynolds Township","ORDERID":"JE.2610.002586","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.270885,46.860067],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793194160000,"ETR":1793205900000,"LOCATION":"Canosia Township","ORDERID":"JE.2610.002588","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.591533,47.099851],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793195858000,"ETR":1793207700000,"LOCATION":"Walker","ORDERID":"JE.2610.002589","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.095338,46.819737],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793196026000,"ETR":1793204100000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2610.002590","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.095338,46.819737],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793196026000,"ETR":1793204100000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2610.002590","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.168039,45.964502],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793200783000,"ETR":1793212200000,"LOCATION":"Agram Township","ORDERID":"JE.2610.002597","STATUS":"Assigned"},"type":"Feature"}
 ]}

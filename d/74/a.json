@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.050107,42.296847],"type":"Point"},"properties":{"estimateTime":1793155500000,"id":"232386","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-94.042166,42.348873],"type":"Point"},"properties":{"estimateTime":1793156400000,"id":"232392","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-94.07791,42.291492],"type":"Point"},"properties":{"estimateTime":1793156400000,"id":"232397","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-94.048975,42.32245],"type":"Point"},"properties":{"estimateTime":1793156400000,"id":"232398","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-94.04725,42.310567],"type":"Point"},"properties":{"estimateTime":1793156400000,"id":"232405","nbrOut":7,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-94.068316,42.286262],"type":"Point"},"properties":{"estimateTime":1793160900000,"id":"232414","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-94.018172,42.296276],"type":"Point"},"properties":{"estimateTime":1793160900000,"id":"232419","nbrOut":16,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-94.067902,42.339259],"type":"Point"},"properties":{"estimateTime":1793156400000,"id":"232392","nbrOut":45,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-94.059512,42.310301],"type":"Point"},"properties":{"estimateTime":1793161800000,"id":"232423","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-94.047816,42.338953],"type":"Point"},"properties":{"estimateTime":1793161800000,"id":"232424","nbrOut":19,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-94.0423,42.339538],"type":"Point"},"properties":{"estimateTime":1793161800000,"id":"232428","nbrOut":5,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-94.019025,42.296283],"type":"Point"},"properties":{"estimateTime":1793160900000,"id":"232434","nbrOut":16,"planned":false},"type":"Feature"}
 ]}

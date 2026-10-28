@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.000263,43.480095],"type":"Point"},"properties":{"crewAssigned":true,"id":"336470","nbrOut":1,"planned":false,"timeOff":1793195534000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.900465,44.030885],"type":"Point"},"properties":{"comment":"On site. Primary fuse is out. Troubleshooting.","crewAssigned":true,"estimateTime":1793205840000,"id":"336471","nbrOut":1,"planned":false,"timeOff":1793196887000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.550275,44.054958],"type":"Point"},"properties":{"crewAssigned":true,"id":"336473","nbrOut":1,"planned":false,"timeOff":1793199617000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.550275,44.054958],"type":"Point"},"properties":{"crewAssigned":true,"id":"336473","nbrOut":1,"planned":false,"timeOff":1793199617000},"type":"Feature"},
+{"geometry":{"coordinates":[-89.523065,44.083325],"type":"Point"},"properties":{"crewAssigned":false,"id":"336474","nbrOut":1,"planned":false,"timeOff":1793204593321},"type":"Feature"}
 ]}

@@ -15,7 +15,11 @@
 {"geometry":{"coordinates":[-86.199505,43.752081],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793237400000,"id":"1979421","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.007468,45.445008],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793239200000,"id":"1979423","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.051988,44.819041],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793239200000,"id":"1979424","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.028183,44.109008],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979425","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.623415,43.79984],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793239200000,"id":"1979426","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.028183,44.108221],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979428","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-85.028183,44.108221],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979428","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.028183,44.107989],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979430","nbrOut":3,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-84.891639,44.946405],"type":"Point"},"properties":{"crewAssigned":true,"id":"1979431","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.028183,44.109008],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979432","nbrOut":2,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.015022,44.109479],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979433","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-84.650252,45.001712],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793241000000,"id":"1979434","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

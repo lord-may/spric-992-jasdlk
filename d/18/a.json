@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.446345,46.709884],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1793151340000,"ETR":1793176200000,"LOCATION":"Cloquet","ORDERID":"JE.2610.002542","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.42989,46.644457],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793174224000,"ETR":1793181600000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.002581","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.200211,46.778586],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1793174969000,"ETR":1793182500000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002582","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.42989,46.644457],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793174224000,"ETR":1793181600000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.002581","STATUS":"Assigned"},"type":"Feature"}
 ]}

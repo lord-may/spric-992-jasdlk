@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.499465,39.532818],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T08:41:40.197-04:00","outageName":"D5-34-49-T1_TR","outagePoint":{"lat":39.53281824765707,"lng":-85.49946491441877},"outageRecID":"2026-10-28-0219","outageStartTime":"2026-10-28T08:38:21-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

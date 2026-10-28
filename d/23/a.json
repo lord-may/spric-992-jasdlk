@@ -18,7 +18,8 @@
 {"geometry":{"coordinates":[-93.300741,45.854598],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793232900000,"id":"731512","nbrOut":2,"timeOff":1793224317000},"type":"Feature"},
 {"geometry":{"coordinates":[-94.038698,45.616232],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793233800000,"id":"731513","nbrOut":1,"timeOff":1793224434146},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-92.658095,46.012902],[-92.635287,46.024973],[-92.637075,46.02768],[-92.655356,46.042877],[-92.662892,46.042092],[-92.65867,46.014973],[-92.658239,46.013289],[-92.658095,46.012902]]],"type":"Polygon"},{"coordinates":[-92.651762,46.028422],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1793232900000,"id":"731520","nbrOut":22,"timeOff":1793224618000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.965328,45.68921],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793234700000,"id":"731521","nbrOut":1,"timeOff":1793225285952},"type":"Feature"},
+{"geometry":{"coordinates":[-92.965328,45.68921],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793234700000,"id":"731521","nbrOut":1,"timeOff":1793225285952},"type":"Feature"},
 {"geometry":{"coordinates":[-92.815453,45.776718],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793234700000,"id":"731522","nbrOut":1,"timeOff":1793225254000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.25786,46.412575],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793236500000,"id":"731523","nbrOut":1,"timeOff":1793226816989},"type":"Feature"}
+{"geometry":{"coordinates":[-92.25786,46.412575],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793236500000,"id":"731523","nbrOut":1,"timeOff":1793226816989},"type":"Feature"},
+{"geometry":{"coordinates":[-93.152546,45.551105],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793238300000,"id":"731527","nbrOut":1,"timeOff":1793229137509},"type":"Feature"}
 ]}

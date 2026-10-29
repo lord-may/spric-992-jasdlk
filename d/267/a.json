@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-93.112884,44.515078],"type":"Point"},"properties":{"cone":"blueCone","info":"<div class=\"OutageContent\" id=348339><table><tr><td>Outage Alert</td><td>348339</td></tr><tr><td>Start Time</td><td>10/29/26 2:17 PM</td></tr><tr><td>Members Impacted</td><td>1</td></tr><tr><td>Restoration ERT</td><td></td></tr></table></div>","title":"Incident: 348339"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.854202,44.660745],"type":"Point"},"properties":{"cone":"blueCone","info":"<div class=\"OutageContent\" id=348411><table><tr><td>Outage Alert</td><td>348411</td></tr><tr><td>Start Time</td><td>10/29/26 1:46 PM</td></tr><tr><td>Members Impacted</td><td>1</td></tr><tr><td>Restoration ERT</td><td>10/29/26 3:52 PM</td></tr></table></div>","title":"Incident: 348411"},"type":"Feature"}
 ]}

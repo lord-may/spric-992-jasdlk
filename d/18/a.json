@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.720362,46.239496],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793231499000,"ETR":1793242800000,"LOCATION":"Partridge Township","ORDERID":"JE.2610.002645","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.720362,46.239496],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793231499000,"ETR":1793242800000,"LOCATION":"Partridge Township","ORDERID":"JE.2610.002645","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.849008,46.290397],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793237880000,"ETR":1793245500000,"LOCATION":"Kettle River Township","ORDERID":"JE.2610.002646","STATUS":"Assigned"},"type":"Feature"}
 ]}

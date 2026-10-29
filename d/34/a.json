@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-100.838819,38.039724],"type":"Point"},"properties":{"cause":"400 Decay/age of material/equipment","crewAssigned":true,"id":"449660","nbrOut":1,"planned":false,"timeOff":1793028056000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.761312,38.359322],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"449883","nbrOut":1,"planned":true,"timeOff":1793280987000},"type":"Feature"},
-{"geometry":{"coordinates":[-101.748768,37.984731],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"449884","nbrOut":2,"planned":true,"timeOff":1793283587391},"type":"Feature"}
+{"geometry":{"coordinates":[-101.748768,37.984731],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"449884","nbrOut":2,"planned":true,"timeOff":1793283587391},"type":"Feature"},
+{"geometry":{"coordinates":[-97.650276,37.389264],"type":"Point"},"properties":{"cause":"100 Construction","crewAssigned":true,"id":"449887","nbrOut":14,"planned":false,"timeOff":1793284210000},"type":"Feature"}
 ]}

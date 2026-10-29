@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.687327,44.325654],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","comment":"Sioux Valley Energy has planned power outage information for you. Line workers will be working in your area, irrigation along 211th Street, tomorrow morning, October 29th. Your power will be off around 8:00am for approximately 3 hours. Again, your irrigation will be with out power starting around 8:00am tomorrow morning. If you have any questions please call dispatch at 1 800 234 1960, Thank you.","crewAssigned":true,"estimateTime":1793289600000,"id":"446965","nbrOut":1,"timeOff":1793281536000},"type":"Feature"},
-{"geometry":{"coordinates":[-96.813684,44.268843],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"447015","nbrOut":1,"timeOff":1793286035000},"type":"Feature"}
+{"geometry":{"coordinates":[-96.813684,44.268843],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"id":"447015","nbrOut":1,"timeOff":1793286035000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.125206,44.061975],"type":"Point"},"properties":{"crewAssigned":false,"id":"447017","nbrOut":1,"timeOff":1793292588797},"type":"Feature"}
 ]}

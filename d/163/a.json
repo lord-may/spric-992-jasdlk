@@ -5,10 +5,10 @@
 {"geometry":{"coordinates":[-85.365563,44.966747],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793304900000,"id":"1979520","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.960638,44.816543],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793313900000,"id":"1979525","nbrOut":7,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.332038,44.960728],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793310300000,"id":"1979550","nbrOut":7,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.492666,43.51811],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793327400000,"id":"1979573","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.297731,45.035837],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793331000000,"id":"1979576","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.671278,43.325531],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793324700000,"id":"1979578","nbrOut":3,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.671278,43.325531],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793324700000,"id":"1979578","nbrOut":3,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.757934,45.017805],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793331900000,"id":"1979579","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-86.378,43.649027],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793331900000,"id":"1979581","nbrOut":9,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-86.06262,43.655663],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793325600000,"id":"1979587","nbrOut":119,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-86.06262,43.655663],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793325600000,"id":"1979587","nbrOut":119,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.492666,43.51811],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979588","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

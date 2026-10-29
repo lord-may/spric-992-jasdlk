@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.7163,47.491835],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":85,"DATEOFF":1793255303000,"ETR":1793267100000,"LOCATION":"Mountain Iron,Kinney,Buhl,Great Scott Township","ORDERID":"JE.2610.002675","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.730947,47.514352],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793255313000,"ETR":1793267100000,"LOCATION":"Kinney","ORDERID":"JE.2610.002676","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.155955,46.793866],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793255784000,"ETR":1793263500000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2610.002680","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.119344,46.771539],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793258529000,"ETR":1793266200000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.002682","STATUS":"Assigned"},"type":"Feature"}
 ]}

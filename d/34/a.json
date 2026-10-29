@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-100.838819,38.039724],"type":"Point"},"properties":{"cause":"400 Decay/age of material/equipment","crewAssigned":true,"id":"449660","nbrOut":1,"planned":false,"timeOff":1793028056000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.761312,38.359322],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"449883","nbrOut":1,"planned":true,"timeOff":1793280987000},"type":"Feature"},
-{"geometry":{"coordinates":[-101.359285,38.475841],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449892","nbrOut":1,"planned":true,"timeOff":1793295620000},"type":"Feature"}
+{"geometry":{"coordinates":[-101.359007,38.476066],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"449893","nbrOut":2,"planned":true,"timeOff":1793300815000},"type":"Feature"}
 ]}

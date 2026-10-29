@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.659368,47.482151],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793255309000,"ETR":1793280600000,"LOCATION":"Mountain Iron","ORDERID":"JE.2610.002684","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.659368,47.482151],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793255309000,"ETR":1793280600000,"LOCATION":"Mountain Iron","ORDERID":"JE.2610.002684","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.769635,45.989367],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793279909000,"ETR":1793291400000,"LOCATION":"Bruce Township","ORDERID":"JE.2610.002693","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.333608,46.779003],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":122,"DATEOFF":1793280021000,"ETR":1793287800000,"LOCATION":"Solway Township,Hermantown","ORDERID":"JE.2610.002706","STATUS":"Assigned"},"type":"Feature"}
 ]}

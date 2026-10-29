@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.769635,45.989367],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793279909000,"ETR":1793298600000,"LOCATION":"Bruce Township","ORDERID":"JE.2610.002693","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.878417,46.401518],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793282059000,"ETR":1793296800000,"LOCATION":"Bay Lake Township","ORDERID":"JE.2610.002719","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.878417,46.401518],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793282059000,"ETR":1793300400000,"LOCATION":"Bay Lake Township","ORDERID":"JE.2610.002719","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.136886,46.760094],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793282535000,"ETR":1793297700000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.002721","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.136963,46.760037],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793282833000,"ETR":1793297700000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.002722","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.110383,46.137061],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793288480000,"ETR":1793299500000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002734","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.094548,46.636895],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1793293702000,"ETR":1793304900000,"LOCATION":"Sebeka","ORDERID":"JE.2610.002736","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.110383,46.137061],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793288480000,"ETR":1793299500000,"LOCATION":"Wykeham Township","ORDERID":"JE.2610.002734","STATUS":"Assigned"},"type":"Feature"}
 ]}

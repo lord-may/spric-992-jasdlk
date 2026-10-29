@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-97.594338,39.605063],"type":"Point"},"properties":{"cause":"ELECTRICIAN-CONSUMER","crewAssigned":true,"id":"286158","nbrOut":1,"planned":false,"timeOff":1793283258000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.105372,39.533649],"type":"Point"},"properties":{"cause":"MAINTENANCE                   ","crewAssigned":true,"id":"286160","nbrOut":1,"planned":false,"timeOff":1793284905000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.859027,39.407794],"type":"Point"},"properties":{"crewAssigned":true,"id":"286166","nbrOut":7,"planned":false,"timeOff":1793293030000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.859027,39.407794],"type":"Point"},"properties":{"crewAssigned":true,"id":"286166","nbrOut":7,"planned":false,"timeOff":1793293030000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.386135,39.713667],"type":"Point"},"properties":{"crewAssigned":false,"id":"286167","nbrOut":1,"planned":false,"timeOff":1793294806000},"type":"Feature"}
 ]}

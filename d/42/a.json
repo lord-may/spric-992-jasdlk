@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.087661,40.873019],"type":"Point"},"properties":{"cause":"OTHER PUBLIC ACTS             ","crewAssigned":true,"id":"400187","nbrOut":1,"planned":false,"timeOff":1793303227000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-98.969102,40.780404],[-98.965535,40.782914],[-98.963864,40.797917],[-98.964161,40.843586],[-98.968706,40.844823],[-98.973692,40.844857],[-98.979684,40.844225],[-98.990248,40.840318],[-98.994596,40.830816],[-98.986763,40.803915],[-98.969102,40.780404]]],"type":"Polygon"},{"coordinates":[-98.976279,40.817819],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"400191","nbrOut":26,"planned":false,"timeOff":1793313961000},"type":"Feature"}
 ]}

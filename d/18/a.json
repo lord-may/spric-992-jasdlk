@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.000754,46.395281],"type":"Point"},"properties":{"CAUSE":"Customer Related","CUSTCOUNT":1,"DATEOFF":1793302847000,"ETR":1793314800000,"LOCATION":"Verndale","ORDERID":"JE.2610.002746","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.869765,46.03147],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793307550000,"ETR":1793315700000,"LOCATION":"Barry Township","ORDERID":"JE.2610.002751","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.869765,46.03147],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793307550000,"ETR":1793315700000,"LOCATION":"Barry Township","ORDERID":"JE.2610.002751","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.620983,46.61511],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":48,"DATEOFF":1793308904000,"ETR":1793316600000,"LOCATION":"North Carlton,Atkinson Township","ORDERID":"JE.2610.002752","STATUS":"Assigned"},"type":"Feature"}
 ]}

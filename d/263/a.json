@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-102.531817,47.661475],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-10-29T01:40:16.7500000-05:00","outageName":"12-Loop 17 West","outagePoint":{"lat":47.66147500288028,"lng":-102.53181736001756},"outageRecID":"2026-10-28-0048","outageStartTime":"2026-10-28T23:13:19-05:00","streetsAffected":null,"verified":false},"type":"Feature"},
-{"geometry":{"coordinates":[-102.510084,47.693796],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-10-29T03:41:13.1600000-05:00","outageName":"23-Loop 17 Backup","outagePoint":{"lat":47.69379574261235,"lng":-102.51008377347209},"outageRecID":"2026-10-29-0049","outageStartTime":"2026-10-29T01:39:27-05:00","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.620983,46.61511],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":48,"DATEOFF":1793308904000,"ETR":1793316600000,"LOCATION":"North Carlton,Atkinson Township","ORDERID":"JE.2610.002752","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.620983,46.61511],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":48,"DATEOFF":1793308904000,"ETR":1793316600000,"LOCATION":"North Carlton,Atkinson Township","ORDERID":"JE.2610.002752","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.095149,46.72482],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793311812000,"ETR":1793322900000,"LOCATION":"Superior","ORDERID":"JE.2610.002759","STATUS":"New Outage"},"type":"Feature"}
 ]}

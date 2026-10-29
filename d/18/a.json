@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.234858,46.836784],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793250819000,"ETR":1793259000000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002653","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.233325,46.83786],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1793250931000,"ETR":1793259000000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002654","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.226932,46.838493],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1793251307000,"ETR":1793259000000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002657","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.222017,46.837191],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793252081000,"ETR":1793259900000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002661","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.221,46.837207],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793252178000,"ETR":1793259900000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002662","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.20648,46.835122],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793253124000,"ETR":1793260800000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002663","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.191042,46.82562],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":15,"DATEOFF":1793253668000,"ETR":1793261700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002665","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.191042,46.82562],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":15,"DATEOFF":1793253668000,"ETR":1793261700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002665","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.188044,46.824155],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793253852000,"ETR":1793261700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002669","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.186758,46.823508],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793253850000,"ETR":1793261700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002670","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.18268,46.819459],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793254245000,"ETR":1793261700000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002671","STATUS":"Assigned"},"type":"Feature"}
 ]}

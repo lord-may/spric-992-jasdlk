@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.900302,38.513847],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T11:40:19.06-04:00","outageName":"S2  202S  31S 17","outagePoint":{"lat":38.51384738952455,"lng":-85.90030211844484},"outageRecID":"2026-10-29-0111","outageStartTime":"2026-10-29T11:40:17-04:00","outageWorkStatus":"","streetsAffected":["E WHISKEY RUN RD"],"verified":false},"type":"Feature"}
 ]}

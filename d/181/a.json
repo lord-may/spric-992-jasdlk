@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-88.995107,41.278125],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719851","nbrOut":2,"planned":false,"timeOff":1793278836000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.082307,40.491603],"type":"Point"},"properties":{"id":"719854","nbrOut":1,"planned":false,"timeOff":1793280718000},"type":"Feature"},
-{"geometry":{"coordinates":[-88.934084,40.510258],"type":"Point"},"properties":{"id":"719857","nbrOut":2,"planned":false,"timeOff":1793284805000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.082307,40.491603],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719854","nbrOut":1,"planned":false,"timeOff":1793280718000},"type":"Feature"},
+{"geometry":{"coordinates":[-88.925533,40.501993],"type":"Point"},"properties":{"id":"719855","nbrOut":1,"planned":false,"timeOff":1793282920000},"type":"Feature"},
+{"geometry":{"coordinates":[-88.759659,41.412048],"type":"Point"},"properties":{"id":"719860","nbrOut":1,"planned":false,"timeOff":1793287083853},"type":"Feature"},
+{"geometry":{"coordinates":[-89.620694,41.233952],"type":"Point"},"properties":{"id":"719861","nbrOut":1,"planned":false,"timeOff":1793287125442},"type":"Feature"}
 ]}

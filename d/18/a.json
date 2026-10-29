@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.65054,46.35641],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":116,"DATEOFF":1793227120000,"ETR":1793238300000,"LOCATION":"May Township,Becker Township,Motley Township","ORDERID":"JE.2610.002632","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.65054,46.35641],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":116,"DATEOFF":1793227120000,"ETR":1793238300000,"LOCATION":"May Township,Becker Township,Motley Township","ORDERID":"JE.2610.002632","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.720362,46.239496],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793231499000,"ETR":1793239200000,"LOCATION":"Partridge Township","ORDERID":"JE.2610.002645","STATUS":"New Outage"},"type":"Feature"}
 ]}

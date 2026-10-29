@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.374194,46.902025],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1793246275000,"ETR":1793261700000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2610.002647","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.272936,46.851079],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793246692000,"ETR":1793261700000,"LOCATION":"Canosia Township","ORDERID":"JE.2610.002648","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.272936,46.851079],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793246692000,"ETR":1793261700000,"LOCATION":"Canosia Township","ORDERID":"JE.2610.002648","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.267585,46.848704],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793248135000,"ETR":1793263500000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002649","STATUS":"Assigned"},"type":"Feature"}
 ]}

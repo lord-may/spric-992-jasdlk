@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.733464,47.497433],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":81,"DATEOFF":1793255303000,"ETR":1793267100000,"LOCATION":"Kinney,Buhl,Great Scott Township","ORDERID":"JE.2610.002675","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.730947,47.514352],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793255313000,"ETR":1793267100000,"LOCATION":"Kinney","ORDERID":"JE.2610.002676","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.733464,47.497433],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":81,"DATEOFF":1793255303000,"ETR":1793270700000,"LOCATION":"Kinney,Buhl,Great Scott Township","ORDERID":"JE.2610.002675","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.730947,47.514352],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793255313000,"ETR":1793270700000,"LOCATION":"Kinney","ORDERID":"JE.2610.002676","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.119344,46.771539],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793258529000,"ETR":1793273400000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2610.002682","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.659368,47.482151],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793255309000,"ETR":1793273400000,"LOCATION":"Mountain Iron","ORDERID":"JE.2610.002684","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.900419,45.996135],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793357394000,"ETR":1793368800000,"LOCATION":"Barry Township","ORDERID":"JE.2610.002767","STATUS":"Repairs in Progress"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.900419,45.996135],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793357394000,"ETR":1793368800000,"LOCATION":"Barry Township","ORDERID":"JE.2610.002767","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.234858,46.836784],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1793365020000,"ETR":1793373300000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002768","STATUS":"Assigned"},"type":"Feature"}
 ]}

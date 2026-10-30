@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.912151,42.467899],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":42.46789905,"location":"CREIGHTON","locationType":1,"lon":-97.91215133,"zipCode":"68729"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"10/30/2026 8:00:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":null,"OutageAttribute3":null,"OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002503-1","lat":42.46789905,"location":"CREIGHTON","locationType":1,"lon":-97.91215133,"name":null,"notes":"Utility","outageType":2,"restorationTime":"20:00","serviceType":1,"startTime":"10/30/2026 17:23:00","status":1,"zipCode":"68729"},"type":"Feature"}
 ]}

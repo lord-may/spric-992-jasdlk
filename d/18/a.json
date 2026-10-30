@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.865584,46.130228],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793367727000,"ETR":1793382300000,"LOCATION":"Sandstone","ORDERID":"JE.2610.002776","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.099921,46.722127],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793378249000,"ETR":1793393100000,"LOCATION":"Superior","ORDERID":"JE.2610.002797","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.078486,46.317824],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793386209000,"ETR":1793397600000,"LOCATION":"Hewitt","ORDERID":"JE.2610.002806","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.385844,46.737862],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1793387038000,"ETR":1793398500000,"LOCATION":"Chickamaw Beach","ORDERID":"JE.2610.002809","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.111841,46.898005],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793388036000,"ETR":1793395800000,"LOCATION":"Rice Lake","ORDERID":"JE.2610.002810","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.099921,46.722127],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793378249000,"ETR":1793393100000,"LOCATION":"Superior","ORDERID":"JE.2610.002797","STATUS":"Repairs in Progress"},"type":"Feature"}
 ]}

@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.234858,46.836784],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1793365020000,"ETR":1793373300000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002768","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.234858,46.836784],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1793365020000,"ETR":1793373300000,"LOCATION":"Hermantown","ORDERID":"JE.2610.002768","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.087749,46.812169],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793365203000,"ETR":1793373300000,"LOCATION":"Duluth - UMD Chester Creek","ORDERID":"JE.2610.002769","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.155542,46.750375],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793366275000,"ETR":1793374200000,"LOCATION":"Duluth - Denfeld","ORDERID":"JE.2610.002770","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.015861,46.835389],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793367139000,"ETR":1793375100000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2610.002773","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.865584,46.130228],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793367727000,"ETR":1793375100000,"LOCATION":"Sandstone","ORDERID":"JE.2610.002776","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.865584,46.130228],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793367727000,"ETR":1793375100000,"LOCATION":"Sandstone","ORDERID":"JE.2610.002776","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.067109,46.834831],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":15,"DATEOFF":1793368251000,"ETR":1793376000000,"LOCATION":"Duluth - Woodland","ORDERID":"JE.2610.002779","STATUS":"Assigned"},"type":"Feature"}
 ]}

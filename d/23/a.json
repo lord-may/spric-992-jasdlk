@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-93.314342,45.974014],[-93.313228,45.976068],[-93.314773,45.975569],[-93.316336,45.974626],[-93.316354,45.974308],[-93.315833,45.974108],[-93.314342,45.974014]]],"type":"Polygon"},{"coordinates":[-93.314791,45.97487],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793379600000,"id":"732036","nbrOut":14,"timeOff":1793371291000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.983573,45.51275],"type":"Point"},"properties":{"cause":"Faulted Secondary Cable","crewAssigned":true,"estimateTime":1793378700000,"id":"732039","nbrOut":1,"timeOff":1793369130927},"type":"Feature"},
 {"geometry":{"coordinates":[-92.925659,45.824396],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793377800000,"id":"732040","nbrOut":1,"timeOff":1793370152000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.982818,45.512744],"type":"Point"},"properties":{"cause":"Faulted Secondary Cable","crewAssigned":true,"estimateTime":1793382300000,"id":"732041","nbrOut":1,"timeOff":1793373123000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.806008,45.836539],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793384100000,"id":"732042","nbrOut":1,"timeOff":1793376472000},"type":"Feature"}
 ]}

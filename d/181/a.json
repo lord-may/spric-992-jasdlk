@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.679686,41.401005],"type":"Point"},"properties":{"id":"719894","nbrOut":1,"planned":false,"timeOff":1793366210000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.264135,41.145773],"type":"Point"},"properties":{"cause":"CONSTRUCTION                  ","id":"719919","nbrOut":1,"planned":false,"timeOff":1793374111000},"type":"Feature"},
 {"geometry":{"coordinates":[-88.923889,40.462911],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"719920","nbrOut":1,"planned":false,"timeOff":1793374229000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-88.925946,40.471317],[-88.925586,40.472069],[-88.926341,40.473162],[-88.926377,40.473121],[-88.926619,40.472137],[-88.926521,40.471768],[-88.926494,40.471679],[-88.925946,40.471317]]],"type":"Polygon"},{"coordinates":[-88.926152,40.472157],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"719923","nbrOut":13,"planned":false,"timeOff":1793374713000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-89.26665,41.149358],[-89.27522,41.150731],[-89.275759,41.149866],[-89.26665,41.149358]]],"type":"Polygon"},{"coordinates":[-89.272543,41.149987],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"719927","nbrOut":5,"planned":false,"timeOff":1793375507000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.644742,41.274432],"type":"Point"},"properties":{"cause":"FARM MACHINERY ACCIDENT       ","id":"719928","nbrOut":1,"planned":false,"timeOff":1793375961840},"type":"Feature"}
 ]}

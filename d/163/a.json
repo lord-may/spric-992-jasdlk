@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.636356,44.896683],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793394000000,"id":"1979616","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.340033,44.960779],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793395800000,"id":"1979622","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.050919,44.826113],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793395800000,"id":"1979623","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.35331,44.964993],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793396700000,"id":"1979628","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.400179,44.928263],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793397600000,"id":"1979634","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.6781,45.00558],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793398500000,"id":"1979636","nbrOut":1,"planned":false},"type":"Feature"},
@@ -13,5 +12,5 @@
 {"geometry":{"coordinates":[-85.114852,44.72869],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793403900000,"id":"1979645","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.609694,44.867168],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793403900000,"id":"1979647","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.145377,44.772015],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793403900000,"id":"1979648","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.293145,44.659059],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979649","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-85.762169,43.912239],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793404800000,"id":"1979650","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.632612,39.836691],"type":"Point"},"properties":{"COUNTY":"CLARK","EstimateTime":"10/30/2026 07:00 AM","INCIDENTID":"1819249","IND":"D","LAT":"39.83669132","LNG":"-83.6326118048677","OutageTime":"10/30/2026 03:15 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.753535,39.432452],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"10/30/2026 07:00 AM","INCIDENTID":"1819253","IND":"D","LAT":"39.43245171","LNG":"-83.7535354034452","OutageTime":"10/30/2026 04:42 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.631419,39.83759],"type":"Point"},"properties":{"COUNTY":"CLARK","EstimateTime":"10/30/2026 11:00 AM","INCIDENTID":"1819249","IND":"D","LAT":"39.83759022","LNG":"-83.6314194214586","OutageTime":"10/30/2026 03:15 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.752351,39.433351],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"10/30/2026 09:00 AM","INCIDENTID":"1819253","IND":"D","LAT":"39.43335061","LNG":"-83.7523505027582","OutageTime":"10/30/2026 04:42 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

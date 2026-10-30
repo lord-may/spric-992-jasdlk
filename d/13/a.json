@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-87.441659,41.533664],"type":"Point"},"properties":{"affected":3,"cause":"Not Yet Determined","city":"GRIFFITH","comment":"Not Yet Determined","lat":41.533664,"lng":-87.441659,"maxAffected":3,"reported":"0001-01-01T00:00:00","restore":"2026-10-30T10:00:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46319"},"type":"Feature"},
-{"geometry":{"coordinates":[-87.445211,41.533193],"type":"Point"},"properties":{"affected":46,"cause":"scheduled","city":"GRIFFITH","comment":"scheduled","lat":41.533193,"lng":-87.445211,"maxAffected":46,"reported":"2026-10-29T22:32:00","restore":"2026-10-30T04:30:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46319"},"type":"Feature"}
+{"geometry":{"coordinates":[-87.445211,41.533193],"type":"Point"},"properties":{"affected":46,"cause":"scheduled","city":"GRIFFITH","comment":"scheduled","lat":41.533193,"lng":-87.445211,"maxAffected":46,"reported":"2026-10-29T22:32:00","restore":"2026-10-30T04:45:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46319"},"type":"Feature"}
 ]}

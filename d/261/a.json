@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.100717,38.117571],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T09:18:55.273-04:00","outageName":"E3-32-P018","outagePoint":{"lat":38.11757097840645,"lng":-86.10071653333617},"outageRecID":"2026-10-30-0563","outageStartTime":"2026-10-30T09:16:33-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-86.012769,38.338413],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T09:22:01.54-04:00","outageName":"C4-18-038","outagePoint":{"lat":38.33841340637072,"lng":-86.01276863416473},"outageRecID":"2026-10-30-0564","outageStartTime":"2026-10-30T09:19:34-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

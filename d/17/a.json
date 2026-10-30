@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.681918,40.821594],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"4024","INCIDENT_ID":525808,"LES_AREA":"","REGION":4,"STATUS":1,"TIME_OUTAGE":"10/30/2026 08:27 AM","X":165742.719,"Y":208252.1},"type":"Feature"},
-{"geometry":{"coordinates":[-96.644633,40.863376],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5912","INCIDENT_ID":525813,"LES_AREA":"","REGION":1,"STATUS":0,"TIME_OUTAGE":"10/30/2026 08:48 AM","X":176055.25,"Y":223478.422},"type":"Feature"}
+{"geometry":{"coordinates":[-96.644493,40.864454],"type":"Point"},"properties":{"CAUSE":106,"CUSTOMER_COUNT":40,"DEVICE_FCID":100870,"FEEDER_ID":"5912","INCIDENT_ID":525815,"LES_AREA":"MOrton St- Russell Dr/ N 56th- N Old HWY 77","REGION":1,"STATUS":0,"TIME_OUTAGE":"10/30/2026 08:48 AM","X":176093.813,"Y":223871.344},"type":"Feature"}
 ]}

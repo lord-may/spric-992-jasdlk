@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.433157,39.323907],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T17:20:10.62-04:00","outageName":"T46-4C-75.9","outagePoint":{"lat":39.3239067769989,"lng":-87.43315738738771},"outageRecID":"2026-10-30-0364","outageStartTime":"2026-10-30T17:06:45-04:00","outageWorkStatus":"","streetsAffected":["W OREGON CHURCH RD"],"verified":false},"type":"Feature"}
 ]}

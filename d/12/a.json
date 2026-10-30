@@ -4,7 +4,7 @@
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CLINTON","TotOut":"536"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"231"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"221"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,7 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"231","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.167479,39.753341],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/30/2026 04:00 AM","INCIDENTID":"1819243","IND":"D","LAT":"39.75334069","LNG":"-84.167478694202","OutageTime":"10/30/2026 12:20 AM","TOTALCUSTS":"10"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.167998,39.752943],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/30/2026 03:00 AM","INCIDENTID":"1819244","IND":"D","LAT":"39.75294302","LNG":"-84.1679981923466","OutageTime":"10/30/2026 12:31 AM","TOTALCUSTS":"221"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"757","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.75415,39.429425],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"10/30/2026 04:00 AM","INCIDENTID":"299329","IND":"T","LAT":"39.4294245915863","LNG":"-83.7541495953866","OutageTime":"10/30/2026 02:21 AM","TOTALCUSTS":"536"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.168953,39.752222],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/30/2026 03:00 AM","INCIDENTID":"1819244","IND":"D","LAT":"39.75222212","LNG":"-84.1689532077958","OutageTime":"10/30/2026 12:20 AM","TOTALCUSTS":"221"},"type":"Feature"}
 ]}

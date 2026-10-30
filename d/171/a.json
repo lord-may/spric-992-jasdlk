@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.728189,39.057386],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T14:05:34.55-04:00","outageName":"HA   61N  19W 10","outagePoint":{"lat":39.05738620561863,"lng":-85.72818852295848},"outageRecID":"2026-10-30-0119","outageStartTime":"2026-10-30T14:05:30-04:00","outageWorkStatus":"","streetsAffected":["W COUNTY ROAD 500 N"],"verified":false},"type":"Feature"}
 ]}

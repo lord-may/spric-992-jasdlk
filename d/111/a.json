@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.708833,46.373716],"type":"Point"},"properties":{"cause":"PUBLIC,TEL,WATER,GAS DIG-IN","crewAssigned":false,"id":"445482","nbrOut":1,"timeOff":1793389622752},"type":"Feature"},
-{"geometry":{"coordinates":[-98.708482,46.373827],"type":"Point"},"properties":{"cause":"PUBLIC,TEL,WATER,GAS DIG-IN","crewAssigned":false,"id":"445483","nbrOut":1,"timeOff":1793389669091},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-98.967296,46.48355],[-98.921392,46.486934],[-98.921545,46.487837],[-98.922479,46.488733],[-98.967197,46.521596],[-98.967296,46.48355]]],"type":"Polygon"},{"coordinates":[-98.951576,46.497404],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"FARM MACHINERY","crewAssigned":true,"id":"445485","nbrOut":7,"timeOff":1793392054000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.708482,46.373827],"type":"Point"},"properties":{"cause":"PUBLIC,TEL,WATER,GAS DIG-IN","crewAssigned":false,"id":"445483","nbrOut":1,"timeOff":1793389669091},"type":"Feature"}
 ]}

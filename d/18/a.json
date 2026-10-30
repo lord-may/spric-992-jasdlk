@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.155542,46.750375],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793366275000,"ETR":1793381400000,"LOCATION":"Duluth - Denfeld","ORDERID":"JE.2610.002770","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.015861,46.835389],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793367139000,"ETR":1793378700000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2610.002773","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.865584,46.130228],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793367727000,"ETR":1793378700000,"LOCATION":"Sandstone","ORDERID":"JE.2610.002776","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.015861,46.835389],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793367139000,"ETR":1793382300000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2610.002773","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.865584,46.130228],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793367727000,"ETR":1793382300000,"LOCATION":"Sandstone","ORDERID":"JE.2610.002776","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.619453,47.265725],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793370661000,"ETR":1793382300000,"LOCATION":"Cohasset","ORDERID":"JE.2610.002784","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.25348,46.471053],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":41,"DATEOFF":1793371159000,"ETR":1793382300000,"LOCATION":"Lake Edward Township","ORDERID":"JE.2610.002785","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.452979,46.677203],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793375662000,"ETR":1793383200000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2610.002795","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.152261,46.930803],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793376715000,"ETR":1793384100000,"LOCATION":"Rice Lake","ORDERID":"JE.2610.002796","STATUS":"Assigned"},"type":"Feature"}
 ]}

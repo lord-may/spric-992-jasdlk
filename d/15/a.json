@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.917033,43.013253],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting Assignment","ETR":"Oct 31, 10:30 a.m.","IsGlobal":false,"Latitude":43.013253332279334,"Longitude":-87.91703332492618,"OffTime":"Oct 31, 7:20 a.m.","Slices":[{"AffectedCusts":56,"City":"milwaukee","CityCusts":352431,"County":"milwaukee","CountyCusts":480328,"Region":"southeast wi","RegionCusts":1075951,"Zip":"53204","ZipCusts":17670}]},"type":"Feature"},
+{"geometry":{"coordinates":[-87.974348,43.076848],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting Assignment","ETR":"Not yet determined","IsGlobal":false,"Latitude":43.0768484343866,"Longitude":-87.97434754243852,"OffTime":"Oct 31, 7:37 a.m.","Slices":[{"AffectedCusts":1,"City":"milwaukee","CityCusts":352431,"County":"milwaukee","CountyCusts":480328,"Region":"southeast wi","RegionCusts":1075951,"Zip":"53216","ZipCusts":14840}]},"type":"Feature"}
 ]}

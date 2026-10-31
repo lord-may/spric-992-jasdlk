@@ -13,9 +13,9 @@
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MERCER","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"8"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,6 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"10","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.199654,39.692852],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 08:00 PM","INCIDENTID":"1819398","IND":"D","LAT":"39.69285202","LNG":"-84.1996540537876","OutageTime":"10/31/2026 02:17 PM","TOTALCUSTS":"8"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.620909,40.56023],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"10/31/2026 08:00 PM","INCIDENTID":"1819405","IND":"D","LAT":"40.56023033","LNG":"-84.6209087286954","OutageTime":"10/31/2026 04:02 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.366441,40.24903],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"10/31/2026 09:00 PM","INCIDENTID":"1819411","IND":"D","LAT":"40.24903042","LNG":"-83.366440888305","OutageTime":"10/31/2026 06:25 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.37073,40.245818],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"10/31/2026 09:00 PM","INCIDENTID":"1819411","IND":"D","LAT":"40.24581752","LNG":"-83.3707304987287","OutageTime":"10/31/2026 06:25 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

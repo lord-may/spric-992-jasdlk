@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"TotalOut":"161","UMTime":"","UMessage":""},"type":"Feature"},
-{"geometry":{"coordinates":[-86.272917,39.842607],"type":"Point"},"properties":{"CustAffected":"8","Etr":"10/31/2026 11:00 PM","IncidentId":"6ae66077273a20568e79063d","Lat":"39.842607191788765","Long":"-86.27291724878846","OutageStart":"10/31/2026 05:40 PM","outageType":"OUTAGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-85.98816,39.806531],"type":"Point"},"properties":{"CustAffected":"80","Etr":"10/31/2026 11:00 PM","IncidentId":"6ae664f7273a20568e790c31","Lat":"39.806530730904946","Long":"-85.98816032866542","OutageStart":"10/31/2026 05:59 PM","outageType":"OUTAGE"},"type":"Feature"},
+{"geometry":null,"properties":{"TotalOut":"153","UMTime":"","UMessage":""},"type":"Feature"},
 {"geometry":{"coordinates":[-85.99051,39.805317],"type":"Point"},"properties":{"CustAffected":"4","Etr":"10/31/2026 11:30 PM","IncidentId":"6ae666a6273a20568e79177d","Lat":"39.80531650120908","Long":"-85.99050981999999","OutageStart":"10/31/2026 05:59 PM","outageType":"OUTAGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-85.986654,39.806537],"type":"Point"},"properties":{"CustAffected":"30","Etr":"10/31/2026 11:00 PM","IncidentId":"6ae666b5273a20568e791903","Lat":"39.80653652905342","Long":"-85.98665396529692","OutageStart":"10/31/2026 05:59 PM","outageType":"OUTAGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-85.989703,39.806573],"type":"Point"},"properties":{"CustAffected":"39","Etr":"10/31/2026 11:00 PM","IncidentId":"6ae666b5273a20568e791945","Lat":"39.80657254741218","Long":"-85.98970294054676","OutageStart":"10/31/2026 05:59 PM","outageType":"OUTAGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-85.988244,39.806546],"type":"Point"},"properties":{"CustAffected":"149","Etr":"10/31/2026 11:00 PM","IncidentId":"6ae666b5273a20568e791945","Lat":"39.80654595731476","Long":"-85.98824424694577","OutageStart":"10/31/2026 05:59 PM","outageType":"OUTAGE"},"type":"Feature"}
 ]}

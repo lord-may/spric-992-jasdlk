@@ -20,10 +20,11 @@
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"UNION","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"9","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.202787,39.690485],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 08:00 PM","INCIDENTID":"1819398","IND":"D","LAT":"39.69048462","LNG":"-84.2027872291425","OutageTime":"10/31/2026 02:17 PM","TOTALCUSTS":"8"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.624085,40.557863],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"10/31/2026 08:00 PM","INCIDENTID":"1819405","IND":"D","LAT":"40.55786293","LNG":"-84.6240852847252","OutageTime":"10/31/2026 04:02 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"10","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.199654,39.692852],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 08:00 PM","INCIDENTID":"1819398","IND":"D","LAT":"39.69285202","LNG":"-84.1996540537876","OutageTime":"10/31/2026 02:17 PM","TOTALCUSTS":"8"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.620909,40.56023],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"10/31/2026 08:00 PM","INCIDENTID":"1819405","IND":"D","LAT":"40.56023033","LNG":"-84.6209087286954","OutageTime":"10/31/2026 04:02 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.366441,40.24903],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"10/31/2026 09:00 PM","INCIDENTID":"1819411","IND":"D","LAT":"40.24903042","LNG":"-83.366440888305","OutageTime":"10/31/2026 06:25 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.049729,46.587947],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793457000000,"id":"732056","nbrOut":2,"timeOff":1793443271000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.049729,46.587947],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793457000000,"id":"732056","nbrOut":2,"timeOff":1793443271000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-93.14836,45.795517],[-93.147534,45.79588],[-93.147516,45.796331],[-93.147731,45.796582],[-93.148378,45.7966],[-93.148423,45.796049],[-93.148414,45.79588],[-93.14836,45.795517]]],"type":"Polygon"},{"coordinates":[-93.14801,45.796124],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1793462400000,"id":"732058","nbrOut":9,"timeOff":1793454763000},"type":"Feature"}
 ]}

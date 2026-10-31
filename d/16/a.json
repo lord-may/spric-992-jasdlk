@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.285864,45.029179],"type":"Point"},"properties":{"Cause":"Vehicle accident","CrewStatus":"Assigned","ETR":"Oct 31, 5:00 p.m.","IsGlobal":false,"Latitude":45.02917921508021,"Longitude":-89.28586387329827,"OffTime":"Oct 31, 2:06 p.m.","Slices":[{"AffectedCusts":5,"City":"plover","CityCusts":9030,"County":"marathon","CountyCusts":62601,"Region":"","RegionCusts":0,"Zip":"54408","ZipCusts":433},{"AffectedCusts":1,"City":"plover","CityCusts":9030,"County":"marathon","CountyCusts":62601,"Region":"","RegionCusts":0,"Zip":"54414","ZipCusts":454}]},"type":"Feature"}
 ]}

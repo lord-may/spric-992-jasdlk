@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-92.051086,46.587688],[-92.049101,46.588447],[-92.050241,46.595559],[-92.050852,46.597608],[-92.052676,46.597614],[-92.051086,46.587688]]],"type":"Polygon"},{"coordinates":[-92.05087,46.592775],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1793445300000,"id":"732054","nbrOut":7,"timeOff":1793436643000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.049729,46.587947],"type":"Point"},"properties":{"cause":"Faulted Primary Cable","crewAssigned":true,"estimateTime":1793457000000,"id":"732056","nbrOut":2,"timeOff":1793443271000},"type":"Feature"}
 ]}

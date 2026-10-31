@@ -24,8 +24,7 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"8","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.212569,39.649825],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/30/2026 11:00 PM","INCIDENTID":"1819299","IND":"D","LAT":"39.64982464","LNG":"-84.2125685378256","OutageTime":"10/30/2026 11:24 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.007081,39.826365],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/30/2026 09:00 PM","INCIDENTID":"1819356","IND":"D","LAT":"39.8263651140923","LNG":"-84.0070806603066","OutageTime":"10/30/2026 06:15 PM","TOTALCUSTS":"6"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.072841,39.64528],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/30/2026 10:00 PM","INCIDENTID":"1819359","IND":"D","LAT":"39.64528039","LNG":"-84.0728406620799","OutageTime":"10/30/2026 07:45 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.212385,39.659154],"type":"Point"},"properties":{"EstimateTime":"null","INCIDENTID":"1819360","IND":"D","LAT":"39.6591535","LNG":"-84.2123847381372","OutageTime":"10/30/2026 11:35 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.210697,39.65124],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/30/2026 11:00 PM","INCIDENTID":"1819299","IND":"D","LAT":"39.65123974","LNG":"-84.210696878397","OutageTime":"10/30/2026 11:24 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.005204,39.82778],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/30/2026 09:00 PM","INCIDENTID":"1819356","IND":"D","LAT":"39.8277802140923","LNG":"-84.0052038285832","OutageTime":"10/30/2026 06:15 PM","TOTALCUSTS":"6"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.070969,39.646695],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"10/30/2026 10:00 PM","INCIDENTID":"1819359","IND":"D","LAT":"39.64669549","LNG":"-84.0709691351635","OutageTime":"10/30/2026 07:45 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

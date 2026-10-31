@@ -24,8 +24,8 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"76","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.197987,39.624679],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 06:00 PM","INCIDENTID":"1819391","IND":"D","LAT":"39.6246794","LNG":"-84.197986598427","OutageTime":"10/31/2026 01:30 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.199454,39.693003],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 05:00 PM","INCIDENTID":"1819398","IND":"D","LAT":"39.69300332","LNG":"-84.1994538132574","OutageTime":"10/31/2026 02:17 PM","TOTALCUSTS":"6"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.466983,39.87308],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/31/2026 06:00 PM","INCIDENTID":"1819401","IND":"D","LAT":"39.87308012","LNG":"-84.4669831983442","OutageTime":"10/31/2026 02:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.745288,40.264766],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"null","INCIDENTID":"1819402","IND":"D","LAT":"40.26476598","LNG":"-83.7452875447432","OutageTime":"10/31/2026 03:08 PM","TOTALCUSTS":"68"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.198716,39.624128],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 06:00 PM","INCIDENTID":"1819391","IND":"D","LAT":"39.6241276","LNG":"-84.1987161101844","OutageTime":"10/31/2026 01:30 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.200184,39.692452],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"10/31/2026 06:00 PM","INCIDENTID":"1819398","IND":"D","LAT":"39.69245152","LNG":"-84.2001841022499","OutageTime":"10/31/2026 02:17 PM","TOTALCUSTS":"6"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.467716,39.872528],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"10/31/2026 06:00 PM","INCIDENTID":"1819401","IND":"D","LAT":"39.87252832","LNG":"-84.4677155491195","OutageTime":"10/31/2026 02:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.746024,40.264214],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"10/31/2026 05:00 PM","INCIDENTID":"1819402","IND":"D","LAT":"40.26421418","LNG":"-83.7460244474303","OutageTime":"10/31/2026 03:08 PM","TOTALCUSTS":"68"},"type":"Feature"}
 ]}

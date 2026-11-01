@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.505161,46.0497],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T16:48:06-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T14:54:56.47-06:00","outageName":"MILLERVILLE - MAIN FEEDER","outagePoint":{"lat":46.049700368177135,"lng":-95.5051606068276},"outageRecID":"2026-11-01-0002","outageStartTime":"2026-11-01T14:48:06-06:00","outageWorkStatus":"In Review","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

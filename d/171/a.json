@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.012623,38.778741],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T01:32:43.1-05:00","outageName":"WC  270","outagePoint":{"lat":38.77874093496021,"lng":-86.01262252562385},"outageRecID":"2026-11-01-0001","outageStartTime":"2026-11-01T01:32:39-05:00","outageWorkStatus":"","streetsAffected":["E COUNTY ROAD 700 S"],"verified":false},"type":"Feature"}
 ]}

@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.326037,46.708589],"type":"Point"},"properties":{"CAUSE":"Public","CUSTCOUNT":60,"DATEOFF":1793564555000,"ETR":1793575800000,"LOCATION":"Wilson Township,Gail Lake Township,Ideal Township,Jenkins Township,Barclay Township","ORDERID":"JE.2611.000071","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.307294,46.712833],"type":"Point"},"properties":{"CAUSE":"Public","CUSTCOUNT":176,"DATEOFF":1793564558000,"ETR":1793575800000,"LOCATION":"Pine River,Wilson Township,Gail Lake Township,Ideal Township,Timothy Township,Jenkins Township,Barclay Township","ORDERID":"JE.2611.000080","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.30057,46.698346],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793565370000,"ETR":1793573100000,"LOCATION":"Midway Township","ORDERID":"JE.2611.000116","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.292628,46.87804],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793567400000,"ETR":1793574900000,"LOCATION":"Canosia Township","ORDERID":"JE.2611.000117","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.058736,45.989556],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793559834000,"ETR":1793571300000,"LOCATION":"Granite Township","ORDERID":"JE.2611.000066","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.704831,47.409394],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793561500000,"ETR":1793573100000,"LOCATION":"Cherry Township","ORDERID":"JE.2611.000069","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.326037,46.708589],"type":"Point"},"properties":{"CAUSE":"Public","CUSTCOUNT":60,"DATEOFF":1793564555000,"ETR":1793575800000,"LOCATION":"Wilson Township,Gail Lake Township,Ideal Township,Jenkins Township,Barclay Township","ORDERID":"JE.2611.000071","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.307294,46.712833],"type":"Point"},"properties":{"CAUSE":"Public","CUSTCOUNT":176,"DATEOFF":1793564558000,"ETR":1793575800000,"LOCATION":"Pine River,Wilson Township,Gail Lake Township,Ideal Township,Timothy Township,Jenkins Township,Barclay Township","ORDERID":"JE.2611.000080","STATUS":"Assigned"},"type":"Feature"}
 ]}

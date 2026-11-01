@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.455256,43.962973],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":3,"ID":91702,"INCIDENT_ID":"91702","TIME_OUTAGE":1793497647363,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
-{"geometry":{"coordinates":[-92.454358,43.957182],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":2,"ID":91703,"INCIDENT_ID":"91703","TIME_OUTAGE":1793497663640,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
-{"geometry":{"coordinates":[-92.459651,43.948806],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":22,"ID":91709,"INCIDENT_ID":"91709","TIME_OUTAGE":1793497708450,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+{"geometry":{"coordinates":[-92.452525,43.985596],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":1288,"ID":91727,"INCIDENT_ID":"91727","TIME_OUTAGE":1793494821000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
 ]}

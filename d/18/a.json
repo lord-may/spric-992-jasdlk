@@ -4,6 +4,5 @@
 {"geometry":{"coordinates":[-94.258901,46.714183],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793554226000,"ETR":1793565900000,"LOCATION":"Ideal Township","ORDERID":"JE.2611.000061","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.361063,46.689063],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":92,"DATEOFF":1793554212000,"ETR":1793565900000,"LOCATION":"Wilson Township,Jenkins Township,Barclay Township","ORDERID":"JE.2611.000064","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.058736,45.989556],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793559834000,"ETR":1793571300000,"LOCATION":"Granite Township","ORDERID":"JE.2611.000066","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.348571,48.609353],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793560266000,"ETR":1793572200000,"LOCATION":"Ranier","ORDERID":"JE.2611.000068","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.704831,47.409394],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793561500000,"ETR":1793573100000,"LOCATION":"Cherry Township","ORDERID":"JE.2611.000069","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.704831,47.409394],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793561500000,"ETR":1793573100000,"LOCATION":"Cherry Township","ORDERID":"JE.2611.000069","STATUS":"Assigned"},"type":"Feature"}
 ]}

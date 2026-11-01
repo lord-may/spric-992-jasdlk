@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.314485,40.391663],"type":"Point"},"properties":{"id":"719941","nbrOut":1,"planned":false,"timeOff":1793545648000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-89.313254,40.385341],[-89.314278,40.39143],[-89.315653,40.391095],[-89.313254,40.385341]]],"type":"Polygon"},{"coordinates":[-89.314395,40.389296],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"719942","nbrOut":4,"planned":false,"timeOff":1793545648000},"type":"Feature"}
 ]}

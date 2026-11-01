@@ -24,8 +24,8 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.227049,39.65222],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/01/2026 05:00 PM","INCIDENTID":"1819415","IND":"D","LAT":"39.65222001","LNG":"-84.2270488070624","OutageTime":"10/31/2026 07:24 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.724539,40.393188],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/01/2026 01:00 PM","INCIDENTID":"1819499","IND":"D","LAT":"40.39318792","LNG":"-83.724539364653","OutageTime":"11/01/2026 11:35 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.382952,40.355099],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/01/2026 02:00 PM","INCIDENTID":"1819503","IND":"D","LAT":"40.35509869","LNG":"-83.3829515261972","OutageTime":"11/01/2026 11:54 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.487136,40.448005],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"null","INCIDENTID":"1819505","IND":"D","LAT":"40.448004953102","LNG":"-84.4871362084145","OutageTime":"11/01/2026 12:14 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.225377,39.653484],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/01/2026 05:00 PM","INCIDENTID":"1819415","IND":"D","LAT":"39.65348381","LNG":"-84.2253772095079","OutageTime":"10/31/2026 07:24 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.722848,40.394452],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/01/2026 01:00 PM","INCIDENTID":"1819499","IND":"D","LAT":"40.39445172","LNG":"-83.7228480889838","OutageTime":"11/01/2026 11:35 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.381261,40.356362],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/01/2026 02:00 PM","INCIDENTID":"1819503","IND":"D","LAT":"40.35636249","LNG":"-83.3812612807212","OutageTime":"11/01/2026 11:54 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.485443,40.449269],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/01/2026 02:00 PM","INCIDENTID":"1819505","IND":"D","LAT":"40.449268753102","LNG":"-84.4854434465142","OutageTime":"11/01/2026 12:14 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

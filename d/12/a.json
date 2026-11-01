@@ -22,8 +22,9 @@
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.225777,39.653181],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/01/2026 01:00 PM","INCIDENTID":"1819415","IND":"D","LAT":"39.65318121","LNG":"-84.2257774511759","OutageTime":"10/31/2026 07:24 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.175102,39.843498],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/01/2026 12:00 PM","INCIDENTID":"1819493","IND":"D","LAT":"39.84349824","LNG":"-84.1751015561529","OutageTime":"11/01/2026 09:39 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"County":"WARREN","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.228744,39.650938],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/01/2026 01:00 PM","INCIDENTID":"1819415","IND":"D","LAT":"39.65093841","LNG":"-84.2287439482444","OutageTime":"10/31/2026 07:24 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.178077,39.841255],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/01/2026 12:00 PM","INCIDENTID":"1819493","IND":"D","LAT":"39.84125544","LNG":"-84.1780768946313","OutageTime":"11/01/2026 09:39 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.063676,39.528052],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/01/2026 01:00 PM","INCIDENTID":"1819498","IND":"D","LAT":"39.52805186","LNG":"-84.0636762349545","OutageTime":"11/01/2026 10:57 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

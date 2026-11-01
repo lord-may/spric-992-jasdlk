@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.954131,38.852186],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T13:06:08.18-05:00","outageName":"UA1  79","outagePoint":{"lat":38.8521857841631,"lng":-85.95413088569356},"outageRecID":"2026-11-01-0005","outageStartTime":"2026-11-01T13:06:06-05:00","outageWorkStatus":"","streetsAffected":["E STATE ROAD 250"],"verified":false},"type":"Feature"}
 ]}

@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.201093,47.324557],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793535840000,"ETR":1793548800000,"LOCATION":"Greenway Township","ORDERID":"JE.2611.000004","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.201093,47.324557],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1793535840000,"ETR":1793548800000,"LOCATION":"Greenway Township","ORDERID":"JE.2611.000004","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.881995,47.487464],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793537886000,"ETR":1793549700000,"LOCATION":"Chisholm","ORDERID":"JE.2611.000005","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.513863,46.794839],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793540802000,"ETR":1793552400000,"LOCATION":"Pine River Township","ORDERID":"JE.2611.000009","STATUS":"Assigned"},"type":"Feature"}
 ]}

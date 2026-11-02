@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.124316,41.189052],"type":"Point"},"properties":{"cause":"150 D/R for Contractor","code":"150","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T08:40:03.637-05:00","outageName":"HB031-000-0-0001-00P1-01","outagePoint":{"lat":41.18905172719648,"lng":-85.1243161723733},"outageRecID":"2026-11-02-0002","outageStartTime":"2026-11-02T08:32:10-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

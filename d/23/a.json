@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.051643,45.780352],[-94.050601,45.781222],[-94.050035,45.789961],[-94.049649,45.802262],[-94.05026,45.806583],[-94.05423,45.806564],[-94.05573,45.796889],[-94.056853,45.789535],[-94.051643,45.780352]]],"type":"Polygon"},{"coordinates":[-94.052721,45.794402],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees fell on overhead equipment","crewAssigned":true,"estimateTime":1793648700000,"id":"732113","nbrOut":14,"timeOff":1793639928000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.824252,45.714418],"type":"Point"},"properties":{"cause":"Unknown Cause,Overhead Equipment","crewAssigned":true,"estimateTime":1793649600000,"id":"732115","nbrOut":1,"timeOff":1793640644000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.647428,45.695328],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793653200000,"id":"732116","nbrOut":1,"timeOff":1793644013913},"type":"Feature"}
 ]}

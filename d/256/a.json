@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.520552,39.926708],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-02T10:33:42.963-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T07:33:43.11-05:00","outageName":"T-121079","outagePoint":{"lat":39.92670755692873,"lng":-82.52055178635833},"outageRecID":"2026-11-02-0022","outageStartTime":"2026-11-02T07:32:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

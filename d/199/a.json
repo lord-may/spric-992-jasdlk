@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.243315,45.453475],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T15:36:39.56-06:00","outageName":"4172","outagePoint":{"lat":45.45347522843536,"lng":-92.24331549190487},"outageRecID":"2026-11-02-0003","outageStartTime":"2026-11-02T15:34:06-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

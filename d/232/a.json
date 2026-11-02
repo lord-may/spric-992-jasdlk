@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-100.623814,40.204943],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":40.20494301,"location":"MC COOK","locationType":1,"lon":-100.6238136,"zipCode":"69001"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"11/2/2026 11:10:00 AM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"11-02-2026 08:54","OutageAttribute3":"11-02-2026 11:10","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002514-1","lat":40.20494301,"location":"MC COOK","locationType":1,"lon":-100.6238136,"name":null,"notes":"Utility","outageType":2,"restorationTime":"11:10","serviceType":1,"startTime":"11/02/2026 08:54:00","status":1,"zipCode":"69001"},"type":"Feature"}
 ]}

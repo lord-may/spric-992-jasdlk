@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-87.433584,41.436605],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"SAINT JOHN","comment":"Not Yet Determined","lat":41.436605,"lng":-87.433584,"maxAffected":1,"reported":"2026-11-01T16:01:00","restore":"2026-11-02T04:00:00Z","status":"Crew On-site","stormMode":false,"zip":"46373"},"type":"Feature"}
+{"geometry":{"coordinates":[-87.433584,41.436605],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"SAINT JOHN","comment":"Not Yet Determined","lat":41.436605,"lng":-87.433584,"maxAffected":1,"reported":"2026-11-01T16:01:00","restore":"2026-11-02T04:00:00Z","status":"Crew On-site","stormMode":false,"zip":"46373"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.968358,41.155945],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"BURKET","comment":"Not Yet Determined","lat":41.155945,"lng":-85.968358,"maxAffected":1,"reported":"2026-11-02T01:59:00","restore":"2026-11-02T05:00:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46508"},"type":"Feature"}
 ]}

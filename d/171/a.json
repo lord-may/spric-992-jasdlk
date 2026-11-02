@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.707019,38.796028],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T10:39:04.587-05:00","outageName":"B3   18N 104N  1","outagePoint":{"lat":38.79602813898275,"lng":-85.70701926765054},"outageRecID":"2026-11-02-0008","outageStartTime":"2026-11-02T10:39:03-05:00","outageWorkStatus":"","streetsAffected":["E OARD SPRING RD","N MOUNT GILEAD LN"],"verified":false},"type":"Feature"}
 ]}

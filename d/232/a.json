@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-103.007157,42.819095],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":42.81909547,"location":"CHADRON","locationType":1,"lon":-103.0071568,"zipCode":"69337"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"11/2/2026 12:20:00 PM","extension":{"OutageAttribute1":"Non Utility","OutageAttribute2":null,"OutageAttribute3":null,"OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002517-1","lat":42.81909547,"location":"CHADRON","locationType":1,"lon":-103.0071568,"name":null,"notes":"Non Utility","outageType":2,"restorationTime":"12:20","serviceType":1,"startTime":"11/02/2026 10:07:00","status":1,"zipCode":"69337"},"type":"Feature"}
 ]}

@@ -13,7 +13,10 @@
 {"geometry":{"coordinates":[-85.566345,42.629844],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793736900000,"id":"1979942","nbrOut":10,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.895304,44.944269],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793744100000,"id":"1979943","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-84.902032,44.935786],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793744100000,"id":"1979944","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.711149,45.37582],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979945","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.346195,44.960823],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793745000000,"id":"1979947","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.719293,42.553691],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793745000000,"id":"1979948","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-85.719293,42.553691],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793745000000,"id":"1979948","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.380628,44.946481],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793745000000,"id":"1979950","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-86.471542,43.558107],"type":"Point"},"properties":{"crewAssigned":false,"id":"1979955","nbrOut":17,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.72038,42.553731],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793745900000,"id":"1979956","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.266191,44.852567],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793745900000,"id":"1979957","nbrOut":2,"planned":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.678613,45.23962],"type":"Point"},"properties":{"cause":"Scheduled Outage","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T10:15:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T09:07:30.213-06:00","outageName":"6310-26","outagePoint":{"lat":45.23961998891252,"lng":-92.67861289034379},"outageRecID":"2026-11-03-0004","outageStartTime":"2026-11-03T09:06:15.84-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

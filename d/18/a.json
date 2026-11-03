@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.652055,46.558634],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793717583000,"ETR":1793732400000,"LOCATION":"Mahtowa Township","ORDERID":"JE.2611.000196","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.7194,46.87622],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793724634000,"ETR":1793736000000,"LOCATION":null,"ORDERID":"JE.2611.000218","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.085561,46.803917],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793726485000,"ETR":1793734200000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000221","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.085561,46.803917],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793726485000,"ETR":1793734200000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000221","STATUS":"Repairs in Progress"},"type":"Feature"}
 ]}

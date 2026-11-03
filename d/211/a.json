@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.714096,39.544081],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T12:40:40.55-05:00","outageName":"TR_D3-26-74-P1","outagePoint":{"lat":39.54408079931945,"lng":-85.71409563761738},"outageRecID":"2026-11-03-0019","outageStartTime":"2026-11-03T12:37:51-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -17,15 +17,14 @@
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"PREBLE","TotOut":"12"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"19","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.534242,40.088338],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/03/2026 02:00 PM","INCIDENTID":"1819820","IND":"D","LAT":"40.08833761","LNG":"-83.5342424342042","OutageTime":"11/03/2026 09:56 AM","TOTALCUSTS":"5"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.575657,40.070182],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/03/2026 04:00 PM","INCIDENTID":"1819860","IND":"D","LAT":"40.07018205","LNG":"-83.5756567141827","OutageTime":"11/03/2026 10:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.894941,40.30769],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/03/2026 01:00 PM","INCIDENTID":"1819865","IND":"D","LAT":"40.30768971","LNG":"-83.8949410161048","OutageTime":"11/03/2026 11:15 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.505901,39.812625],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/03/2026 02:00 PM","INCIDENTID":"1819881","IND":"D","LAT":"39.81262498","LNG":"-84.5059011577076","OutageTime":"11/03/2026 12:11 PM","TOTALCUSTS":"12"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"7","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.535736,40.087216],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/03/2026 02:00 PM","INCIDENTID":"1819820","IND":"D","LAT":"40.08721621","LNG":"-83.5357358844118","OutageTime":"11/03/2026 09:56 AM","TOTALCUSTS":"5"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.57715,40.069061],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/03/2026 04:00 PM","INCIDENTID":"1819860","IND":"D","LAT":"40.06906065","LNG":"-83.5771497353176","OutageTime":"11/03/2026 10:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.89644,40.306568],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/03/2026 01:00 PM","INCIDENTID":"1819865","IND":"D","LAT":"40.30656831","LNG":"-83.8964396825272","OutageTime":"11/03/2026 11:15 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

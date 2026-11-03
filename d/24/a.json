@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.271519,36.696998],"type":"Point"},"properties":{"crewAssigned":true,"id":"399394","nbrOut":1,"timeOff":1793723971546},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-93.150489,36.84199],[-93.15428,36.852514],[-93.163721,36.866263],[-93.166874,36.867025],[-93.181086,36.857323],[-93.180609,36.854023],[-93.158888,36.842816],[-93.150489,36.84199]]],"type":"Polygon"},{"coordinates":[-93.165347,36.854196],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"399396","nbrOut":13,"timeOff":1793724586266},"type":"Feature"},
-{"geometry":{"coordinates":[-92.821283,37.026377],"type":"Point"},"properties":{"crewAssigned":false,"id":"399397","nbrOut":1,"timeOff":1793724836476},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-93.150489,36.84199],[-93.15428,36.852514],[-93.163721,36.866263],[-93.166874,36.867025],[-93.181086,36.857323],[-93.180609,36.854023],[-93.158888,36.842816],[-93.150489,36.84199]]],"type":"Polygon"},{"coordinates":[-93.165347,36.854196],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"399396","nbrOut":13,"timeOff":1793724586266},"type":"Feature"}
 ]}

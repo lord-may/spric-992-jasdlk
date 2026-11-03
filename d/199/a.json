@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.158499,45.920861],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T11:30:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T10:24:00.173-06:00","outageName":"Xfmr10249","outagePoint":{"lat":45.920860931557854,"lng":-92.15849873484153},"outageRecID":"2026-11-03-0005","outageStartTime":"2026-11-03T10:23:29.15-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

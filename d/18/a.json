@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.391886,46.172917],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793729198000,"ETR":1793744100000,"LOCATION":"Cushing Township","ORDERID":"JE.2611.000222","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.525567,47.465302],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":37,"DATEOFF":1793741123000,"ETR":1793752200000,"LOCATION":"Eveleth","ORDERID":"JE.2611.000239","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.525567,47.465302],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":37,"DATEOFF":1793741123000,"ETR":1793752200000,"LOCATION":"Eveleth","ORDERID":"JE.2611.000239","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.526164,47.465712],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793741700000,"ETR":1793753100000,"LOCATION":"Eveleth","ORDERID":"JE.2611.000248","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.193609,46.63734],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793742460000,"ETR":1793754000000,"LOCATION":"Oliver,Superior - Township","ORDERID":"JE.2611.000249","STATUS":"New Outage"},"type":"Feature"}
 ]}

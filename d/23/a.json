@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.206113,45.562326],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793742300000,"id":"732151","nbrOut":1,"timeOff":1793733139897},"type":"Feature"}
+{"geometry":{"coordinates":[-92.986753,45.508344],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793745000000,"id":"732152","nbrOut":1,"timeOff":1793735364489},"type":"Feature"},
+{"geometry":{"coordinates":[-93.206113,45.562326],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793745000000,"id":"732153","nbrOut":1,"timeOff":1793735685854},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.926057,38.087517],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T08:24:21.26-05:00","outageName":"T10-3-176.1","outagePoint":{"lat":38.0875167769989,"lng":-87.9260573873877},"outageRecID":"2026-11-03-0010","outageStartTime":"2026-11-03T08:13:53-05:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 69 N"],"verified":false},"type":"Feature"}
 ]}

@@ -8,7 +8,7 @@
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,9 +23,8 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"12","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.042999,39.687766],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/02/2026 09:00 PM","INCIDENTID":"1819668","IND":"D","LAT":"39.6877655","LNG":"-84.0429988241744","OutageTime":"11/02/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.232955,39.620068],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/02/2026 10:00 PM","INCIDENTID":"1819748","IND":"D","LAT":"39.62006798","LNG":"-84.2329548687639","OutageTime":"11/02/2026 03:37 PM","TOTALCUSTS":"9"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.122405,39.814662],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/02/2026 09:00 PM","INCIDENTID":"1819753","IND":"D","LAT":"39.8146617","LNG":"-84.1224048665622","OutageTime":"11/02/2026 04:19 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.7896,39.408215],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/02/2026 10:00 PM","INCIDENTID":"1819767","IND":"D","LAT":"39.40821545","LNG":"-83.7896000880298","OutageTime":"11/02/2026 07:07 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"11","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.232484,39.620424],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/02/2026 10:00 PM","INCIDENTID":"1819748","IND":"D","LAT":"39.62042398","LNG":"-84.2324842374111","OutageTime":"11/02/2026 03:37 PM","TOTALCUSTS":"9"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.121933,39.815018],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/03/2026 02:00 AM","INCIDENTID":"1819753","IND":"D","LAT":"39.8150177","LNG":"-84.1219328025673","OutageTime":"11/02/2026 04:19 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.789131,39.408571],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/02/2026 11:00 PM","INCIDENTID":"1819767","IND":"D","LAT":"39.40857145","LNG":"-83.7891310000056","OutageTime":"11/02/2026 07:07 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

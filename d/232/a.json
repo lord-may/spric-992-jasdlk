@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.597894,40.866129],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":40.86612899,"location":"YORK","locationType":1,"lon":-97.59789366,"zipCode":"68467"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"11/3/2026 1:00:00 AM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":null,"OutageAttribute3":null,"OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002538-1","lat":40.86612899,"location":"YORK","locationType":1,"lon":-97.59789366,"name":null,"notes":"Utility","outageType":2,"restorationTime":"01:00","serviceType":1,"startTime":"11/02/2026 22:20:00","status":1,"zipCode":"68467"},"type":"Feature"}
 ]}

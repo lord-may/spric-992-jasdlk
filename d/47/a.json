@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.088317,43.841379],"type":"Point"},"properties":{"cause":"Planned - Maintenance","crewAssigned":true,"id":"533414","nbrOut":1,"planned":true,"timeOff":1793724513000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.483935,43.558902],"type":"Point"},"properties":{"crewAssigned":true,"id":"533415","nbrOut":1,"planned":false,"timeOff":1793724826000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.483935,43.558902],"type":"Point"},"properties":{"cause":"Damaged Member Equipment","crewAssigned":true,"id":"533415","nbrOut":1,"planned":false,"timeOff":1793724826000},"type":"Feature"}
 ]}

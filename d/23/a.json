@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.265294,45.899671],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793725200000,"id":"732144","nbrOut":1,"timeOff":1793717911000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.660665,46.177273],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1793726100000,"id":"732145","nbrOut":1,"timeOff":1793718794000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.660665,46.177273],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1793726100000,"id":"732145","nbrOut":1,"timeOff":1793718794000},"type":"Feature"},
+{"geometry":{"coordinates":[-91.828852,46.241621],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1793729700000,"id":"732146","nbrOut":1,"timeOff":1793720548000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.725638,38.594857],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T18:53:12-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:53:35.213-05:00","outageName":"356050008T","outagePoint":{"lat":38.594856873928116,"lng":-85.72563823502529},"outageRecID":"2026-11-03-0110","outageStartTime":"2026-11-03T13:53:12-05:00","outageWorkStatus":"","streetsAffected":["BEAGLE CLUB"],"verified":true},"type":"Feature"}
 ]}

@@ -2,7 +2,7 @@
 {"geometry":null,"properties":{"County":"AUGLAIZE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"6"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,6 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"7","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.535736,40.087216],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/03/2026 02:00 PM","INCIDENTID":"1819820","IND":"D","LAT":"40.08721621","LNG":"-83.5357358844118","OutageTime":"11/03/2026 09:56 AM","TOTALCUSTS":"5"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.57715,40.069061],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/03/2026 04:00 PM","INCIDENTID":"1819860","IND":"D","LAT":"40.06906065","LNG":"-83.5771497353176","OutageTime":"11/03/2026 10:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.89644,40.306568],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/03/2026 01:00 PM","INCIDENTID":"1819865","IND":"D","LAT":"40.30656831","LNG":"-83.8964396825272","OutageTime":"11/03/2026 11:15 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.893918,40.308455],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/03/2026 01:00 PM","INCIDENTID":"1819865","IND":"D","LAT":"40.30845511","LNG":"-83.8939181168005","OutageTime":"11/03/2026 11:15 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

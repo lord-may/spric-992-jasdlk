@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.181624,46.813724],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793678059000,"ETR":1793689200000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000186","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.324124,46.753273],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793680494000,"ETR":1793688300000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000187","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.198758,46.826949],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793683746000,"ETR":1793691900000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000188","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.198758,46.826949],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793683746000,"ETR":1793691900000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000188","STATUS":"Assigned"},"type":"Feature"}
 ]}

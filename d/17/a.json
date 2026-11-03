@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.621902,40.827772],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":62,"DEVICE_FCID":100870,"FEEDER_ID":"6743","INCIDENT_ID":525944,"LES_AREA":"Holdrege to Ayleworth Ave / N 73rd to N 71st","REGION":1,"STATUS":1,"TIME_OUTAGE":"11/03/2026 02:04 PM","X":182352.953,"Y":210509.828},"type":"Feature"},
-{"geometry":{"coordinates":[-96.690099,40.737538],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"2922","INCIDENT_ID":525949,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/03/2026 02:38 PM","X":163477.7,"Y":177625.516},"type":"Feature"}
+{"geometry":{"coordinates":[-96.621902,40.827772],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":62,"DEVICE_FCID":100870,"FEEDER_ID":"6743","INCIDENT_ID":525944,"LES_AREA":"Holdrege to Ayleworth Ave / N 73rd to N 71st","REGION":1,"STATUS":1,"TIME_OUTAGE":"11/03/2026 02:04 PM","X":182352.953,"Y":210509.828},"type":"Feature"}
 ]}

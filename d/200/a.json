@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.736222,38.082267],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":52,"customersOutNow":52,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-03T14:54:31-06:00","outageName":"OH05-040196","outagePoint":{"lat":38.082266666545955,"lng":-88.73622152899253},"outageRecID":"2026-11-03-0060","outageStartTime":"2026-11-03T14:53:43-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

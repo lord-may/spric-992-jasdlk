@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-97.760284,37.264707],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":true,"id":"449979","nbrOut":1,"planned":false,"timeOff":1793662746000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.468242,37.9954],"type":"Point"},"properties":{"cause":"590 Weather - other","crewAssigned":true,"id":"449985","nbrOut":2,"planned":false,"timeOff":1793669474000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.349359,38.519065],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":true,"id":"449988","nbrOut":1,"planned":false,"timeOff":1793681287000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.764438,38.36123],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"449992","nbrOut":1,"planned":false,"timeOff":1793717759000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.764438,38.36123],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"449992","nbrOut":1,"planned":false,"timeOff":1793717759000},"type":"Feature"},
+{"geometry":{"coordinates":[-101.747726,37.968416],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"449993","nbrOut":1,"planned":true,"timeOff":1793719311592},"type":"Feature"},
+{"geometry":{"coordinates":[-101.747726,37.968395],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"449994","nbrOut":1,"planned":true,"timeOff":1793719330251},"type":"Feature"},
+{"geometry":{"coordinates":[-101.349017,38.480187],"type":"Point"},"properties":{"cause":"996 Cause Unknown Default","crewAssigned":false,"id":"449995","nbrOut":1,"planned":false,"timeOff":1793719447000},"type":"Feature"}
 ]}

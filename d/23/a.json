@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.242831,45.753343],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793666700000,"id":"732125","nbrOut":1,"timeOff":1793657081000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.242813,45.753331],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793666700000,"id":"732125","nbrOut":1,"timeOff":1793657081000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-92.535529,46.256554],[-92.536446,46.272881],[-92.544503,46.273931],[-92.563036,46.274111],[-92.587757,46.273962],[-92.586949,46.272757],[-92.551906,46.259194],[-92.535529,46.256554]]],"type":"Polygon"},{"coordinates":[-92.554816,46.267479],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Unknown Cause,Overhead Equipment","crewAssigned":true,"estimateTime":1793680200000,"id":"732135","nbrOut":21,"timeOff":1793671393000},"type":"Feature"}
 ]}

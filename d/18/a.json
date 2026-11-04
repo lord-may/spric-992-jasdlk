@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.195671,46.646756],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":143,"DATEOFF":1793788439000,"ETR":1793803500000,"LOCATION":"Oliver,Superior - Township","ORDERID":"JE.2611.000263","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.44984,46.677626],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793796388000,"ETR":1793804400000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2611.000284","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.44984,46.677626],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793796388000,"ETR":1793804400000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2611.000284","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.12028,46.785291],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793798946000,"ETR":1793806200000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.000287","STATUS":"Assigned"},"type":"Feature"}
 ]}

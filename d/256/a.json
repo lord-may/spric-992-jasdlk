@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.341637,39.854359],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T22:27:35.36-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T19:32:15-05:00","outageName":"T-113385","outagePoint":{"lat":39.854359275956014,"lng":-82.34163686527006},"outageRecID":"2026-11-03-0108","outageStartTime":"2026-11-03T19:27:31-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

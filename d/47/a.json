@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.483935,43.558902],"type":"Point"},"properties":{"cause":"Damaged Member Equipment","crewAssigned":true,"id":"533415","nbrOut":1,"planned":false,"timeOff":1793724826000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.483935,43.558902],"type":"Point"},"properties":{"cause":"Damaged Member Equipment","crewAssigned":true,"id":"533415","nbrOut":1,"planned":false,"timeOff":1793724826000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-93.621817,43.563601],[-93.62744,43.585761],[-93.63063,43.587928],[-93.652764,43.585449],[-93.656762,43.572785],[-93.64962,43.568314],[-93.621817,43.563601]]],"type":"Polygon"},{"coordinates":[-93.63875,43.576143],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"533517","nbrOut":12,"planned":false,"timeOff":1793779473000},"type":"Feature"}
 ]}

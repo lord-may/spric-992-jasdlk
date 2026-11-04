@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.195671,46.646756],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":143,"DATEOFF":1793788439000,"ETR":1793807100000,"LOCATION":"Oliver,Superior - Township","ORDERID":"JE.2611.000263","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.37049,45.978175],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793802985000,"ETR":1793814300000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000291","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.11926,46.788766],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1793798946000,"ETR":1793814300000,"LOCATION":"Duluth - Central Hillside,Duluth - Heights","ORDERID":"JE.2611.000292","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.37049,45.978175],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793802985000,"ETR":1793817900000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000291","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.11926,46.788766],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1793798946000,"ETR":1793817900000,"LOCATION":"Duluth - Central Hillside,Duluth - Heights","ORDERID":"JE.2611.000292","STATUS":"Assigned"},"type":"Feature"}
 ]}

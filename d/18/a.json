@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.193609,46.63734],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793788439000,"ETR":1793799900000,"LOCATION":"Oliver,Superior - Township","ORDERID":"JE.2611.000263","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.193609,46.63734],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793788439000,"ETR":1793799900000,"LOCATION":"Oliver,Superior - Township","ORDERID":"JE.2611.000263","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.173061,46.743488],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":9,"DATEOFF":1793789993000,"ETR":1793798100000,"LOCATION":"Duluth - Cody","ORDERID":"JE.2611.000264","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.010535,44.363776],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793831400000,"id":"444018","nbrOut":1,"planned":false,"timeOff":1793820352925},"type":"Feature"}
+{"geometry":{"coordinates":[-86.010535,44.363776],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793831400000,"id":"444018","nbrOut":1,"planned":false,"timeOff":1793820352925},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-85.484671,44.669748],[-85.483575,44.671051],[-85.483691,44.671479],[-85.485407,44.672258],[-85.485982,44.672252],[-85.491695,44.6716],[-85.489162,44.670648],[-85.484671,44.669748]]],"type":"Polygon"},{"coordinates":[-85.486845,44.671147],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"We are aware of your outage.  A crew has been dispatched.  We hope to have the power restored as safely and quickly as possible.  Thank you for your patience.","crewAssigned":true,"estimateTime":1793832300000,"id":"444029","nbrOut":20,"planned":false,"timeOff":1793821283000},"type":"Feature"}
 ]}

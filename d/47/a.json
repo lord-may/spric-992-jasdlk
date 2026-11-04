@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.483935,43.558902],"type":"Point"},"properties":{"cause":"Damaged Member Equipment","crewAssigned":true,"id":"533415","nbrOut":1,"planned":false,"timeOff":1793724826000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.209535,43.801506],"type":"Point"},"properties":{"cause":"Planned - Construction","crewAssigned":true,"id":"533559","nbrOut":2,"planned":true,"timeOff":1793802726000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.209535,43.801506],"type":"Point"},"properties":{"cause":"Planned - Construction","crewAssigned":true,"id":"533559","nbrOut":2,"planned":true,"timeOff":1793802726000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-92.713899,43.566888],[-92.713881,43.567116],[-92.714564,43.567006],[-92.713899,43.566888]]],"type":"Polygon"},{"coordinates":[-92.714114,43.567006],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned - Maintenance","crewAssigned":true,"id":"533561","nbrOut":3,"planned":true,"timeOff":1793805389000},"type":"Feature"}
 ]}

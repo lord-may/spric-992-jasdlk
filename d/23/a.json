@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.045772,45.864264],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793774700000,"id":"732166","nbrOut":1,"timeOff":1793764869000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.045772,45.864295],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793776500000,"id":"732167","nbrOut":1,"timeOff":1793766705262},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-93.046006,45.863801],[-93.045081,45.864182],[-93.045162,45.864307],[-93.045323,45.864489],[-93.045763,45.864489],[-93.046006,45.863801]]],"type":"Polygon"},{"coordinates":[-93.045566,45.864201],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1793782800000,"id":"732169","nbrOut":14,"timeOff":1793774441282},"type":"Feature"}
+
 ]}

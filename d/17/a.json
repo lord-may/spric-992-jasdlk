@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.653711,40.747939],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5513","INCIDENT_ID":525964,"LES_AREA":"","REGION":2,"STATUS":0,"TIME_OUTAGE":"11/04/2026 06:06 AM","X":173560.734,"Y":181417.047},"type":"Feature"},
-{"geometry":{"coordinates":[-96.675099,40.759857],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5821","INCIDENT_ID":525966,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/04/2026 06:26 AM","X":167633.4,"Y":185757.813},"type":"Feature"}
+{"geometry":{"coordinates":[-96.674947,40.760122],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":8,"DEVICE_FCID":100553,"FEEDER_ID":"5821","INCIDENT_ID":525967,"LES_AREA":"S 31ST ST CT - TAMARISK CT / SEQUOIA DR - WILDBRIAR LN","REGION":3,"STATUS":1,"TIME_OUTAGE":"11/04/2026 06:26 AM","X":167675.672,"Y":185854.563},"type":"Feature"}
 ]}

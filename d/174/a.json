@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.510022,38.365075],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T23:39:14.97-05:00","outageName":"F15-4B-2","outagePoint":{"lat":38.36507527699891,"lng":-87.51002198523155},"outageRecID":"2026-11-03-0023","outageStartTime":"2026-11-03T23:30:17-05:00","outageWorkStatus":"","streetsAffected":["275 E","N 275 E","NORTH 275 EAST"],"verified":false},"type":"Feature"}
 ]}

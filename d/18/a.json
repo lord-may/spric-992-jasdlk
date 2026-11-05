@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.118796,46.714961],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793887527000,"ETR":1793906100000,"LOCATION":"Superior","ORDERID":"JE.2611.000359","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.522547,47.560167],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793901240000,"ETR":1793916000000,"LOCATION":"Wuori Township","ORDERID":"JE.2611.000411","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.522547,47.560167],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793901240000,"ETR":1793916000000,"LOCATION":"Wuori Township","ORDERID":"JE.2611.000411","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.05608,46.830296],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793910777000,"ETR":1793918700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000441","STATUS":"Assigned"},"type":"Feature"}
 ]}

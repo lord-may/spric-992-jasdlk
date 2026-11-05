@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.118796,46.714961],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793887527000,"ETR":1793906100000,"LOCATION":"Superior","ORDERID":"JE.2611.000359","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.273089,47.806104],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793890638000,"ETR":1793909700000,"LOCATION":"Tower","ORDERID":"JE.2611.000370","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.522547,47.560167],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793901240000,"ETR":1793912400000,"LOCATION":"Wuori Township","ORDERID":"JE.2611.000411","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.522547,47.560167],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793901240000,"ETR":1793916000000,"LOCATION":"Wuori Township","ORDERID":"JE.2611.000411","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-83.192574,40.179986],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793892279889,"id":"390187","nbrOut":1,"planned":false,"timeOff":1793885079471},"type":"Feature"}
+{"geometry":{"coordinates":[-83.192574,40.179986],"type":"Point"},"properties":{"comment":"A power outage affecting your service has been reported to U R E. A crew is enroute.","crewAssigned":true,"estimateTime":1793892279889,"id":"390187","nbrOut":1,"planned":false,"timeOff":1793885079471},"type":"Feature"}
 ]}

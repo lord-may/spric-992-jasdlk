@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.564664,47.513283],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793886652000,"ETR":1793898000000,"LOCATION":"Mountain Iron","ORDERID":"JE.2611.000358","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.118796,46.714961],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793887527000,"ETR":1793898900000,"LOCATION":"Superior","ORDERID":"JE.2611.000359","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.063796,46.91846],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1793887952000,"ETR":1793898900000,"LOCATION":"Park Rapids","ORDERID":"JE.2611.000360","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.238748,46.796125],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793889280000,"ETR":1793897100000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000362","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.054714,46.826751],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":10,"DATEOFF":1793890242000,"ETR":1793898000000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000364","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.871405,46.449565],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793890231000,"ETR":1793901600000,"LOCATION":"Deerwood Township","ORDERID":"JE.2611.000365","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.273089,47.806104],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793890638000,"ETR":1793902500000,"LOCATION":"Tower","ORDERID":"JE.2611.000370","STATUS":"Assigned"},"type":"Feature"}
 ]}

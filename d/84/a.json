@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-97.161691,39.711014],"type":"Point"},"properties":{"cause":"HOUSE MOVER                   ","crewAssigned":true,"id":"286272","nbrOut":1,"planned":false,"timeOff":1793896919000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.170261,39.710447],"type":"Point"},"properties":{"cause":"HOUSE MOVER                   ","crewAssigned":true,"id":"286273","nbrOut":1,"planned":false,"timeOff":1793898927000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.277403,39.712548],"type":"Point"},"properties":{"cause":"HOUSE MOVER                   ","crewAssigned":true,"id":"286274","nbrOut":18,"planned":false,"timeOff":1793899995000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.668916,39.62017],"type":"Point"},"properties":{"crewAssigned":true,"id":"286276","nbrOut":1,"planned":false,"timeOff":1793900465239},"type":"Feature"},
-{"geometry":{"coordinates":[-97.331473,39.712672],"type":"Point"},"properties":{"crewAssigned":false,"id":"286277","nbrOut":3,"planned":false,"timeOff":1793902296000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.331392,39.684437],"type":"Point"},"properties":{"crewAssigned":false,"id":"286282","nbrOut":65,"planned":false,"timeOff":1793902533000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.331473,39.712672],"type":"Point"},"properties":{"cause":"HOUSE MOVER                   ","crewAssigned":true,"id":"286277","nbrOut":3,"planned":false,"timeOff":1793902296000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.354021,39.712112],"type":"Point"},"properties":{"cause":"HOUSE MOVER                   ","crewAssigned":true,"id":"286282","nbrOut":9,"planned":false,"timeOff":1793902533000},"type":"Feature"}
 ]}

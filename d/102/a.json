@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.375665,44.761083],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793900700000,"id":"361169","nbrOut":1,"planned":false,"timeOff":1793892804000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.375665,44.761083],"type":"Point"},"properties":{"cause":"Scheduled Construction","crewAssigned":true,"estimateTime":1793900700000,"id":"361169","nbrOut":1,"planned":true,"timeOff":1793892804000},"type":"Feature"}
 ]}

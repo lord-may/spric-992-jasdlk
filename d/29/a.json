@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.906762,44.155411],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 11/5/26 FROM 9AM-12:30PM","crewAssigned":false,"estimateTime":1793903400000,"id":"336783","nbrOut":182,"planned":true,"timeOff":1793890800000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-89.871414,44.148727],[-89.869078,44.148747],[-89.868674,44.155044],[-89.880316,44.172488],[-89.892758,44.169479],[-89.902307,44.163879],[-89.907167,44.156423],[-89.871414,44.148727]]],"type":"Polygon"},{"coordinates":[-89.886002,44.159974],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 11/5/26 FROM 9AM-12:30PM","crewAssigned":false,"estimateTime":1793903400000,"id":"336783","nbrOut":182,"planned":false,"timeOff":1793891672000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.782418,44.215557],"type":"Point"},"properties":{"crewAssigned":true,"id":"336919","nbrOut":1,"planned":false,"timeOff":1793888542000},"type":"Feature"}
 ]}

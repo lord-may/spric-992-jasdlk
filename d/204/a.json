@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.807699,40.533832],"type":"Point"},"properties":{"cause":"Planned: Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T07:46:26.893-05:00","outageName":"10137-T","outagePoint":{"lat":40.53383161872616,"lng":-82.80769890003239},"outageRecID":"2026-11-06-0019","outageStartTime":"2026-11-06T07:45:38-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.461688,38.648813],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":25,"customersOutNow":25,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T13:55:12.08-05:00","outageName":"F12-3E-6","outagePoint":{"lat":38.64881288849945,"lng":-87.46168778966168},"outageRecID":"2026-11-06-0071","outageStartTime":"2026-11-06T13:53:43-05:00","outageWorkStatus":"","streetsAffected":["E STATE RD 61","E STATE ROAD 61"],"verified":false},"type":"Feature"}
 ]}

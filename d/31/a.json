@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.60443,38.576591],"type":"Point"},"properties":{"cause":"PLANNED OUTAGE-CONSTRUCTION","crewAssigned":true,"id":"741202","nbrOut":1,"timeOff":1793977231000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.825002,38.315396],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"741210","nbrOut":1,"timeOff":1793987981067},"type":"Feature"},
 {"geometry":{"coordinates":[-92.744711,38.141964],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"741211","nbrOut":1,"timeOff":1793988720315},"type":"Feature"},
-{"geometry":{"coordinates":[-93.302691,38.274088],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"741213","nbrOut":1,"timeOff":1793990045503},"type":"Feature"}
+{"geometry":{"coordinates":[-92.646965,38.151586],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"741215","nbrOut":1,"timeOff":1793990796559},"type":"Feature"}
 ]}

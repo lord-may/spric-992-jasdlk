@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.79021,46.429734],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793976086000,"ETR":1793983500000,"LOCATION":"Moose Lake Township","ORDERID":"JE.2611.000491","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.129975,46.718096],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793976343000,"ETR":1793988000000,"LOCATION":"Superior","ORDERID":"JE.2611.000494","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.028462,46.83464],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793976808000,"ETR":1793984400000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2611.000495","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.028462,46.83464],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793976808000,"ETR":1793984400000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2611.000495","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.057251,46.829166],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1793978130000,"ETR":1793986200000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000501","STATUS":"Assigned"},"type":"Feature"}
 ]}

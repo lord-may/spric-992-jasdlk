@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.129975,46.718096],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793976343000,"ETR":1793991600000,"LOCATION":"Superior","ORDERID":"JE.2611.000494","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.209088,46.771347],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1793985350000,"ETR":1793993400000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000517","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.209088,46.771347],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1793985350000,"ETR":1793993400000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000517","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.056209,46.829168],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":7,"DATEOFF":1793988543000,"ETR":1793996100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000520","STATUS":"New Outage"},"type":"Feature"}
 ]}

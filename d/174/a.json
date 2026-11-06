@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.538087,39.280237],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T18:22:21.913-05:00","outageName":"T48-4-30","outagePoint":{"lat":39.280236776998905,"lng":-87.5380873873877},"outageRecID":"2026-11-06-0073","outageStartTime":"2026-11-06T18:21:00-05:00","outageWorkStatus":"","streetsAffected":["S BATTLEROW PL"],"verified":false},"type":"Feature"}
 ]}

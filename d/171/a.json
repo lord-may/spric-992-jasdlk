@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.004419,38.455118],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T17:43:48.123-05:00","outageName":"T    64N   6","outagePoint":{"lat":38.45511773770209,"lng":-86.00441920768634},"outageRecID":"2026-11-06-0149","outageStartTime":"2026-11-06T17:43:46-05:00","outageWorkStatus":"","streetsAffected":["S VOYLES RD"],"verified":false},"type":"Feature"}
 ]}

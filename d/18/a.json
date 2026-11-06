@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.097943,46.84857],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793956129000,"ETR":1793963700000,"LOCATION":"Duluth - Woodland","ORDERID":"JE.2611.000471","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.207878,46.771847],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793959200000,"ETR":1793967300000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000472","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.097943,46.84857],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793956129000,"ETR":1793963700000,"LOCATION":"Duluth - Woodland","ORDERID":"JE.2611.000471","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.207878,46.771847],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793959200000,"ETR":1793967300000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000472","STATUS":"Assigned"},"type":"Feature"}
 ]}

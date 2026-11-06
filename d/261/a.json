@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.252231,38.381733],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T14:28:52.563-05:00","outageName":"C1-01-P002","outagePoint":{"lat":38.38173250156521,"lng":-86.25223100724389},"outageRecID":"2026-11-06-0079","outageStartTime":"2026-11-06T14:26:17-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

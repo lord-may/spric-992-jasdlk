@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-94.116727,45.953726],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794000639000,"ETR":1794012300000,"LOCATION":"Pierz Township","ORDERID":"JE.2611.000541","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.118185,45.951835],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794000644000,"ETR":1794012300000,"LOCATION":"Pierz Township","ORDERID":"JE.2611.000542","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.118197,45.95428],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794000639000,"ETR":1794012300000,"LOCATION":"Pierz Township","ORDERID":"JE.2611.000543","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.118799,45.951829],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794000642000,"ETR":1794012300000,"LOCATION":"Pierz Township","ORDERID":"JE.2611.000544","STATUS":"New Outage"},"type":"Feature"}
 ]}

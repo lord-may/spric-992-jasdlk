@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-92.057251,46.829166],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1793978130000,"ETR":1793986200000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000501","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.876113,46.105164],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1793978275000,"ETR":1793986200000,"LOCATION":"Sandstone Township","ORDERID":"JE.2611.000503","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.39367,46.702085],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793978400000,"ETR":1793986200000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000505","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.007215,46.838705],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":31,"DATEOFF":1793978731000,"ETR":1793986200000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2611.000506","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.007215,46.838705],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":31,"DATEOFF":1793978731000,"ETR":1793986200000,"LOCATION":"Duluth - Lakeside Lester Park","ORDERID":"JE.2611.000506","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.399268,46.322824],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1793979394000,"ETR":1793990700000,"LOCATION":"Sylvan Township","ORDERID":"JE.2611.000507","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.129975,46.718096],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793976343000,"ETR":1793995200000,"LOCATION":"Superior","ORDERID":"JE.2611.000494","STATUS":"New Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.055966,46.829427],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":9,"DATEOFF":1793992035000,"ETR":1793999700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000521","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.232559,47.326982],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793994803000,"ETR":1794006000000,"LOCATION":"Greenway Township","ORDERID":"JE.2611.000523","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.232559,47.326982],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1793994803000,"ETR":1794006000000,"LOCATION":"Greenway Township","ORDERID":"JE.2611.000523","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.085276,46.801766],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1793995931000,"ETR":1794003300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000534","STATUS":"Assigned"},"type":"Feature"}
 ]}

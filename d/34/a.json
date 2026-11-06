@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-100.894425,38.257725],"type":"Point"},"properties":{"cause":"410 Corrosion/abrasion of material/equipment","crewAssigned":true,"id":"450095","nbrOut":1,"planned":false,"timeOff":1793975820000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.651084,37.385389],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"450096","nbrOut":1,"planned":true,"timeOff":1793976766000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.258458,38.597228],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"450097","nbrOut":1,"planned":true,"timeOff":1793980172000},"type":"Feature"}
 ]}

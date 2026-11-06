@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-93.788298,41.54216],"type":"Point"},"properties":{"CreateDatetime":"11-06  05:59 AM","District":"524A","Downstream":4,"ETA":"","ETR":"11-06  09:00 AM","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637049","Latitude":41.54216,"LocationCause":"SCHEDULED CONSTRUCTION","Longitude":-93.788298,"MAJ_OTG_ID":"","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"},
 {"geometry":{"coordinates":[-91.571614,41.649743],"type":"Point"},"properties":{"CreateDatetime":"11-06  05:43 AM","District":"568A","Downstream":57,"ETA":"","ETR":"11-06  10:00 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637160","Latitude":41.649743,"LocationCause":"","Longitude":-91.571614,"MAJ_OTG_ID":"0","METRO_AREA":"Iowa City","StatusCd":""},"type":"Feature"}
 ]}

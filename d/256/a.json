@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.437087,39.611722],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T20:08:42.527-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T17:08:42.577-05:00","outageName":"T-43007","outagePoint":{"lat":39.61172175488124,"lng":-82.4370872193815},"outageRecID":"2026-11-06-0284","outageStartTime":"2026-11-06T17:06:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

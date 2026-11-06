@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.653303,40.793678],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5622","INCIDENT_ID":526020,"LES_AREA":"","REGION":2,"STATUS":0,"TIME_OUTAGE":"11/06/2026 07:26 AM","X":173667.25,"Y":198082.438},"type":"Feature"},
+{"geometry":{"coordinates":[-96.530284,40.914577],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"8323","INCIDENT_ID":526021,"LES_AREA":"","REGION":1,"STATUS":0,"TIME_OUTAGE":"11/06/2026 07:37 AM","X":207652.625,"Y":242170.6},"type":"Feature"}
 ]}

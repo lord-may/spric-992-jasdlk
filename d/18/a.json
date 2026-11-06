@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.117844,45.953127],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1794000639000,"ETR":1794012300000,"LOCATION":"Pierz Township","ORDERID":"JE.2611.000541","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.117844,45.953127],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1794000639000,"ETR":1794012300000,"LOCATION":"Pierz Township","ORDERID":"JE.2611.000541","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.107258,46.728427],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794004038000,"ETR":1794015000000,"LOCATION":"Superior","ORDERID":"JE.2611.000551","STATUS":"New Outage"},"type":"Feature"}
 ]}

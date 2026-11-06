@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.103861,40.030029],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T09:10:16.487-05:00","outageName":"YD4-270A/3/1-ABC1","outagePoint":{"lat":40.030029380321196,"lng":-87.10386096795419},"outageRecID":"2026-11-06-0032","outageStartTime":"2026-11-06T09:08:39-05:00","outageWorkStatus":"Planned Outage","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

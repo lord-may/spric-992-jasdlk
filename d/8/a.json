@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.594009,41.540496],"type":"Point"},"properties":{"CreateDatetime":"11-07  07:56 AM","District":"236A","Downstream":2,"ETA":"","ETR":"11-07  01:00 PM","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637131","Latitude":41.540496,"LocationCause":"SCHEDULED MAINTENANCE","Longitude":-93.594009,"MAJ_OTG_ID":"","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.709893,41.623536],"type":"Point"},"properties":{"CreateDatetime":"11-07  08:00 AM","District":"524A","Downstream":3,"ETA":"","ETR":"11-07  11:15 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637584","Latitude":41.623536,"LocationCause":"","Longitude":-93.709893,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":""},"type":"Feature"},
+{"geometry":{"coordinates":[-93.108915,41.328252],"type":"Point"},"properties":{"CreateDatetime":"11-07  08:03 AM","District":"527A","Downstream":1439,"ETA":"","ETR":"11-07  10:30 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637586","Latitude":41.328252,"LocationCause":"","Longitude":-93.108915,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":""},"type":"Feature"}
 ]}

@@ -3,9 +3,9 @@
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CLARK","TotOut":"3"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"6"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
@@ -23,6 +23,8 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.156971,39.938819],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/07/2026 12:00 PM","INCIDENTID":"1821021","IND":"D","LAT":"39.93881878","LNG":"-84.1569705394394","OutageTime":"11/07/2026 09:23 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"10","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.155599,39.939851],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/07/2026 12:00 PM","INCIDENTID":"1821021","IND":"D","LAT":"39.93985118","LNG":"-84.1555988765667","OutageTime":"11/07/2026 09:23 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.618497,40.092656],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"null","INCIDENTID":"1821027","IND":"D","LAT":"40.09265619","LNG":"-84.6184965849955","OutageTime":"11/07/2026 10:39 AM","TOTALCUSTS":"6"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.010882,39.946997],"type":"Point"},"properties":{"COUNTY":"CLARK","EstimateTime":"null","INCIDENTID":"1821029","IND":"D","LAT":"39.94699711","LNG":"-84.0108824614318","OutageTime":"11/07/2026 10:56 AM","TOTALCUSTS":"3"},"type":"Feature"}
 ]}

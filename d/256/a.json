@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.565297,39.890841],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T16:07:53.707-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T13:07:53.777-05:00","outageName":"T-151336","outagePoint":{"lat":39.89084107065477,"lng":-82.56529742896777},"outageRecID":"2026-11-07-0294","outageStartTime":"2026-11-07T13:04:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.29324,36.653726],"type":"Point"},"properties":{"crewAssigned":false,"id":"399477","nbrOut":1,"timeOff":1794070309333},"type":"Feature"}
+{"geometry":{"coordinates":[-93.29324,36.653726],"type":"Point"},"properties":{"crewAssigned":false,"id":"399477","nbrOut":1,"timeOff":1794070309333},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-93.279694,36.65062],[-93.278481,36.652062],[-93.280538,36.654325],[-93.288758,36.653971],[-93.288812,36.65395],[-93.28997,36.653272],[-93.290087,36.652768],[-93.285281,36.651636],[-93.279694,36.65062]]],"type":"Polygon"},{"coordinates":[-93.283664,36.652725],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Verified.  Crew will be notified. ","crewAssigned":false,"id":"399482","nbrOut":16,"timeOff":1794071048694},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-93.302592,36.665141],[-93.302394,36.665984],[-93.302807,36.669529],[-93.304873,36.670394],[-93.307667,36.667555],[-93.302592,36.665141]]],"type":"Polygon"},{"coordinates":[-93.304496,36.667858],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"399483","nbrOut":15,"timeOff":1794071286914},"type":"Feature"},
+{"geometry":{"coordinates":[-93.305394,36.665624],"type":"Point"},"properties":{"crewAssigned":false,"id":"399484","nbrOut":1,"timeOff":1794071309085},"type":"Feature"},
+{"geometry":{"coordinates":[-93.30561,36.665415],"type":"Point"},"properties":{"crewAssigned":false,"id":"399485","nbrOut":1,"timeOff":1794071325415},"type":"Feature"},
+{"geometry":{"coordinates":[-93.306131,36.666049],"type":"Point"},"properties":{"crewAssigned":false,"id":"399487","nbrOut":2,"timeOff":1794071371756},"type":"Feature"},
+{"geometry":{"coordinates":[-93.303203,36.664197],"type":"Point"},"properties":{"crewAssigned":false,"id":"399488","nbrOut":2,"timeOff":1794071412682},"type":"Feature"},
+{"geometry":{"coordinates":[-93.310335,36.667281],"type":"Point"},"properties":{"crewAssigned":false,"id":"399489","nbrOut":1,"timeOff":1794071452027},"type":"Feature"}
 ]}

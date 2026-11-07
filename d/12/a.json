@@ -14,7 +14,7 @@
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MIAMI","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MIAMI","TotOut":"3"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
@@ -23,7 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.736937,40.386387],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/07/2026 10:00 AM","INCIDENTID":"1821011","IND":"D","LAT":"40.38638678","LNG":"-83.736937195329","OutageTime":"11/07/2026 06:40 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.113141,40.029733],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"null","INCIDENTID":"1821017","IND":"D","LAT":"40.02973275","LNG":"-84.1131407116802","OutageTime":"11/07/2026 08:59 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.734722,40.388042],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/07/2026 10:00 AM","INCIDENTID":"1821011","IND":"D","LAT":"40.38804218","LNG":"-83.7347220641155","OutageTime":"11/07/2026 06:40 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.110938,40.031388],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/07/2026 11:00 AM","INCIDENTID":"1821017","IND":"D","LAT":"40.03138815","LNG":"-84.1109381076806","OutageTime":"11/07/2026 08:59 AM","TOTALCUSTS":"3"},"type":"Feature"}
 ]}

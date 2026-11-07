@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.664535,39.736817],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T10:21:55.347-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T07:21:55.433-05:00","outageName":"T-37799","outagePoint":{"lat":39.73681742885447,"lng":-82.66453521810301},"outageRecID":"2026-11-07-0285","outageStartTime":"2026-11-07T07:20:44-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

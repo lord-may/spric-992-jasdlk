@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.871892,41.642675],"type":"Point"},"properties":{"CreateDatetime":"11-06  02:30 PM","District":"515A","Downstream":5,"ETA":"","ETR":"11-06  08:00 PM","ETR_SOURCE":"MAN","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637530","Latitude":41.642675,"LocationCause":"A PUBLIC ACCIDENT","Longitude":-93.871892,"MAJ_OTG_ID":"","METRO_AREA":"Des Moines","StatusCd":"EN ROUTE"},"type":"Feature"},
-{"geometry":{"coordinates":[-90.422811,41.50192],"type":"Point"},"properties":{"CreateDatetime":"11-06  06:51 PM","District":"564B","Downstream":1,"ETA":"","ETR":"11-06  10:00 PM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637576","Latitude":41.50192,"LocationCause":"","Longitude":-90.422811,"MAJ_OTG_ID":"0","METRO_AREA":"Quad Cities Il","StatusCd":""},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.456096,39.17345],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T06:22:59.13-05:00","outageName":"R44-1-46","outagePoint":{"lat":39.173449500000004,"lng":-87.4560965},"outageRecID":"2026-11-07-0077","outageStartTime":"2026-11-07T06:11:22-05:00","outageWorkStatus":"","streetsAffected":["ALLENDALE","COUNTRY CLUB RD","N COUNTY ROAD 325 N","N COUNTY ROAD 325 W","N COUNTY ROAD 350 W","W COUNTY ROAD 500 N","W COUNTY ROAD 600 N","W STATE RD 48"],"verified":false},"type":"Feature"}
 ]}

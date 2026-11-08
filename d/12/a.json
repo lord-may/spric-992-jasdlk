@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.846252,40.50938],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/08/2026 06:00 PM","INCIDENTID":"1821069","IND":"D","LAT":"40.50937965","LNG":"-83.8462517756865","OutageTime":"11/07/2026 09:30 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.640163,39.678028],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/08/2026 03:00 PM","INCIDENTID":"1821088","IND":"D","LAT":"39.67802806","LNG":"-83.6401632205852","OutageTime":"11/08/2026 10:29 AM","TOTALCUSTS":"3"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.849569,40.506905],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/08/2026 06:00 PM","INCIDENTID":"1821069","IND":"D","LAT":"40.50690545","LNG":"-83.8495689129032","OutageTime":"11/07/2026 09:30 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.643437,39.675554],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/08/2026 03:00 PM","INCIDENTID":"1821088","IND":"D","LAT":"39.67555386","LNG":"-83.6434369781981","OutageTime":"11/08/2026 10:29 AM","TOTALCUSTS":"3"},"type":"Feature"}
 ]}

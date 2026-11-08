@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.47976,42.08273],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Working","es-US":"Trabajando","orig":"Arrived"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-08T10:00:00Z","etr_confidence":null,"inc_id":"2686371","n_out":1,"start_time":"2026-11-08T05:30Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-86.47976,42.08273],"type":"Point"},"properties":{"cause":{"EN-US":"TREE CONTACT","es-US":"CONTACTO CON ÁRBOLES","orig":"TREE CONTACT"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Working","es-US":"Trabajando","orig":"Arrived"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-08T08:30:14Z","etr_confidence":null,"inc_id":"2686371","n_out":1,"start_time":"2026-11-08T05:30Z","title":"Area Outage"},"type":"Feature"}
 ]}

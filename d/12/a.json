@@ -24,7 +24,7 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"5","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.641376,39.677111],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/08/2026 03:00 PM","INCIDENTID":"1821088","IND":"D","LAT":"39.67711136","LNG":"-83.6413761595569","OutageTime":"11/08/2026 10:29 AM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.253798,39.652468],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/08/2026 04:00 PM","INCIDENTID":"1821094","IND":"D","LAT":"39.6524684","LNG":"-84.2537977328767","OutageTime":"11/08/2026 02:34 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.698159,39.777759],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/08/2026 05:00 PM","INCIDENTID":"1821096","IND":"D","LAT":"39.77775869","LNG":"-84.6981592779905","OutageTime":"11/08/2026 02:35 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.640752,39.677583],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/08/2026 06:00 PM","INCIDENTID":"1821088","IND":"D","LAT":"39.67758306","LNG":"-83.6407520259112","OutageTime":"11/08/2026 10:29 AM","TOTALCUSTS":"3"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.253174,39.65294],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/08/2026 04:00 PM","INCIDENTID":"1821094","IND":"D","LAT":"39.6529401","LNG":"-84.2531738389552","OutageTime":"11/08/2026 02:34 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.697534,39.77823],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/08/2026 05:00 PM","INCIDENTID":"1821096","IND":"D","LAT":"39.77823039","LNG":"-84.6975341620639","OutageTime":"11/08/2026 02:35 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

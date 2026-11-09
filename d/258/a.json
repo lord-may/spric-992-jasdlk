@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.777652,47.956093],"type":"Point"},"properties":{"Actions":null,"ClosingDispatcher":null,"CostEstimate":null,"CrewDispatched":false,"CrewResponsible":null,"CustomerResponsible":null,"CustomersOutInitially":null,"CustomersOutNow":1,"CustomersRestored":0,"CustomersServed":null,"Dispatcher":null,"District":null,"EstimatedTime":null,"Feeder":null,"Fields":{"oID":"2026-11-09-0196"},"MapLocation":null,"Notes":null,"OutageEndTime":null,"OutageLocation":{"X":-91.77765166540877,"Y":47.95609299446723},"OutageName":"2026-11-09-0196","OutagePolygon":[],"OutageRecID":"2026-11-09-0196","OutageStartTime":"2026-11-09T11:40:50-06:00","OutagedPhase":null,"PriorityCustomers":null,"Status":null,"Substation":null,"SuspectedCause":null,"TroubledElement":null,"UplineElement":null,"Verified":false,"VerifiedCause":null},"type":"Feature"}
 ]}

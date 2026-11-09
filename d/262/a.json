@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.633457,40.841606],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":32,"customersOutNow":32,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T13:38:29.39-05:00","outageName":"REC49616","outagePoint":{"lat":40.84160648286759,"lng":-85.63345743602022},"outageRecID":"2026-11-09-0017","outageStartTime":"2026-11-09T13:30:59-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

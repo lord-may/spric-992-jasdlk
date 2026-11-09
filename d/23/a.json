@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.486612,45.590666],"type":"Point"},"properties":{"cause":"Structure Fire","crewAssigned":true,"estimateTime":1794201300000,"id":"732300","nbrOut":1,"timeOff":1794191853116},"type":"Feature"},
-{"geometry":{"coordinates":[-93.020898,45.750071],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794200400000,"id":"732301","nbrOut":1,"timeOff":1794192863993},"type":"Feature"}
+{"geometry":{"coordinates":[-93.020898,45.750071],"type":"Point"},"properties":{"cause":"Unknown Cause,Overhead Equipment","crewAssigned":true,"estimateTime":1794202200000,"id":"732301","nbrOut":1,"timeOff":1794192863993},"type":"Feature"}
 ]}

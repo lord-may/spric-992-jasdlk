@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.90385,42.739107],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting Assignment","ETR":"Nov 9, 12:00 p.m.","IsGlobal":false,"Latitude":42.739107210249394,"Longitude":-87.90384952466125,"OffTime":"Nov 9, 9:13 a.m.","Slices":[{"AffectedCusts":1,"City":"racine","CityCusts":59009,"County":"racine","CountyCusts":102791,"Region":"southeast wi","RegionCusts":1075513,"Zip":"53406","ZipCusts":14620}]},"type":"Feature"},
+{"geometry":{"coordinates":[-88.446103,44.225926],"type":"Point"},"properties":{"Cause":"Scheduled system improvement work","CrewStatus":"Awaiting Assignment","ETR":"Not yet determined","IsGlobal":false,"Latitude":44.225925558908656,"Longitude":-88.44610261465522,"OffTime":"Nov 9, 9:15 a.m.","Slices":[{"AffectedCusts":3,"City":"menasha","CityCusts":4814,"County":"winnebago","CountyCusts":27766,"Region":"fox valley wi","RegionCusts":143686,"Zip":"54952","ZipCusts":4827}]},"type":"Feature"}
 ]}

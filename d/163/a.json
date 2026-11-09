@@ -4,9 +4,10 @@
 {"geometry":{"coordinates":[-85.402852,43.34382],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794277800000,"id":"1980723","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.371133,44.960957],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794271500000,"id":"1980732","nbrOut":4,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.370135,44.961427],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794278700000,"id":"1980734","nbrOut":11,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.897622,44.940276],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794281400000,"id":"1980738","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.561477,45.65299],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794282300000,"id":"1980739","nbrOut":1,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.144227,44.726642],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794284100000,"id":"1980741","nbrOut":2,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.263676,44.871147],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794277800000,"id":"1980742","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.568645,45.655446],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794278700000,"id":"1980743","nbrOut":8,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-85.568645,45.655446],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794278700000,"id":"1980743","nbrOut":8,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.373288,44.94219],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794285900000,"id":"1980744","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.562258,44.045751],"type":"Point"},"properties":{"crewAssigned":false,"id":"1980745","nbrOut":1,"planned":false},"type":"Feature"}
 ]}

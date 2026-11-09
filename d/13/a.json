@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-87.332912,41.511697],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"MERRILLVILLE","comment":"Not Yet Determined","lat":41.511697,"lng":-87.332912,"maxAffected":1,"reported":"2026-11-08T23:14:00","restore":"2026-11-09T08:15:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46410"},"type":"Feature"}
+{"geometry":{"coordinates":[-87.332912,41.511697],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"MERRILLVILLE","comment":"Not Yet Determined","lat":41.511697,"lng":-87.332912,"maxAffected":1,"reported":"2026-11-08T23:14:00","restore":"2026-11-09T08:30:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46410"},"type":"Feature"},
+{"geometry":{"coordinates":[-87.347952,41.600386],"type":"Point"},"properties":{"affected":1,"cause":"Not Yet Determined","city":"GARY","comment":"Not Yet Determined","lat":41.600386,"lng":-87.347952,"maxAffected":1,"reported":"2026-11-09T06:07:00","restore":"2026-11-09T09:15:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46402"},"type":"Feature"}
 ]}

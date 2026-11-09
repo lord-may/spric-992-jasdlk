@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-92.163386,46.832971],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":21,"DATEOFF":1794238507000,"ETR":1794246300000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.000616","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.013309,46.896222],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794238924000,"ETR":1794246300000,"LOCATION":"Lakewood Township","ORDERID":"JE.2611.000620","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-91.992678,46.968816],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794240109000,"ETR":1794248100000,"LOCATION":"Normanna Township","ORDERID":"JE.2611.000625","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.32139,46.865777],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794240067000,"ETR":1794248100000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2611.000626","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.32139,46.865777],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794240067000,"ETR":1794248100000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2611.000626","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.206869,47.293275],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":33,"DATEOFF":1794240811000,"ETR":1794252600000,"LOCATION":"Greenway Township","ORDERID":"JE.2611.000633","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.320032,46.608359],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794240900000,"ETR":1794252600000,"LOCATION":"Pequot Lakes","ORDERID":"JE.2611.000634","STATUS":"Assigned"},"type":"Feature"}
 ]}

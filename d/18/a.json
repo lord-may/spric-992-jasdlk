@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.144292,47.512315],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":22,"DATEOFF":1794229573000,"ETR":1794240900000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2611.000590","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.191646,45.973435],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1794230048000,"ETR":1794241800000,"LOCATION":"Agram Township","ORDERID":"JE.2611.000592","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.108396,46.84044],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1794230077000,"ETR":1794238200000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000593","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.144292,47.512315],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":22,"DATEOFF":1794229573000,"ETR":1794240900000,"LOCATION":"Hoyt Lakes","ORDERID":"JE.2611.000590","STATUS":"Repairs in Progress"},"type":"Feature"}
 ]}

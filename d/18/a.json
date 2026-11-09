@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.426187,48.594017],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794242853000,"ETR":1794254400000,"LOCATION":"International Falls","ORDERID":"JE.2611.000635","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.059617,46.829401],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1794246944000,"ETR":1794254400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000644","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.059617,46.829401],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1794246944000,"ETR":1794258000000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000644","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.151093,46.874031],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794248720000,"ETR":1794256200000,"LOCATION":"Rice Lake","ORDERID":"JE.2611.000645","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.115919,46.728078],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794251305000,"ETR":1794262500000,"LOCATION":"Superior","ORDERID":"JE.2611.000649","STATUS":"Assigned"},"type":"Feature"}
 ]}

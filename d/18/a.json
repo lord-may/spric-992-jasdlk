@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.321326,46.610542],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794236110000,"ETR":1794254400000,"LOCATION":"Pequot Lakes","ORDERID":"JE.2611.000603","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.426187,48.594017],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794242853000,"ETR":1794254400000,"LOCATION":"International Falls","ORDERID":"JE.2611.000635","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.059617,46.829401],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1794246944000,"ETR":1794254400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000644","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.151093,46.874031],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794248720000,"ETR":1794256200000,"LOCATION":"Rice Lake","ORDERID":"JE.2611.000645","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.151093,46.874031],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794248720000,"ETR":1794256200000,"LOCATION":"Rice Lake","ORDERID":"JE.2611.000645","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.313148,46.807959],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794250003000,"ETR":1794258000000,"LOCATION":"Solway Township","ORDERID":"JE.2611.000646","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.321326,46.610542],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794236110000,"ETR":1794250800000,"LOCATION":"Pequot Lakes","ORDERID":"JE.2611.000603","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.163386,46.832971],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":21,"DATEOFF":1794238507000,"ETR":1794249900000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.000616","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.163386,46.832971],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":21,"DATEOFF":1794238507000,"ETR":1794253500000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.000616","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.320032,46.608359],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794240900000,"ETR":1794252600000,"LOCATION":"Pequot Lakes","ORDERID":"JE.2611.000634","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.426187,48.594017],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794242853000,"ETR":1794254400000,"LOCATION":"International Falls","ORDERID":"JE.2611.000635","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.426187,48.594017],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794242853000,"ETR":1794254400000,"LOCATION":"International Falls","ORDERID":"JE.2611.000635","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.059617,46.829401],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1794246944000,"ETR":1794254400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000644","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.629119,45.865374],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794235355000,"ETR":1794247200000,"LOCATION":"Swanville Township","ORDERID":"JE.2611.000601","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.629119,45.865374],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794235355000,"ETR":1794247200000,"LOCATION":"Swanville Township","ORDERID":"JE.2611.000601","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.321326,46.610542],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794236110000,"ETR":1794247200000,"LOCATION":"Pequot Lakes","ORDERID":"JE.2611.000603","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-95.094647,46.740924],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1794236311000,"ETR":1794248100000,"LOCATION":"Menahga","ORDERID":"JE.2611.000606","STATUS":"Assigned"},"type":"Feature"}
 ]}

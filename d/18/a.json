@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.94457,46.943484],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794324110000,"ETR":1794339000000,"LOCATION":"Normanna Township","ORDERID":"JE.2611.000693","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.043406,46.706863],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794336949000,"ETR":1794348000000,"LOCATION":"Superior","ORDERID":"JE.2611.000731","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-91.94457,46.943484],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794324110000,"ETR":1794339000000,"LOCATION":"Normanna Township","ORDERID":"JE.2611.000693","STATUS":"Assigned"},"type":"Feature"}
 ]}

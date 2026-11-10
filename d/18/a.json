@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.066648,46.707906],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":103,"DATEOFF":1794319162000,"ETR":1794338100000,"LOCATION":"Superior","ORDERID":"JE.2611.000672","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-91.94457,46.943484],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794324110000,"ETR":1794339000000,"LOCATION":"Normanna Township","ORDERID":"JE.2611.000693","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.403693,48.586402],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794324717000,"ETR":1794339900000,"LOCATION":"International Falls","ORDERID":"JE.2611.000698","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.056209,46.828244],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1794332037000,"ETR":1794339900000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000724","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.403693,48.586402],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794324717000,"ETR":1794339900000,"LOCATION":"International Falls","ORDERID":"JE.2611.000698","STATUS":"Assigned"},"type":"Feature"}
 ]}

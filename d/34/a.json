@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-101.910887,38.020562],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"450135","nbrOut":6,"planned":true,"timeOff":1794248656000},"type":"Feature"},
 {"geometry":{"coordinates":[-100.912059,38.476207],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"450143","nbrOut":1,"planned":true,"timeOff":1794319535874},"type":"Feature"},
-{"geometry":{"coordinates":[-101.357533,38.474596],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"450146","nbrOut":1,"planned":true,"timeOff":1794327475000},"type":"Feature"}
+{"geometry":{"coordinates":[-101.357533,38.474596],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"450146","nbrOut":1,"planned":true,"timeOff":1794327475000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.773323,38.3715],"type":"Point"},"properties":{"cause":"230 Customer disconnect request","crewAssigned":true,"id":"450147","nbrOut":1,"planned":true,"timeOff":1794336658000},"type":"Feature"}
 ]}

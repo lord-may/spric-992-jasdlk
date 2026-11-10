@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.3775,42.49551],"type":"Point"},"properties":{"CreateDatetime":"11-09  07:10 PM","District":"540A","Downstream":2,"ETA":"","ETR":"","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005637492","Latitude":42.49551,"LocationCause":"SCHEDULED MAINTENANCE","Longitude":-92.3775,"MAJ_OTG_ID":"","METRO_AREA":"Waterloo","StatusCd":"WORKING"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.642056,41.299771],"type":"Point"},"properties":{"CreateDatetime":"11-10  03:43 AM","District":"527B","Downstream":1,"ETA":"","ETR":"11-10  06:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005638098","Latitude":41.299771,"LocationCause":"","Longitude":-92.642056,"MAJ_OTG_ID":"0","METRO_AREA":"Des Moines","StatusCd":""},"type":"Feature"}
 ]}

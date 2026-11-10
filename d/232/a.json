@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.602032,40.857723],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":40.85772252,"location":"YORK","locationType":1,"lon":-97.60203176,"zipCode":"68467"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"Planned","endTime":"12/31/9999 12:00:00 AM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"11-10-2026 12:25","OutageAttribute3":"9999-12-31","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002649-1","lat":40.85772252,"location":"YORK","locationType":1,"lon":-97.60203176,"name":null,"notes":"Utility","outageType":2,"restorationTime":"00:00","serviceType":1,"startTime":"11/10/2026 12:25:00","status":1,"zipCode":"68467"},"type":"Feature"}
+
 ]}

@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"5","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.17159,39.634613],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/09/2026 10:00 PM","INCIDENTID":"1821185","IND":"D","LAT":"39.63461266","LNG":"-84.1715900459003","OutageTime":"11/09/2026 02:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.956121,39.473928],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/10/2026 02:00 AM","INCIDENTID":"1821233","IND":"D","LAT":"39.47392794","LNG":"-83.9561205253891","OutageTime":"11/09/2026 04:15 PM","TOTALCUSTS":"4"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.172661,39.633803],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/09/2026 10:00 PM","INCIDENTID":"1821185","IND":"D","LAT":"39.63380276","LNG":"-84.1726609890972","OutageTime":"11/09/2026 02:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.957189,39.473118],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/10/2026 02:00 AM","INCIDENTID":"1821233","IND":"D","LAT":"39.47311804","LNG":"-83.9571887998606","OutageTime":"11/09/2026 04:15 PM","TOTALCUSTS":"4"},"type":"Feature"}
 ]}

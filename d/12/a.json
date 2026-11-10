@@ -19,14 +19,16 @@
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"46"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"54","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.357379,40.232524],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/10/2026 06:00 PM","INCIDENTID":"1821359","IND":"D","LAT":"40.23252384","LNG":"-83.3573790200087","OutageTime":"11/10/2026 02:20 PM","TOTALCUSTS":"45"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.357567,39.656611],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 05:00 PM","INCIDENTID":"1821361","IND":"D","LAT":"39.65661101","LNG":"-84.3575670413025","OutageTime":"11/10/2026 02:43 PM","TOTALCUSTS":"2"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.357379,40.232524],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/10/2026 05:00 PM","INCIDENTID":"1821362","IND":"D","LAT":"40.23252384","LNG":"-83.3573790200087","OutageTime":"11/10/2026 02:57 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.270931,39.646999],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 05:00 PM","INCIDENTID":"1821364","IND":"D","LAT":"39.64699928","LNG":"-84.2709305187699","OutageTime":"11/10/2026 03:14 PM","TOTALCUSTS":"5"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.276955,39.822687],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 06:00 PM","INCIDENTID":"1821370","IND":"D","LAT":"39.82268654","LNG":"-84.2769547165287","OutageTime":"11/10/2026 04:03 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"55","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.359197,40.231162],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/10/2026 06:00 PM","INCIDENTID":"1821359","IND":"D","LAT":"40.23116214","LNG":"-83.3591966348844","OutageTime":"11/10/2026 02:20 PM","TOTALCUSTS":"45"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.359368,39.655249],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 05:00 PM","INCIDENTID":"1821361","IND":"D","LAT":"39.65524931","LNG":"-84.3593682443162","OutageTime":"11/10/2026 02:43 PM","TOTALCUSTS":"2"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.359197,40.231162],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/10/2026 05:00 PM","INCIDENTID":"1821362","IND":"D","LAT":"40.23116214","LNG":"-83.3591966348844","OutageTime":"11/10/2026 02:57 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.272731,39.645638],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 05:00 PM","INCIDENTID":"1821364","IND":"D","LAT":"39.64563758","LNG":"-84.2727314520279","OutageTime":"11/10/2026 03:14 PM","TOTALCUSTS":"5"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.278761,39.821325],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 06:00 PM","INCIDENTID":"1821370","IND":"D","LAT":"39.82132484","LNG":"-84.2787606018416","OutageTime":"11/10/2026 04:03 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.08455,40.337582],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/10/2026 07:00 PM","INCIDENTID":"1821372","IND":"D","LAT":"40.33758228","LNG":"-84.0845500871566","OutageTime":"11/10/2026 04:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.240737,39.656947],"type":"Point"},"properties":{"EstimateTime":"null","INCIDENTID":"1821373","IND":"D","LAT":"39.6569465","LNG":"-84.2407368826621","OutageTime":"11/10/2026 04:02 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

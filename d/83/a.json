@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-94.664896,38.004397],[-94.64648,38.006606],[-94.642501,38.007632],[-94.613485,38.016288],[-94.604664,38.05934],[-94.61503,38.1406],[-94.624139,38.159716],[-94.633257,38.161122],[-94.685297,38.154842],[-94.687138,38.153769],[-94.688611,38.096351],[-94.682305,38.037403],[-94.678317,38.007681],[-94.664896,38.004397]]],"type":"Polygon"},{"coordinates":[-94.648268,38.08354],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Scheduled","comment":"Scheduled outage - system maintenance","crewAssigned":true,"estimateTime":1794304800000,"id":"487741","nbrOut":175,"planned":true,"timeOff":1794283200000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.367837,44.831589],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting assignment","ETR":"Nov 9, 11:00 p.m.","IsGlobal":false,"Latitude":44.83158903461628,"Longitude":-89.3678367447742,"OffTime":"Nov 9, 8:15 p.m.","Slices":[{"AffectedCusts":1,"City":"reid","CityCusts":646,"County":"marathon","CountyCusts":62602,"Region":"","RegionCusts":0,"Zip":"54440","ZipCusts":1468}]},"type":"Feature"}
+{"geometry":{"coordinates":[-89.367837,44.831589],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Assigned","ETR":"Nov 9, 11:00 p.m.","IsGlobal":false,"Latitude":44.83158903461628,"Longitude":-89.3678367447742,"OffTime":"Nov 9, 8:15 p.m.","Slices":[{"AffectedCusts":1,"City":"reid","CityCusts":646,"County":"marathon","CountyCusts":62602,"Region":"","RegionCusts":0,"Zip":"54440","ZipCusts":1468}]},"type":"Feature"}
 ]}

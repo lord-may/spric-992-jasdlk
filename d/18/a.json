@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-92.157583,46.791184],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794319488000,"ETR":1794327300000,"LOCATION":"Duluth - Piedmont Heights","ORDERID":"JE.2611.000686","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.630638,47.465353],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794319498000,"ETR":1794330900000,"LOCATION":"Mountain Iron","ORDERID":"JE.2611.000687","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.571999,46.601019],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794319739000,"ETR":1794327300000,"LOCATION":"Atkinson Township","ORDERID":"JE.2611.000688","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-91.269944,47.295407],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794320220000,"ETR":1794328200000,"LOCATION":"Silver Bay","ORDERID":"JE.2611.000689","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-91.269944,47.295407],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794320220000,"ETR":1794328200000,"LOCATION":"Silver Bay","ORDERID":"JE.2611.000689","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.067681,46.812276],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794321108000,"ETR":1794329100000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000691","STATUS":"New Outage"},"type":"Feature"}
 ]}

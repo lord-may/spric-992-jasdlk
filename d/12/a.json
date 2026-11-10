@@ -3,7 +3,7 @@
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CLARK","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
@@ -23,10 +23,11 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"5","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.359322,40.114555],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/10/2026 01:00 PM","INCIDENTID":"1821319","IND":"D","LAT":"40.11455548","LNG":"-84.359321892551","OutageTime":"11/10/2026 10:40 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.764508,40.423074],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/10/2026 01:00 PM","INCIDENTID":"1821322","IND":"D","LAT":"40.42307387","LNG":"-84.764508201365","OutageTime":"11/10/2026 10:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.460972,40.060906],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/10/2026 02:00 PM","INCIDENTID":"1821329","IND":"D","LAT":"40.06090603","LNG":"-84.4609718425017","OutageTime":"11/10/2026 11:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.159965,39.786326],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 02:00 PM","INCIDENTID":"1821330","IND":"D","LAT":"39.78632552","LNG":"-84.1599645273039","OutageTime":"11/10/2026 11:51 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.137539,40.325866],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/10/2026 02:00 PM","INCIDENTID":"1821333","IND":"D","LAT":"40.32586558","LNG":"-84.1375385504905","OutageTime":"11/10/2026 12:24 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"6","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.361433,40.112971],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/10/2026 01:00 PM","INCIDENTID":"1821319","IND":"D","LAT":"40.11297128","LNG":"-84.361432552908","OutageTime":"11/10/2026 10:40 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.766629,40.42149],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/10/2026 01:00 PM","INCIDENTID":"1821322","IND":"D","LAT":"40.42148967","LNG":"-84.7666292643801","OutageTime":"11/10/2026 10:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.463081,40.059322],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/10/2026 02:00 PM","INCIDENTID":"1821329","IND":"D","LAT":"40.05932183","LNG":"-84.4630807109298","OutageTime":"11/10/2026 11:41 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.162064,39.784741],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/10/2026 02:00 PM","INCIDENTID":"1821330","IND":"D","LAT":"39.78474132","LNG":"-84.1620643025427","OutageTime":"11/10/2026 11:51 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.139656,40.324281],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/10/2026 02:00 PM","INCIDENTID":"1821333","IND":"D","LAT":"40.32428138","LNG":"-84.1396563177266","OutageTime":"11/10/2026 12:24 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.03562,39.888701],"type":"Point"},"properties":{"COUNTY":"CLARK","EstimateTime":"null","INCIDENTID":"1821339","IND":"D","LAT":"39.88870096","LNG":"-84.0356195980049","OutageTime":"11/10/2026 12:48 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

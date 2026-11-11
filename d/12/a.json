@@ -3,7 +3,7 @@
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CLARK","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"31"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,9 +23,9 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.954641,39.475049],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47504934","LNG":"-83.9546413761208","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.388876,39.366397],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3663967","LNG":"-83.3888755558599","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.139833,40.310671],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821427","IND":"D","LAT":"40.31067078","LNG":"-84.1398325270855","OutageTime":"11/11/2026 11:16 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.009063,39.953552],"type":"Point"},"properties":{"COUNTY":"CLARK","EstimateTime":"null","INCIDENTID":"1821433","IND":"D","LAT":"39.95355191","LNG":"-84.0090634007194","OutageTime":"11/11/2026 12:09 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"34","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.955287,39.47456],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47455984","LNG":"-83.9552870365156","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.38952,39.365907],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3659072","LNG":"-83.3895201331889","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.140487,40.310181],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821427","IND":"D","LAT":"40.31018128","LNG":"-84.1404867247088","OutageTime":"11/11/2026 11:16 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.18251,39.802305],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/11/2026 03:00 PM","INCIDENTID":"1821436","IND":"D","LAT":"39.80230542","LNG":"-84.1825101297638","OutageTime":"11/11/2026 12:22 PM","TOTALCUSTS":"31"},"type":"Feature"}
 ]}

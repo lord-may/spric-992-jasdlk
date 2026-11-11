@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.948159,39.572602],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T11:12:00.3-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T08:12:00.393-05:00","outageName":"T-52481","outagePoint":{"lat":39.57260235261799,"lng":-82.94815949454758},"outageRecID":"2026-11-11-0403","outageStartTime":"2026-11-11T08:11:10-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

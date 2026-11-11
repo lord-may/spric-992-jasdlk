@@ -24,7 +24,7 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.954712,39.474996],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47499594","LNG":"-83.9547118118002","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.388946,39.366343],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3663433","LNG":"-83.3889458733867","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.139904,40.310617],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821427","IND":"D","LAT":"40.31061738","LNG":"-84.139903894099","OutageTime":"11/11/2026 11:16 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.954184,39.475396],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47539644","LNG":"-83.9541835442044","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.388418,39.366744],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3667438","LNG":"-83.3884184919357","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.139369,40.311018],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821427","IND":"D","LAT":"40.31101788","LNG":"-84.1393686414981","OutageTime":"11/11/2026 11:16 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

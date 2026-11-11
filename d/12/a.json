@@ -10,7 +10,7 @@
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
@@ -23,7 +23,6 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.954759,39.47496],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 05:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47496034","LNG":"-83.9547587689198","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.388993,39.366308],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 05:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3663077","LNG":"-83.3889927517379","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.957177,39.473127],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 05:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47312694","LNG":"-83.9571770605807","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

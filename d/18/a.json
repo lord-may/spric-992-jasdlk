@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.060654,46.85882],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":33,"DATEOFF":1794404609000,"ETR":1794412800000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.000771","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.363731,46.703641],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1794404664000,"ETR":1794412800000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000774","STATUS":"New Outage"},"type":"Feature"}
 ]}

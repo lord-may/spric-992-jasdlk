@@ -2,6 +2,6 @@
 {"geometry":{"coordinates":[-92.107549,46.805585],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405223000,"ETR":1794420000000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000776","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.085981,46.806639],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794411026000,"ETR":1794426300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000783","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.385961,45.977678],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794420567000,"ETR":1794431700000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000818","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.358147,45.970049],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794421439000,"ETR":1794432600000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000819","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.706475,45.874751],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794422449000,"ETR":1794433500000,"LOCATION":"Burnhamville Township","ORDERID":"JE.2611.000822","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.706475,45.874751],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794422449000,"ETR":1794433500000,"LOCATION":"Burnhamville Township","ORDERID":"JE.2611.000822","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.241216,46.813995],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794422814000,"ETR":1794430800000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000825","STATUS":"Assigned"},"type":"Feature"}
 ]}

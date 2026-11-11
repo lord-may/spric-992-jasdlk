@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.359166,41.389511],"type":"Point"},"properties":{"CreateDatetime":"11-11  02:33 AM","District":"581A","Downstream":7,"ETA":"","ETR":"11-11  05:30 AM","ETR_SOURCE":"MAN","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005638306","Latitude":41.389511,"LocationCause":"AN EQUIPMENT PROBLEM","Longitude":-95.359166,"MAJ_OTG_ID":"","METRO_AREA":"Council Bluffs","StatusCd":""},"type":"Feature"},
 {"geometry":{"coordinates":[-92.216535,42.340788],"type":"Point"},"properties":{"CreateDatetime":"11-11  05:09 AM","District":"540A","Downstream":3,"ETA":"","ETR":"11-11  08:15 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005638307","Latitude":42.340788,"LocationCause":"","Longitude":-92.216535,"MAJ_OTG_ID":"0","METRO_AREA":"Waterloo","StatusCd":"EN ROUTE"},"type":"Feature"}
 ]}

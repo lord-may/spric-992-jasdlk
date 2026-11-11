@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-92.104307,46.805596],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405439000,"ETR":1794417300000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000777","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.108078,46.798042],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794410013000,"ETR":1794418200000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.000782","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.085981,46.806639],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794411026000,"ETR":1794419100000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000783","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.367566,46.706529],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794411610000,"ETR":1794419100000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000787","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.367566,46.706529],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794411610000,"ETR":1794419100000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000787","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-91.924151,46.925468],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":63,"DATEOFF":1794412362000,"ETR":1794420000000,"LOCATION":"Duluth Township,Lakewood Township","ORDERID":"JE.2611.000794","STATUS":"Assigned"},"type":"Feature"}
 ]}

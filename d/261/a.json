@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.121716,38.384227],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T09:38:36.177-05:00","outageName":"GROVES OUTAGE B3-31-068","outagePoint":{"lat":38.38422741667833,"lng":-86.1217162873422},"outageRecID":"2026-11-11-0118","outageStartTime":"2026-11-11T09:34:15-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.060654,46.85882],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":33,"DATEOFF":1794404609000,"ETR":1794412800000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.000771","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.363731,46.703641],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1794404664000,"ETR":1794412800000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000774","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.107549,46.805585],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405223000,"ETR":1794412800000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000776","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.104307,46.805596],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405439000,"ETR":1794413700000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000777","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.104307,46.805596],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405439000,"ETR":1794413700000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000777","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.357125,45.977487],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794406934000,"ETR":1794418200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000780","STATUS":"Assigned"},"type":"Feature"}
 ]}

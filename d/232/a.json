@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.756068,41.887398],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":41.8873984,"location":"MITCHELL","locationType":1,"lon":-103.7560683,"zipCode":"69357"}],"affectedCount":1,"crewStatus":"Crew is OnSite for this incident","description":"No Reason Assigned","endTime":"11/10/2026 9:55:00 PM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"11-10-2026 19:18","OutageAttribute3":"11-10-2026 21:55","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002676-1","lat":41.8873984,"location":"MITCHELL","locationType":1,"lon":-103.7560683,"name":null,"notes":"Utility","outageType":2,"restorationTime":"21:55","serviceType":1,"startTime":"11/10/2026 19:18:00","status":1,"zipCode":"69357"},"type":"Feature"}
+
 ]}

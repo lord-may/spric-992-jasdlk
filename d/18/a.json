@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.455146,46.721286],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1794352000000,"ETR":1794366900000,"LOCATION":"Cloquet","ORDERID":"JE.2611.000748","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.455146,46.721286],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794351509000,"ETR":1794366900000,"LOCATION":"Cloquet","ORDERID":"JE.2611.000749","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.114976,46.997145],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":93,"DATEOFF":1794370221000,"ETR":1794377700000,"LOCATION":"Gnesen Township","ORDERID":"JE.2611.000762","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.114976,46.997145],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":93,"DATEOFF":1794370221000,"ETR":1794377700000,"LOCATION":"Gnesen Township","ORDERID":"JE.2611.000762","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.123725,46.986589],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794370227000,"ETR":1794378600000,"LOCATION":"Gnesen Township","ORDERID":"JE.2611.000768","STATUS":"New Outage"},"type":"Feature"}
 ]}

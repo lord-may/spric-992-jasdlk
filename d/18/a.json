@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.241103,46.813529],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1794422814000,"ETR":1794438000000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000825","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.733805,45.782466],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794427109000,"ETR":1794438900000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2611.000832","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.059763,46.827629],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":10,"DATEOFF":1794433572000,"ETR":1794441600000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000839","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.059763,46.827629],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":10,"DATEOFF":1794433572000,"ETR":1794441600000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000839","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.051979,46.826536],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794433982000,"ETR":1794441600000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000841","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.957905,39.472575],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 12:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47257514","LNG":"-83.9579048959349","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.215301,39.802427],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/11/2026 12:00 PM","INCIDENTID":"1821411","IND":"D","LAT":"39.80242749","LNG":"-84.2153014184406","OutageTime":"11/11/2026 09:25 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.392134,39.363923],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3639225","LNG":"-83.3921336012683","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.955921,39.474079],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 12:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47407924","LNG":"-83.9559209576306","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.390153,39.365427],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3654266","LNG":"-83.3901529909301","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.241103,46.813529],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1794422814000,"ETR":1794434400000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000825","STATUS":"Repairs in Progress"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.733805,45.782466],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794427109000,"ETR":1794438900000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2611.000832","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.241103,46.813529],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1794422814000,"ETR":1794438000000,"LOCATION":"Hermantown","ORDERID":"JE.2611.000825","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.733805,45.782466],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794427109000,"ETR":1794438900000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2611.000832","STATUS":"Repairs in Progress"},"type":"Feature"}
 ]}

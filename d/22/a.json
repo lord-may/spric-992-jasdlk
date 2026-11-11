@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.368948,48.762449],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T12:51:34-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T10:54:07.457-06:00","outageName":"LANGDON DOWNTOWN-EAST FEE","outagePoint":{"lat":48.76244850162727,"lng":-98.36894750111702},"outageRecID":"2026-11-11-0430","outageStartTime":"2026-11-11T10:51:34-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

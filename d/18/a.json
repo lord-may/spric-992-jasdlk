@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.107549,46.805585],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405223000,"ETR":1794420000000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000776","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.104307,46.805596],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405439000,"ETR":1794420900000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000777","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.085981,46.806639],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794411026000,"ETR":1794419100000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000783","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-91.924151,46.925468],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":63,"DATEOFF":1794412362000,"ETR":1794420000000,"LOCATION":"Duluth Township,Lakewood Township","ORDERID":"JE.2611.000794","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.351661,45.861658],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794412889000,"ETR":1794424500000,"LOCATION":"Bellevue Township","ORDERID":"JE.2611.000799","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.736946,45.775215],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794415078000,"ETR":1794426300000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2611.000804","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.085981,46.806639],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794411026000,"ETR":1794422700000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000783","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.736946,45.775215],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794415078000,"ETR":1794426300000,"LOCATION":"Grey Eagle Township","ORDERID":"JE.2611.000804","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.305902,46.725037],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794417230000,"ETR":1794425400000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000809","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-95.732094,46.765615],[-95.712278,46.774032],[-95.726183,46.792627],[-95.729004,46.794337],[-95.777459,46.808376],[-95.796566,46.805474],[-95.79556,46.777409],[-95.795255,46.775465],[-95.789631,46.769362],[-95.778573,46.765092],[-95.732094,46.765615]]],"type":"Polygon"},{"coordinates":[-95.760239,46.784336],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Planned outage for a system upgrade project.  Approximate duration: 2 HOURS","crewAssigned":true,"id":"232715","nbrOut":332,"planned":true,"timeOff":1794409236000},"type":"Feature"},
-{"geometry":{"coordinates":[-95.96607,46.260728],"type":"Point"},"properties":{"comment":"HIGHLINE PLANNED OUTAGE.  APPROX 1.5 HOURS.","crewAssigned":false,"id":"232716","nbrOut":1,"planned":true,"timeOff":1794409551985},"type":"Feature"},
-{"geometry":{"coordinates":[-95.966636,46.260753],"type":"Point"},"properties":{"comment":"HIGHLINE PLANNED OUTAGE.  APPROX 1.5 HOURS","crewAssigned":false,"id":"232717","nbrOut":1,"planned":true,"timeOff":1794409565683},"type":"Feature"}
+
 ]}

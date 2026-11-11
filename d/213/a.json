@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.11371,44.638292],"type":"Point"},"properties":{"Id":"18660","OutageStartTime":1794401036000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.113172,44.638091],"type":"Point"},"properties":{"Id":"18661","OutageStartTime":1794401042000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.11323,44.638303],"type":"Point"},"properties":{"Id":"18662","OutageStartTime":1794401043000,"OutageStatus":"Outage"},"type":"Feature"}
 ]}

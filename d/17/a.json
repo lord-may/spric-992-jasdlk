@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.712704,40.865665],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"0521","INCIDENT_ID":526134,"LES_AREA":"","REGION":4,"STATUS":0,"TIME_OUTAGE":"11/11/2026 11:57 AM","X":157225.875,"Y":224310.609},"type":"Feature"},
-{"geometry":{"coordinates":[-96.686153,40.808721],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"4812","INCIDENT_ID":526135,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/11/2026 11:57 AM","X":164570.688,"Y":203561.484},"type":"Feature"},
 {"geometry":{"coordinates":[-96.752742,40.798238],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"1612","INCIDENT_ID":526136,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/11/2026 11:58 AM","X":146132.953,"Y":199748.656},"type":"Feature"}
 ]}

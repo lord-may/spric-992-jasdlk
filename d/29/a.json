@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"geometries":[{"coordinates":[[[-89.886712,44.156507],[-89.885364,44.156726],[-89.884763,44.158021],[-89.886757,44.159259],[-89.88735,44.157467],[-89.886712,44.156507]]],"type":"Polygon"},{"coordinates":[-89.886164,44.157738],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"PLANNED OUTAGE WEDNESDAY 11/11/26 FROM 2:30-4PM.","crewAssigned":true,"estimateTime":1794434400000,"id":"337183","nbrOut":9,"planned":false,"timeOff":1794429023000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.156444,44.149082],"type":"Point"},"properties":{"crewAssigned":true,"id":"337318","nbrOut":1,"planned":false,"timeOff":1794407431000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.622625,44.266881],"type":"Point"},"properties":{"crewAssigned":true,"id":"337322","nbrOut":1,"planned":false,"timeOff":1794409390000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.884592,44.156661],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794427200000,"id":"337371","nbrOut":1,"planned":false,"timeOff":1794425672000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.884592,44.156661],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794427200000,"id":"337371","nbrOut":1,"planned":false,"timeOff":1794425672000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-89.918162,43.906945],[-89.91694,43.907372],[-89.91827,43.907799],[-89.918503,43.907566],[-89.918162,43.906945]]],"type":"Polygon"},{"coordinates":[-89.917883,43.907385],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"337373","nbrOut":4,"planned":false,"timeOff":1794429966000},"type":"Feature"}
 ]}

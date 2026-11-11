@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.123495,37.726392],"type":"Point"},"properties":{"cause":"Assessing","crewAssigned":false,"id":"246991","nbrOut":1,"planned":true,"timeOff":1793975427000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.758995,37.498686],"type":"Point"},"properties":{"cause":"Planned Construction/work order","crewAssigned":true,"id":"246997","lifeCycleStatus":"Crew En Route","nbrOut":1,"planned":false,"timeOff":1794322645000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.123495,37.726392],"type":"Point"},"properties":{"cause":"Assessing","crewAssigned":false,"id":"246991","nbrOut":1,"planned":true,"timeOff":1793975427000},"type":"Feature"}
 ]}

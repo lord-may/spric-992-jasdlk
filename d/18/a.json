@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.107549,46.805585],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405223000,"ETR":1794420000000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000776","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.104307,46.805596],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794405439000,"ETR":1794420900000,"LOCATION":"Duluth - Kenwood","ORDERID":"JE.2611.000777","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.085981,46.806639],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794411026000,"ETR":1794422700000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000783","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.085981,46.806639],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794411026000,"ETR":1794426300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.000783","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.305902,46.725037],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794417230000,"ETR":1794425400000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.000809","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.053575,46.827511],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794420029000,"ETR":1794428100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000816","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.053575,46.827511],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794420029000,"ETR":1794428100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000816","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.054712,46.828131],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1794420399000,"ETR":1794428100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000817","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.385961,45.977678],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794420567000,"ETR":1794431700000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000818","STATUS":"Assigned"},"type":"Feature"}
 ]}

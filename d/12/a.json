@@ -2,7 +2,7 @@
 {"geometry":null,"properties":{"County":"AUGLAIZE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"101"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"99"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
@@ -23,9 +23,8 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"103","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.952904,39.476367],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 01:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47636654","LNG":"-83.9529039626945","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.387141,39.367714],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3677139","LNG":"-83.3871410568655","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.536047,40.178241],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"null","INCIDENTID":"1821443","IND":"D","LAT":"40.17824092","LNG":"-83.5360467763244","OutageTime":"11/11/2026 12:53 PM","TOTALCUSTS":"2"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.523925,40.191497],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"null","INCIDENTID":"1821444","IND":"D","LAT":"40.19149715","LNG":"-83.5239251266251","OutageTime":"11/11/2026 12:53 PM","TOTALCUSTS":"99"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"101","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.955017,39.474765],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 05:00 PM","INCIDENTID":"1821406","IND":"D","LAT":"39.47476454","LNG":"-83.9550170330778","OutageTime":"11/11/2026 09:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.389251,39.366112],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/11/2026 02:00 PM","INCIDENTID":"1821423","IND":"D","LAT":"39.3661119","LNG":"-83.3892505826695","OutageTime":"11/11/2026 10:48 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.526062,40.189895],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/11/2026 03:00 PM","INCIDENTID":"1821444","IND":"D","LAT":"40.18989515","LNG":"-83.5260620328457","OutageTime":"11/11/2026 12:53 PM","TOTALCUSTS":"99"},"type":"Feature"}
 ]}

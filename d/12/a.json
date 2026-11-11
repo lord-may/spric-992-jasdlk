@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.251618,40.051308],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/11/2026 09:00 AM","INCIDENTID":"1821393","IND":"D","LAT":"40.05130783","LNG":"-84.251618227912","OutageTime":"11/11/2026 07:12 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.885005,39.418385],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"null","INCIDENTID":"1821394","IND":"D","LAT":"39.41838508","LNG":"-83.8850047444016","OutageTime":"11/11/2026 08:05 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.248136,40.053924],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/11/2026 09:00 AM","INCIDENTID":"1821393","IND":"D","LAT":"40.05392443","LNG":"-84.2481355590776","OutageTime":"11/11/2026 07:12 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.881556,39.421002],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/11/2026 10:00 AM","INCIDENTID":"1821394","IND":"D","LAT":"39.42100168","LNG":"-83.8815563587993","OutageTime":"11/11/2026 08:05 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

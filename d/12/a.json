@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.01013,40.066701],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 01:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06670057","LNG":"-84.0101300124909","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.159244,40.100579],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/12/2026 04:00 AM","INCIDENTID":"1821473","IND":"D","LAT":"40.10057945","LNG":"-84.1592440023274","OutageTime":"11/12/2026 12:35 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.006457,40.06946],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 04:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06945957","LNG":"-84.006456909358","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.155569,40.103338],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/12/2026 03:00 AM","INCIDENTID":"1821473","IND":"D","LAT":"40.10333845","LNG":"-84.1555689288572","OutageTime":"11/12/2026 12:35 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.080228,46.120696],"type":"Point"},"properties":{"cause":"NO CAUSE CODE","crewAssigned":false,"id":"445523","nbrOut":1,"timeOff":1793640933000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.987225,46.114027],"type":"Point"},"properties":{"cause":"NO CAUSE CODE","crewAssigned":false,"id":"445627","nbrOut":1,"timeOff":1794493816000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.987225,46.114027],"type":"Point"},"properties":{"cause":"NO CAUSE CODE","crewAssigned":false,"id":"445628","nbrOut":1,"timeOff":1794494203061},"type":"Feature"}
+{"geometry":{"coordinates":[-97.981117,46.114332],"type":"Point"},"properties":{"cause":"NO CAUSE CODE","crewAssigned":false,"id":"445628","nbrOut":1,"timeOff":1794493816000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.81133,46.314071],"type":"Point"},"properties":{"cause":"MAINTENANCE PLANNED","crewAssigned":true,"id":"445629","nbrOut":1,"timeOff":1794494676000},"type":"Feature"}
 ]}

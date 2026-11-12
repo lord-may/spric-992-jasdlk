@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.05631,38.213967],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T09:56:47.69-05:00","outageName":"D3-27-075","outagePoint":{"lat":38.213966761780995,"lng":-86.05631035156043},"outageRecID":"2026-11-12-0133","outageStartTime":"2026-11-12T09:56:29-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

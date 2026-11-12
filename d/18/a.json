@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.594457,47.095715],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794484980000,"ETR":1794496500000,"LOCATION":"Shingobee Township","ORDERID":"JE.2611.000850","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.29605,46.635874],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794493801000,"ETR":1794505500000,"LOCATION":"Jenkins Township","ORDERID":"JE.2611.000851","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.29605,46.635874],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794493801000,"ETR":1794505500000,"LOCATION":"Jenkins Township","ORDERID":"JE.2611.000851","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.178941,46.730011],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794494127000,"ETR":1794501900000,"LOCATION":"Duluth - Fairmount Irving","ORDERID":"JE.2611.000852","STATUS":"Assigned"},"type":"Feature"}
 ]}

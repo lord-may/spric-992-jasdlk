@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-93.494912,46.036928],[-93.478212,46.098425],[-93.52559,46.111499],[-93.554623,46.115584],[-93.557543,46.115733],[-93.558656,46.110702],[-93.556447,46.104679],[-93.494912,46.036928]]],"type":"Polygon"},{"coordinates":[-93.51339,46.084925],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1794494100000,"id":"732416","nbrOut":76,"timeOff":1794493800000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.92543,45.773447],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1794503700000,"id":"732417","nbrOut":1,"timeOff":1794494697000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.297678,45.782081],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1794502800000,"id":"732418","nbrOut":1,"timeOff":1794495056000},"type":"Feature"}
 ]}

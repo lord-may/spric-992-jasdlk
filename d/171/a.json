@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.687252,39.048696],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T13:55:17.397-05:00","outageName":"G5   32","outagePoint":{"lat":39.048696005956785,"lng":-85.68725232850505},"outageRecID":"2026-11-12-0162","outageStartTime":"2026-11-12T13:55:15-05:00","outageWorkStatus":"","streetsAffected":["BUCKINGHAM DR","COUNTRY MANOR ST"],"verified":false},"type":"Feature"}
 ]}

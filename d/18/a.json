@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.29605,46.635874],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794493801000,"ETR":1794512700000,"LOCATION":"Jenkins Township","ORDERID":"JE.2611.000851","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.102349,46.668358],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794506527000,"ETR":1794518100000,"LOCATION":"Superior","ORDERID":"JE.2611.000868","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.452461,46.614663],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794506852000,"ETR":1794514500000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2611.000869","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.815904,46.383174],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794506833000,"ETR":1794514500000,"LOCATION":"Sturgeon Lake","ORDERID":"JE.2611.000870","STATUS":"Assigned"},"type":"Feature"}
 ]}

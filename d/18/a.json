@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.29605,46.635874],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794493801000,"ETR":1794512700000,"LOCATION":"Jenkins Township","ORDERID":"JE.2611.000851","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.815904,46.383174],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794506833000,"ETR":1794514500000,"LOCATION":"Sturgeon Lake","ORDERID":"JE.2611.000870","STATUS":"Repairs in Progress"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.815904,46.383174],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794506833000,"ETR":1794518100000,"LOCATION":"Sturgeon Lake","ORDERID":"JE.2611.000870","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.051524,46.825975],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794512685000,"ETR":1794520800000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000873","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.092615,46.732851],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":11,"DATEOFF":1794512723000,"ETR":1794524400000,"LOCATION":"Superior","ORDERID":"JE.2611.000875","STATUS":"New Outage"},"type":"Feature"}
 ]}

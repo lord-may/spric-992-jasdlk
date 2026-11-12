@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.3725,39.3345],"type":"Point"},"properties":{"convexHull":null,"customersAffectedNumber":1,"deviceLatitudeLocation":39.3345,"deviceLongitudeLocation":-84.3725,"outageCause":"unplanned","sourceEventNumber":"20261112000033"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.1856,39.151],"type":"Point"},"properties":{"convexHull":[{"lat":39.151,"lng":-84.1856},{"lat":39.1501,"lng":-84.1841},{"lat":39.1481,"lng":-84.1827},{"lat":39.1455,"lng":-84.1812},{"lat":39.1453,"lng":-84.1815}],"customersAffectedNumber":4,"deviceLatitudeLocation":39.151,"deviceLongitudeLocation":-84.1856,"outageCause":"unplanned","sourceEventNumber":"20261112000034"},"type":"Feature"},
 {"geometry":{"coordinates":[-84.3744,38.9748],"type":"Point"},"properties":{"convexHull":null,"customersAffectedNumber":1,"deviceLatitudeLocation":38.9748,"deviceLongitudeLocation":-84.3744,"outageCause":"unplanned","sourceEventNumber":"20261112000037"},"type":"Feature"}
 ]}

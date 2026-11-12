@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.625774,39.703188],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T08:25:06.07-05:00","outageName":"817992","outagePoint":{"lat":39.70318844150575,"lng":-85.62577432360702},"outageRecID":"2026-11-12-0100","outageStartTime":"2026-11-12T08:22:49-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"},
+{"geometry":{"coordinates":[-85.744003,39.669012],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T08:24:54-05:00","outageName":"MEMBER'S SIDE","outagePoint":{"lat":39.66901185469279,"lng":-85.74400281176003},"outageRecID":"2026-11-12-0101","outageStartTime":"2026-11-12T08:24:13-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

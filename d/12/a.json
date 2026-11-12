@@ -14,7 +14,7 @@
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MIAMI","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
@@ -23,6 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.006528,40.069406],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 01:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06940617","LNG":"-84.0065280016767","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.01013,40.066701],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 01:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06670057","LNG":"-84.0101300124909","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.159244,40.100579],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/12/2026 04:00 AM","INCIDENTID":"1821473","IND":"D","LAT":"40.10057945","LNG":"-84.1592440023274","OutageTime":"11/12/2026 12:35 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

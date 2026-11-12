@@ -17,15 +17,13 @@
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"PREBLE","TotOut":"24"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"PREBLE","TotOut":"22"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"25","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.290474,39.800464],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/11/2026 10:00 PM","INCIDENTID":"1821462","IND":"D","LAT":"39.80046418","LNG":"-84.2904737116336","OutageTime":"11/11/2026 04:35 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.62653,39.758635],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/11/2026 11:00 PM","INCIDENTID":"1821467","IND":"D","LAT":"39.75863541","LNG":"-84.6265300579456","OutageTime":"11/11/2026 08:19 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.603192,39.667566],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/11/2026 11:00 PM","INCIDENTID":"1821468","IND":"D","LAT":"39.66756553","LNG":"-84.6031917582715","OutageTime":"11/11/2026 08:20 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.594336,39.685865],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/11/2026 11:00 PM","INCIDENTID":"1821469","IND":"D","LAT":"39.68586535","LNG":"-84.5943363261346","OutageTime":"11/11/2026 08:15 PM","TOTALCUSTS":"22"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"23","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.292598,39.798862],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/11/2026 10:00 PM","INCIDENTID":"1821462","IND":"D","LAT":"39.79886218","LNG":"-84.2925975243726","OutageTime":"11/11/2026 04:35 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.596456,39.684263],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/11/2026 11:00 PM","INCIDENTID":"1821469","IND":"D","LAT":"39.68426335","LNG":"-84.5964563371469","OutageTime":"11/11/2026 08:15 PM","TOTALCUSTS":"22"},"type":"Feature"}
 ]}

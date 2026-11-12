@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"7"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"8","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.008128,40.068205],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 05:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06820467","LNG":"-84.0081275788475","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.068918,39.54616],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/12/2026 07:00 AM","INCIDENTID":"1821477","IND":"D","LAT":"39.54616","LNG":"-84.0689179213808","OutageTime":"11/12/2026 04:10 AM","TOTALCUSTS":"7"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.007026,40.069032],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 05:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06903237","LNG":"-84.0070256479076","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.067825,39.546988],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/12/2026 07:00 AM","INCIDENTID":"1821477","IND":"D","LAT":"39.5469877","LNG":"-84.0678249682371","OutageTime":"11/12/2026 04:10 AM","TOTALCUSTS":"7"},"type":"Feature"}
 ]}

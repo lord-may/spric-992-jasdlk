@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.29605,46.635874],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794493801000,"ETR":1794505500000,"LOCATION":"Jenkins Township","ORDERID":"JE.2611.000851","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-91.274446,47.276976],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794497207000,"ETR":1794504600000,"LOCATION":"Silver Bay","ORDERID":"JE.2611.000859","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.052635,46.825414],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":7,"DATEOFF":1794499612000,"ETR":1794507300000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000863","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-91.274446,47.276976],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794497207000,"ETR":1794508200000,"LOCATION":"Silver Bay","ORDERID":"JE.2611.000859","STATUS":"Repairs in Progress"},"type":"Feature"}
 ]}

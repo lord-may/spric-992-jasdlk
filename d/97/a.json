@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-88.377803,39.251847],"type":"Point"},"properties":{"cause":"FARMING EQUIP./MACHINERY      ","crewAssigned":false,"id":"446335","nbrOut":1,"planned":false,"timeOff":1794501050000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-88.140603,39.454358],[-88.138914,39.456418],[-88.137045,39.460531],[-88.140603,39.454358]]],"type":"Polygon"},{"coordinates":[-88.13886,39.457105],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"TREES/LIMBS                   ","crewAssigned":false,"id":"446341","nbrOut":3,"planned":false,"timeOff":1794506537000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-88.140603,39.454358],[-88.138914,39.456418],[-88.137045,39.460531],[-88.140603,39.454358]]],"type":"Polygon"},{"coordinates":[-88.13886,39.457105],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"TREES/LIMBS                   ","crewAssigned":true,"id":"446341","nbrOut":3,"planned":false,"timeOff":1794506537000},"type":"Feature"}
 ]}

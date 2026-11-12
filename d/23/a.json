@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.973045,45.835669],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794529800000,"id":"732427","nbrOut":1,"timeOff":1794519986492},"type":"Feature"}
+{"geometry":{"coordinates":[-92.973045,45.835669],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794529800000,"id":"732427","nbrOut":1,"timeOff":1794519986492},"type":"Feature"},
+{"geometry":{"coordinates":[-93.398083,45.659068],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":false,"estimateTime":1794531600000,"id":"732428","nbrOut":1,"timeOff":1794522026850},"type":"Feature"},
+{"geometry":{"coordinates":[-92.965697,45.68648],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794529800000,"id":"732429","nbrOut":1,"timeOff":1794522062636},"type":"Feature"}
 ]}

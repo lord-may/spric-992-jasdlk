@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.092662,45.709327],"type":"Point"},"properties":{"cause":"Scheduled Outage","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T09:34:08.45-06:00","outageName":"06L10002","outagePoint":{"lat":45.709326780773544,"lng":-92.09266247396623},"outageRecID":"2026-11-12-0040","outageStartTime":"2026-11-12T09:31:44-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

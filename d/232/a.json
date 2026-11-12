@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-101.775884,41.119803],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":41.119803,"location":"OGALLALA","locationType":1,"lon":-101.7758841,"zipCode":"69153"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"11/12/2026 10:30:00 AM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"11-12-2026 08:24","OutageAttribute3":"11-12-2026 10:30","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002689-1","lat":41.119803,"location":"OGALLALA","locationType":1,"lon":-101.7758841,"name":null,"notes":"Utility","outageType":2,"restorationTime":"10:30","serviceType":1,"startTime":"11/12/2026 08:24:00","status":1,"zipCode":"69153"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.038608,38.652809],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":14,"customersOutNow":14,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-12T05:11:10-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T23:15:06.103-06:00","outageName":"F1314","outagePoint":{"lat":38.65280944120548,"lng":-91.03860770382363},"outageRecID":"2026-11-11-0143","outageStartTime":"2026-11-11T23:11:10-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

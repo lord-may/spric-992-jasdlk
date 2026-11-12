@@ -22,8 +22,8 @@
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"WARREN","TotOut":"1"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.007417,40.068739],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 05:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06873867","LNG":"-84.0074166556605","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.068213,39.546694],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"null","INCIDENTID":"1821477","IND":"D","LAT":"39.546694","LNG":"-84.0682127903204","OutageTime":"11/12/2026 04:10 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"County":"WARREN","TotOut":"7"},"type":"Feature"},
+{"geometry":null,"properties":{"TotalOut":"8","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.008128,40.068205],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/12/2026 05:00 AM","INCIDENTID":"1821472","IND":"D","LAT":"40.06820467","LNG":"-84.0081275788475","OutageTime":"11/11/2026 10:44 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.068918,39.54616],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/12/2026 07:00 AM","INCIDENTID":"1821477","IND":"D","LAT":"39.54616","LNG":"-84.0689179213808","OutageTime":"11/12/2026 04:10 AM","TOTALCUSTS":"7"},"type":"Feature"}
 ]}

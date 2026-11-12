@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.140859,37.542461],"type":"Point"},"properties":{"cause":"Scheduled","comment":"Scheduled outage - pole change","crewAssigned":true,"estimateTime":1794509100000,"id":"487810","nbrOut":1,"planned":false,"timeOff":1794497838000},"type":"Feature"},
-{"geometry":{"coordinates":[-94.87326,37.63889],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794508200000,"id":"487811","nbrOut":1,"planned":false,"timeOff":1794500268000},"type":"Feature"}
+{"geometry":{"coordinates":[-94.87326,37.63889],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794508200000,"id":"487811","nbrOut":1,"planned":false,"timeOff":1794500268000},"type":"Feature"}
 ]}

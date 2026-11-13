@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.576318,38.621126],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T15:29:48.6-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T10:29:48.657-05:00","outageName":"310020009T","outagePoint":{"lat":38.62112591500671,"lng":-85.57631830307491},"outageRecID":"2026-11-13-0169","outageStartTime":"2026-11-13T10:29:41-05:00","outageWorkStatus":"","streetsAffected":["HARDY MILL"],"verified":false},"type":"Feature"}
 ]}

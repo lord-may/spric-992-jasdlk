@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.261976,45.791985],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T08:43:00.617-06:00","outageName":"05K07024","outagePoint":{"lat":45.791984725898864,"lng":-92.26197637883712},"outageRecID":"2026-11-13-0048","outageStartTime":"2026-11-13T08:42:36.95-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"},
+{"geometry":{"coordinates":[-92.131593,45.937904],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T08:54:48.237-06:00","outageName":"7245-5","outagePoint":{"lat":45.937904455805835,"lng":-92.13159316278855},"outageRecID":"2026-11-13-0049","outageStartTime":"2026-11-13T08:54:45-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

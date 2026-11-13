@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.895464,47.38305],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794579456000,"ETR":1794591000000,"LOCATION":"Hibbing","ORDERID":"JE.2611.000893","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.062694,46.834049],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794582121000,"ETR":1794590100000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.000899","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.455146,46.721286],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":87,"DATEOFF":1794585762000,"ETR":1794593700000,"LOCATION":"Cloquet","ORDERID":"JE.2611.000912","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.179789,46.729734],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794585797000,"ETR":1794593700000,"LOCATION":"Duluth - Fairmount Irving","ORDERID":"JE.2611.000913","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.245155,47.527761],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794585909000,"ETR":1794597300000,"LOCATION":"Aurora","ORDERID":"JE.2611.000914","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.053288,46.825898],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794586107000,"ETR":1794593700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000918","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.353646,46.013295],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794586410000,"ETR":1794598200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000919","STATUS":"Assigned"},"type":"Feature"}
 ]}

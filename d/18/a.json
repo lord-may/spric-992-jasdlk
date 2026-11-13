@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.062694,46.834049],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794582121000,"ETR":1794593700000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.000899","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.455146,46.721286],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":87,"DATEOFF":1794585762000,"ETR":1794593700000,"LOCATION":"Cloquet","ORDERID":"JE.2611.000912","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.179789,46.729734],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794585797000,"ETR":1794593700000,"LOCATION":"Duluth - Fairmount Irving","ORDERID":"JE.2611.000913","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.245155,47.527761],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794585909000,"ETR":1794597300000,"LOCATION":"Aurora","ORDERID":"JE.2611.000914","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.353646,46.013295],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794586410000,"ETR":1794598200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000919","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.511922,46.710023],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794588738000,"ETR":1794596400000,"LOCATION":"Cloquet","ORDERID":"JE.2611.000922","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.511922,46.710023],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794588738000,"ETR":1794596400000,"LOCATION":"Cloquet","ORDERID":"JE.2611.000922","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.053443,46.826579],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":10,"DATEOFF":1794588780000,"ETR":1794596400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.000923","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.91648,46.445979],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794589168000,"ETR":1794600900000,"LOCATION":"Deerwood Township","ORDERID":"JE.2611.000924","STATUS":"Assigned"},"type":"Feature"}
 ]}

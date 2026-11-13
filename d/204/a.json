@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.605968,40.653508],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T13:50:40.877-05:00","outageName":"13460-T","outagePoint":{"lat":40.653508465312534,"lng":-82.6059683848807},"outageRecID":"2026-11-13-0044","outageStartTime":"2026-11-13T13:50:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

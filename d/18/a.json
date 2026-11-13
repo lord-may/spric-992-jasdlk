@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.062694,46.834049],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794582121000,"ETR":1794597300000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.000899","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.245155,47.527761],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794585909000,"ETR":1794597300000,"LOCATION":"Aurora","ORDERID":"JE.2611.000914","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.329517,46.868518],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794594732000,"ETR":1794602700000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2611.000939","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.245155,47.527761],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794585909000,"ETR":1794600900000,"LOCATION":"Aurora","ORDERID":"JE.2611.000914","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.329517,46.868518],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794594732000,"ETR":1794602700000,"LOCATION":"Grand Lake Township","ORDERID":"JE.2611.000939","STATUS":"Assigned"},"type":"Feature"}
 ]}

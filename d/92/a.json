@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-87.066029,41.191608],"type":"Point"},"properties":{"cause":"Small animal - bird, squirrel, raccoon","crewAssigned":false,"id":"351151","nbrOut":1,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-86.997649,40.930589],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"id":"351357","nbrOut":1,"planned":true},"type":"Feature"},
-{"geometry":{"coordinates":[-87.124249,41.251825],"type":"Point"},"properties":{"cause":"Default Cause ","crewAssigned":true,"id":"351399","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-86.997649,40.930589],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"id":"351357","nbrOut":1,"planned":true},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.942849,46.01151],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794610793000,"ETR":1794618900000,"LOCATION":"Hinckley","ORDERID":"JE.2611.000968","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.938376,46.006571],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":319,"DATEOFF":1794610793000,"ETR":1794618900000,"LOCATION":"Hinckley,Hinckley Township","ORDERID":"JE.2611.000968","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.342701,45.977055],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794612302000,"ETR":1794623400000,"LOCATION":"Little Falls","ORDERID":"JE.2611.000972","STATUS":"New Outage"},"type":"Feature"}
 ]}

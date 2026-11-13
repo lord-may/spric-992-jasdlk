@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.000892,43.3519],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FRI. NOV. 13TH 9-9:30AM","crewAssigned":false,"estimateTime":1794583800000,"id":"337368","nbrOut":2,"planned":true,"timeOff":1794582000000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.314871,43.686183],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794593700000,"id":"337469","nbrOut":1,"planned":false,"timeOff":1794579495000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.540016,43.817609],"type":"Point"},"properties":{"crewAssigned":true,"id":"337470","nbrOut":2,"planned":false,"timeOff":1794582431000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.540016,43.817609],"type":"Point"},"properties":{"crewAssigned":true,"id":"337470","nbrOut":2,"planned":false,"timeOff":1794582431000},"type":"Feature"},
+{"geometry":{"coordinates":[-89.167512,43.666672],"type":"Point"},"properties":{"crewAssigned":false,"id":"337472","nbrOut":1,"planned":false,"timeOff":1794588102422},"type":"Feature"}
 ]}

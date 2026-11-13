@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-88.213977,39.56592],[-88.21492,39.57891],[-88.229491,39.579422],[-88.213977,39.56592]]],"type":"Polygon"},{"coordinates":[-88.219466,39.574749],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"AMEREN - POWER SUPPLIER                ","crewAssigned":true,"id":"446358","nbrOut":2,"planned":true,"timeOff":1794588352000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-88.237225,39.561509],[-88.237127,39.566661],[-88.237225,39.576507],[-88.247197,39.579949],[-88.248284,39.580025],[-88.237225,39.561509]]],"type":"Polygon"},{"coordinates":[-88.240935,39.572748],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"MAINTENANCE                   ","crewAssigned":true,"id":"446362","nbrOut":7,"planned":true,"timeOff":1794588485000},"type":"Feature"}
 ]}

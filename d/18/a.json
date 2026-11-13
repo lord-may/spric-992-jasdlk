@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.895464,47.38305],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794579456000,"ETR":1794591000000,"LOCATION":"Hibbing","ORDERID":"JE.2611.000893","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.925398,46.199087],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794580008000,"ETR":1794588300000,"LOCATION":"Finlayson","ORDERID":"JE.2611.000897","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.116351,46.74542],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794581718000,"ETR":1794592800000,"LOCATION":"Menahga","ORDERID":"JE.2611.000898","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.062694,46.834049],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794582121000,"ETR":1794590100000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.000899","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.915009,46.470292],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794582221000,"ETR":1794593700000,"LOCATION":"Deerwood","ORDERID":"JE.2611.000900","STATUS":"Assigned"},"type":"Feature"}
 ]}

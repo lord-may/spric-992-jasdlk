@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.821768,38.159533],"type":"Point"},"properties":{"cause":"NO OUTAGE ON COMO - MEMBER SIDE OF SERVICE ","crewAssigned":false,"id":"741293","nbrOut":2,"timeOff":1794580574544},"type":"Feature"},
-{"geometry":{"coordinates":[-93.333341,38.318934],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"741294","nbrOut":1,"timeOff":1794581119259},"type":"Feature"}
+{"geometry":{"coordinates":[-92.893355,38.869054],"type":"Point"},"properties":{"cause":"PLANNED OUTAGE-CONSTRUCTION","crewAssigned":true,"id":"741295","nbrOut":1,"timeOff":1794581802181},"type":"Feature"},
+{"geometry":{"coordinates":[-92.893104,38.868418],"type":"Point"},"properties":{"cause":"PLANNED OUTAGE-CONSTRUCTION","crewAssigned":true,"id":"741296","nbrOut":2,"timeOff":1794581808670},"type":"Feature"}
 ]}

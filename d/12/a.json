@@ -8,7 +8,7 @@
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"6"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"7"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -22,9 +22,9 @@
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"WARREN","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"32","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.059101,39.790858],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/13/2026 04:00 PM","INCIDENTID":"1821767","IND":"D","LAT":"39.79085758","LNG":"-84.0591006764911","OutageTime":"11/13/2026 12:28 PM","TOTALCUSTS":"6"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.152799,39.559085],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/13/2026 05:00 PM","INCIDENTID":"1821803","IND":"D","LAT":"39.55908471","LNG":"-84.1527986531139","OutageTime":"11/13/2026 12:47 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.123553,39.848292],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"null","INCIDENTID":"1821859","IND":"D","LAT":"39.84829197","LNG":"-84.123553200473","OutageTime":"11/13/2026 03:20 PM","TOTALCUSTS":"25"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.054736,39.794151],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/13/2026 04:00 PM","INCIDENTID":"1821767","IND":"D","LAT":"39.79415058","LNG":"-84.0547356233787","OutageTime":"11/13/2026 12:28 PM","TOTALCUSTS":"6"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.119184,39.851585],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/13/2026 06:00 PM","INCIDENTID":"1821859","IND":"D","LAT":"39.85158497","LNG":"-84.1191842149526","OutageTime":"11/13/2026 03:20 PM","TOTALCUSTS":"25"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.947074,39.675843],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"null","INCIDENTID":"1821860","IND":"D","LAT":"39.6758432891159","LNG":"-83.9470739915356","OutageTime":"11/13/2026 03:45 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

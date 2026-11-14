@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.773568,38.353693],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-14T18:03:26.783-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T13:07:08.173-05:00","outageName":"755520071T","outagePoint":{"lat":38.3536927454595,"lng":-85.77356774952398},"outageRecID":"2026-11-14-0170","outageStartTime":"2026-11-14T13:03:15-05:00","outageWorkStatus":"","streetsAffected":["DEC WOLF LAKE","W LOBO RIDGE"],"verified":false},"type":"Feature"}
 ]}

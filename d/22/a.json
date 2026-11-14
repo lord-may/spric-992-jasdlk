@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.91953,46.173268],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-14T11:42:57-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T09:53:56.363-06:00","outageName":"Dalton Jct-Dalton","outagePoint":{"lat":46.173267759788615,"lng":-95.91952968261597},"outageRecID":"2026-11-14-0585","outageStartTime":"2026-11-14T09:42:57-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

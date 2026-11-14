@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.760953,47.079906],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":15,"DATEOFF":1794653840000,"ETR":1794668400000,"LOCATION":"Meadowlands Township","ORDERID":"JE.2611.000991","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.760953,47.079906],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":15,"DATEOFF":1794653840000,"ETR":1794668400000,"LOCATION":"Meadowlands Township","ORDERID":"JE.2611.000991","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.443382,46.714558],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":8,"DATEOFF":1794666823000,"ETR":1794674700000,"LOCATION":"Cloquet","ORDERID":"JE.2611.001004","STATUS":"Assigned"},"type":"Feature"}
 ]}

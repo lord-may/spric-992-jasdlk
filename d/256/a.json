@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.298782,39.858496],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-14T19:53:16.557-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T16:54:00.487-05:00","outageName":"FUS094-005-0008","outagePoint":{"lat":39.85849553471516,"lng":-82.29878234295374},"outageRecID":"2026-11-14-0498","outageStartTime":"2026-11-14T16:52:01-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

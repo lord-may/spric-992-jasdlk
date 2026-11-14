@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.182725,38.328138],"type":"Point"},"properties":{"cause":"POWER SUPPLIER                ","comment":"Ameren Transmission Outage","crewAssigned":false,"id":"137003","nbrOut":915,"planned":false,"timeOff":1794667710000},"type":"Feature"},
-{"geometry":{"coordinates":[-90.209018,38.166716],"type":"Point"},"properties":{"crewAssigned":false,"id":"137119","nbrOut":542,"planned":false,"timeOff":1794667710000},"type":"Feature"},
-{"geometry":{"coordinates":[-90.073723,38.252512],"type":"Point"},"properties":{"crewAssigned":false,"id":"137250","nbrOut":1237,"planned":false,"timeOff":1794667710000},"type":"Feature"}
+{"geometry":{"coordinates":[-90.182725,38.328138],"type":"Point"},"properties":{"cause":"POWER SUPPLIER                ","comment":"Ameren Transmission Outage","crewAssigned":true,"id":"137003","nbrOut":915,"planned":false,"timeOff":1794667710000},"type":"Feature"},
+{"geometry":{"coordinates":[-90.209018,38.166716],"type":"Point"},"properties":{"cause":"POWER SUPPLIER                ","comment":"Ameren Transmission Outage","crewAssigned":true,"id":"137119","nbrOut":542,"planned":false,"timeOff":1794667710000},"type":"Feature"},
+{"geometry":{"coordinates":[-90.073723,38.252512],"type":"Point"},"properties":{"cause":"POWER SUPPLIER                ","comment":"Ameren Transmission Outage","crewAssigned":true,"id":"137250","nbrOut":1237,"planned":false,"timeOff":1794667710000},"type":"Feature"}
 ]}

@@ -1,3 +1,9 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-103.64093,48.147465],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.147464752197266,"longitude":-103.64093017578125,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":6,"premiseId":null},"type":"Feature"},
+{"geometry":{"coordinates":[-103.640594,48.147961],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.1479606628418,"longitude":-103.64059448242188,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":6,"premiseId":null},"type":"Feature"},
+{"geometry":{"coordinates":[-103.638802,48.148193],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.148193359375,"longitude":-103.63880157470703,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":15,"premiseId":null},"type":"Feature"},
+{"geometry":{"coordinates":[-103.636436,48.148235],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.14823532104492,"longitude":-103.63643646240234,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":12,"premiseId":null},"type":"Feature"},
+{"geometry":{"coordinates":[-103.627571,48.149029],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.14902877807617,"longitude":-103.62757110595703,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":7,"premiseId":null},"type":"Feature"},
+{"geometry":{"coordinates":[-103.631401,48.150059],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.15005874633789,"longitude":-103.63140106201172,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":11,"premiseId":null},"type":"Feature"},
+{"geometry":{"coordinates":[-103.634682,48.152596],"type":"Point"},"properties":{"address":null,"id":null,"latitude":48.15259552001953,"longitude":-103.63468170166016,"meterNumber":0,"outageDateTime":null,"outageHours":0,"outages":8,"premiseId":null},"type":"Feature"}
 ]}

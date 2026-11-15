@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.390803,39.711093],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-15T11:27:46.403-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T08:39:30.177-05:00","outageName":"T-43865","outagePoint":{"lat":39.71109311100436,"lng":-82.39080262582775},"outageRecID":"2026-11-15-0504","outageStartTime":"2026-11-15T08:26:36-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

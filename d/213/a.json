@@ -1,3 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.247363,44.612835],"type":"Point"},"properties":{"Id":"18664","OutageStartTime":1794579529000,"OutageStatus":"Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-90.247363,44.612835],"type":"Point"},"properties":{"Id":"18664","OutageStartTime":1794579529000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.179587,44.62028],"type":"Point"},"properties":{"Id":"18665","OutageStartTime":1794729454000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.181211,44.622313],"type":"Point"},"properties":{"Id":"18666","OutageStartTime":1794729455000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.180789,44.622572],"type":"Point"},"properties":{"Id":"18667","OutageStartTime":1794729453000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.180698,44.616453],"type":"Point"},"properties":{"Id":"18668","OutageStartTime":1794729456000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.180734,44.616714],"type":"Point"},"properties":{"Id":"18669","OutageStartTime":1794729452000,"OutageStatus":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.179176,44.617543],"type":"Point"},"properties":{"Id":"18670","OutageStartTime":1794729454000,"OutageStatus":"Outage"},"type":"Feature"}
 ]}

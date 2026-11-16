@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-95.123881,37.390656],[-95.109804,37.399934],[-95.097515,37.409938],[-94.987274,37.512618],[-94.984831,37.515297],[-94.992188,37.527288],[-95.094273,37.603677],[-95.141713,37.605556],[-95.159706,37.605257],[-95.160838,37.602595],[-95.161619,37.598624],[-95.166659,37.569466],[-95.156804,37.456083],[-95.146025,37.424529],[-95.130996,37.399313],[-95.123881,37.390656]]],"type":"Polygon"},{"coordinates":[-95.094982,37.510295],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Scheduled outage - pole change","crewAssigned":true,"estimateTime":1794869100000,"id":"487893","nbrOut":211,"planned":false,"timeOff":1794842568000},"type":"Feature"},
 {"geometry":{"coordinates":[-94.753838,37.964294],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794870900000,"id":"487899","nbrOut":1,"planned":false,"timeOff":1794863209000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.328879,41.045456],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T09:32:17-05:00","outageName":"WE077-000-0-0004-00P0-01","outagePoint":{"lat":41.04545623461073,"lng":-85.32887911845732},"outageRecID":"2026-11-16-0176","outageStartTime":"2026-11-16T09:23:37-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

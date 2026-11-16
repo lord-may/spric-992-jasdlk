@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.138685,46.7698],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794838563000,"ETR":1794853800000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001079","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.085304,46.73299],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794841666000,"ETR":1794856500000,"LOCATION":"Superior","ORDERID":"JE.2611.001085","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.055009,46.826163],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794846372000,"ETR":1794857400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001100","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.054714,46.826751],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":10,"DATEOFF":1794849662000,"ETR":1794857400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001114","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.898121,47.525914],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794850487000,"ETR":1794861900000,"LOCATION":"Balkan Township","ORDERID":"JE.2611.001115","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-95.141664,46.124435],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794850937000,"ETR":1794861900000,"LOCATION":"Wykeham Township","ORDERID":"JE.2611.001117","STATUS":"Assigned"},"type":"Feature"}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.128565,45.881174],"type":"Point"},"properties":{"cause":"Scheduled Outage","code":"100","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T12:45:17.953-06:00","outageName":"UG8061","outagePoint":{"lat":45.88117397788123,"lng":-92.12856537331379},"outageRecID":"2026-11-16-0055","outageStartTime":"2026-11-16T12:44:02-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

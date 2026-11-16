@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.880268,39.510942],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-16T11:07:04.067-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T08:07:04.197-05:00","outageName":"T-68432","outagePoint":{"lat":39.5109423684985,"lng":-82.88026786099668},"outageRecID":"2026-11-16-0514","outageStartTime":"2026-11-16T08:05:39-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

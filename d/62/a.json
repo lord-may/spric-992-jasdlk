@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.903133,46.688304],"type":"Point"},"properties":{"crewAssigned":true,"id":"415200","nbrOut":1,"planned":false,"timeOff":1794841001974},"type":"Feature"},
+{"geometry":{"coordinates":[-93.903133,46.688304],"type":"Point"},"properties":{"cause":"111 Maintenance, OH","crewAssigned":true,"id":"415200","nbrOut":1,"planned":false,"timeOff":1794848696000},"type":"Feature"},
 {"geometry":{"coordinates":[-93.855747,46.41011],"type":"Point"},"properties":{"crewAssigned":true,"id":"415203","nbrOut":1,"planned":false,"timeOff":1794847217000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.90255,46.687842],"type":"Point"},"properties":{"crewAssigned":false,"id":"415204","nbrOut":1,"planned":false,"timeOff":1794848652000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.90255,46.687842],"type":"Point"},"properties":{"crewAssigned":true,"id":"415204","nbrOut":1,"planned":false,"timeOff":1794848652000},"type":"Feature"}
 ]}

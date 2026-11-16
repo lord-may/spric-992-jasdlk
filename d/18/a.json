@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-92.085304,46.73299],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794841666000,"ETR":1794852900000,"LOCATION":"Superior","ORDERID":"JE.2611.001085","STATUS":"New Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.05949,46.827893],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794843208000,"ETR":1794851100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001090","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.936716,46.138324],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794843696000,"ETR":1794854700000,"LOCATION":"Eagle Valley Township","ORDERID":"JE.2611.001096","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.574293,47.096746],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1794844360000,"ETR":1794855600000,"LOCATION":"Walker","ORDERID":"JE.2611.001097","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.574293,47.096746],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1794844360000,"ETR":1794855600000,"LOCATION":"Walker","ORDERID":"JE.2611.001097","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.869445,46.142936],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794845037000,"ETR":1794852900000,"LOCATION":"Sandstone","ORDERID":"JE.2611.001099","STATUS":"Assigned"},"type":"Feature"}
 ]}

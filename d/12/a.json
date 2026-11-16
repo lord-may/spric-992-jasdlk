@@ -4,8 +4,8 @@
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"14"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CLINTON","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"1"},"type":"Feature"},
@@ -23,9 +23,11 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"27","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.248756,39.810772],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/16/2026 01:00 PM","INCIDENTID":"1822074","IND":"D","LAT":"39.81077249","LNG":"-84.2487561692377","OutageTime":"11/16/2026 10:15 AM","TOTALCUSTS":"11"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.076824,39.912268],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/16/2026 02:00 PM","INCIDENTID":"1822100","IND":"D","LAT":"39.91226808","LNG":"-84.0768236018989","OutageTime":"11/16/2026 12:12 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.770435,40.262102],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/16/2026 03:00 PM","INCIDENTID":"1822104","IND":"D","LAT":"40.26210171","LNG":"-83.7704353003034","OutageTime":"11/16/2026 12:15 PM","TOTALCUSTS":"14"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.03332,39.789862],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/16/2026 03:00 PM","INCIDENTID":"1822105","IND":"D","LAT":"39.7898624536636","LNG":"-84.0333200997549","OutageTime":"11/16/2026 12:36 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"29","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.246325,39.812606],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/16/2026 04:00 PM","INCIDENTID":"1822074","IND":"D","LAT":"39.81260589","LNG":"-84.2463251692072","OutageTime":"11/16/2026 10:15 AM","TOTALCUSTS":"11"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.074389,39.914101],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/16/2026 02:00 PM","INCIDENTID":"1822100","IND":"D","LAT":"39.91410148","LNG":"-84.0743887245726","OutageTime":"11/16/2026 12:12 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.767987,40.263935],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/16/2026 03:00 PM","INCIDENTID":"1822104","IND":"D","LAT":"40.26393511","LNG":"-83.7679869005686","OutageTime":"11/16/2026 12:15 PM","TOTALCUSTS":"14"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.03089,39.791696],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/16/2026 03:00 PM","INCIDENTID":"1822105","IND":"D","LAT":"39.7916958536636","LNG":"-84.0308898959812","OutageTime":"11/16/2026 12:36 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.620645,40.226027],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/16/2026 03:00 PM","INCIDENTID":"1822110","IND":"D","LAT":"40.22602747","LNG":"-84.6206446376948","OutageTime":"11/16/2026 12:56 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.768399,39.444435],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/16/2026 03:00 PM","INCIDENTID":"1822111","IND":"D","LAT":"39.44443512","LNG":"-83.7683985700776","OutageTime":"11/16/2026 12:56 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

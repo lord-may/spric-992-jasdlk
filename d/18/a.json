@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.138685,46.7698],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794838563000,"ETR":1794853800000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001079","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.141664,46.124435],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794850937000,"ETR":1794861900000,"LOCATION":"Wykeham Township","ORDERID":"JE.2611.001117","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.319802,46.635735],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794856166000,"ETR":1794867300000,"LOCATION":"Jenkins","ORDERID":"JE.2611.001123","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.141664,46.124435],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794850937000,"ETR":1794861900000,"LOCATION":"Wykeham Township","ORDERID":"JE.2611.001117","STATUS":"Assigned"},"type":"Feature"}
 ]}

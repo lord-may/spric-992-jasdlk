@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.138685,46.7698],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794838563000,"ETR":1794846600000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001079","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.085304,46.73299],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794841666000,"ETR":1794852900000,"LOCATION":"Superior","ORDERID":"JE.2611.001085","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.085304,46.73299],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794841666000,"ETR":1794852900000,"LOCATION":"Superior","ORDERID":"JE.2611.001085","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.05949,46.827893],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1794843208000,"ETR":1794851100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001090","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.936716,46.138324],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794843696000,"ETR":1794854700000,"LOCATION":"Eagle Valley Township","ORDERID":"JE.2611.001096","STATUS":"Assigned"},"type":"Feature"}
 ]}

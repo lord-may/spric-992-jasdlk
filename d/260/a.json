@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.748489,38.363606],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-16T14:09:46.007-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T09:17:25.64-05:00","outageName":"756250099","outagePoint":{"lat":38.36360628204418,"lng":-85.74848882580615},"outageRecID":"2026-11-16-0174","outageStartTime":"2026-11-16T09:04:38-05:00","outageWorkStatus":"","streetsAffected":["EQUESTRIAN","EQUESTRIAN FOUNTAIN"],"verified":false},"type":"Feature"}
 ]}

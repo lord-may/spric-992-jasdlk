@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-93.412116,48.603654],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794924654000,"ETR":1794942900000,"LOCATION":"International Falls","ORDERID":"JE.2611.001136","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.437774,46.716165],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794926227000,"ETR":1794941100000,"LOCATION":"Cloquet","ORDERID":"JE.2611.001140","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.056646,46.822149],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":7,"DATEOFF":1794936785000,"ETR":1794944700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001171","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.640374,45.910964],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794938413000,"ETR":1794950100000,"LOCATION":"Swanville","ORDERID":"JE.2611.001174","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.640374,45.910964],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1794938413000,"ETR":1794950100000,"LOCATION":"Swanville","ORDERID":"JE.2611.001174","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.052179,46.824372],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1794938981000,"ETR":1794946500000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001175","STATUS":"Assigned"},"type":"Feature"}
 ]}

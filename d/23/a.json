@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.194017,45.730843],[-94.193155,45.731244],[-94.193146,45.731395],[-94.193864,45.731859],[-94.194008,45.731382],[-94.194017,45.730843]]],"type":"Polygon"},{"coordinates":[-94.193667,45.731338],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"estimateTime":1794902400000,"id":"732528","nbrOut":9,"timeOff":1794894598000},"type":"Feature"}
+{"geometry":{"coordinates":[-94.193981,45.731225],"type":"Point"},"properties":{"cause":"Unknown cause, Underground Equipment","crewAssigned":true,"estimateTime":1794904200000,"id":"732527","nbrOut":1,"timeOff":1794894598000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.193999,45.731025],"type":"Point"},"properties":{"cause":"Unknown cause, Underground Equipment","crewAssigned":true,"estimateTime":1794904200000,"id":"732528","nbrOut":1,"timeOff":1794894598000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.194008,45.731382],"type":"Point"},"properties":{"cause":"Unknown cause, Underground Equipment","crewAssigned":true,"estimateTime":1794904200000,"id":"732529","nbrOut":1,"timeOff":1794895152506},"type":"Feature"}
 ]}

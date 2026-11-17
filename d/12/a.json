@@ -5,7 +5,7 @@
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"52"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"53"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
@@ -15,7 +15,7 @@
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"1"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,10 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"54","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.362909,39.363308],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/17/2026 12:00 AM","INCIDENTID":"1822135","IND":"D","LAT":"39.36330827","LNG":"-83.362908823703","OutageTime":"11/16/2026 04:01 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.394699,40.007537],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/17/2026 01:00 AM","INCIDENTID":"1822145","IND":"D","LAT":"40.00753711","LNG":"-84.3946991685646","OutageTime":"11/16/2026 06:32 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.415261,40.105132],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/16/2026 10:00 PM","INCIDENTID":"1822149","IND":"D","LAT":"40.1051321","LNG":"-84.4152613199588","OutageTime":"11/16/2026 07:00 PM","TOTALCUSTS":"52"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"56","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.360811,39.364901],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/17/2026 12:00 AM","INCIDENTID":"1822135","IND":"D","LAT":"39.36490137","LNG":"-83.3608111021335","OutageTime":"11/16/2026 04:01 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.39258,40.00913],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/17/2026 01:00 AM","INCIDENTID":"1822145","IND":"D","LAT":"40.00913021","LNG":"-84.3925802562174","OutageTime":"11/16/2026 06:32 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.413139,40.106725],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/16/2026 10:00 PM","INCIDENTID":"1822149","IND":"D","LAT":"40.1067252","LNG":"-84.413139134997","OutageTime":"11/16/2026 07:00 PM","TOTALCUSTS":"52"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.195979,39.768162],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"null","INCIDENTID":"1822152","IND":"D","LAT":"39.7681618","LNG":"-84.195979333129","OutageTime":"11/16/2026 09:28 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.614401,40.115746],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"null","INCIDENTID":"1822153","IND":"D","LAT":"40.11574568","LNG":"-84.6144007085919","OutageTime":"11/16/2026 09:20 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

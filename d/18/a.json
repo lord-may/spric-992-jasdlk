@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.412116,48.603654],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794924654000,"ETR":1794935700000,"LOCATION":"International Falls","ORDERID":"JE.2611.001136","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.258773,46.84967],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794924696000,"ETR":1794932100000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001137","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.342737,45.977109],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794925562000,"ETR":1794936600000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001138","STATUS":"New Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.863434,46.358833],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1794926231000,"ETR":1794933900000,"LOCATION":"Sturgeon Lake Township","ORDERID":"JE.2611.001139","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.437774,46.716165],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794926227000,"ETR":1794933900000,"LOCATION":"Cloquet","ORDERID":"JE.2611.001140","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.437774,46.716165],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1794926227000,"ETR":1794933900000,"LOCATION":"Cloquet","ORDERID":"JE.2611.001140","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.063685,46.722225],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794927382000,"ETR":1794938400000,"LOCATION":"Superior","ORDERID":"JE.2611.001143","STATUS":"New Outage"},"type":"Feature"}
 ]}

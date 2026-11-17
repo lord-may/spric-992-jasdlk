@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.055968,46.822674],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":9,"DATEOFF":1794945602000,"ETR":1794953700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001183","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.053324,46.825701],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1794946720000,"ETR":1794954600000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001190","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.10683,46.798281],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794946896000,"ETR":1794954600000,"LOCATION":"Duluth - Kenwood,Duluth - Heights","ORDERID":"JE.2611.001191","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.10683,46.798281],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1794946896000,"ETR":1794954600000,"LOCATION":"Duluth - Kenwood,Duluth - Heights","ORDERID":"JE.2611.001191","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.075624,46.801948],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1794947640000,"ETR":1794955500000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001193","STATUS":"Assigned"},"type":"Feature"}
 ]}

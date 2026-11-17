@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.365698,39.36119],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/16/2026 08:00 PM","INCIDENTID":"1822135","IND":"D","LAT":"39.36119007","LNG":"-83.3656979730524","OutageTime":"11/16/2026 04:01 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.397516,40.005419],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/16/2026 09:00 PM","INCIDENTID":"1822145","IND":"D","LAT":"40.00541891","LNG":"-84.3975164933614","OutageTime":"11/16/2026 06:32 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.36244,39.363664],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/16/2026 08:00 PM","INCIDENTID":"1822135","IND":"D","LAT":"39.36366427","LNG":"-83.3624400591065","OutageTime":"11/16/2026 04:01 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.394226,40.007893],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/16/2026 09:00 PM","INCIDENTID":"1822145","IND":"D","LAT":"40.00789311","LNG":"-84.3942256685988","OutageTime":"11/16/2026 06:32 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-88.934255,40.531898],"type":"Point"},"properties":{"id":"720241","nbrOut":1,"planned":false,"timeOff":1794924979000},"type":"Feature"},
-{"geometry":{"coordinates":[-88.878991,40.464551],"type":"Point"},"properties":{"id":"720242","nbrOut":1,"planned":false,"timeOff":1794925475000},"type":"Feature"}
+{"geometry":{"coordinates":[-88.934255,40.531898],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"720241","nbrOut":1,"planned":false,"timeOff":1794924979000},"type":"Feature"},
+{"geometry":{"coordinates":[-88.878991,40.464551],"type":"Point"},"properties":{"cause":"LINEMAN APPT","id":"720242","nbrOut":1,"planned":false,"timeOff":1794925475000},"type":"Feature"},
+{"geometry":{"coordinates":[-89.04826,40.663895],"type":"Point"},"properties":{"id":"720243","nbrOut":1,"planned":false,"timeOff":1794926345000},"type":"Feature"}
 ]}

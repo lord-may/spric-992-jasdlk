@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.880406,44.161211],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 11/17/26 FROM 9AM-1PM","crewAssigned":true,"estimateTime":1794942000000,"id":"337575","nbrOut":2,"planned":false,"timeOff":1794927889000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.183097,44.290183],"type":"Point"},"properties":{"comment":"Outage is for member requested automatic transfer switch installation. Inspector will be here at 10:30.","crewAssigned":true,"id":"337620","nbrOut":1,"planned":false,"timeOff":1794924158543},"type":"Feature"},
 {"geometry":{"coordinates":[-89.804256,43.757188],"type":"Point"},"properties":{"crewAssigned":true,"id":"337621","nbrOut":1,"planned":false,"timeOff":1794925232000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.224483,44.062137],"type":"Point"},"properties":{"crewAssigned":true,"id":"337622","nbrOut":1,"planned":false,"timeOff":1794925831790},"type":"Feature"},
-{"geometry":{"coordinates":[-89.159139,44.132243],"type":"Point"},"properties":{"crewAssigned":true,"id":"337623","nbrOut":1,"planned":false,"timeOff":1794927241163},"type":"Feature"},
+{"geometry":{"coordinates":[-89.159139,44.132243],"type":"Point"},"properties":{"crewAssigned":true,"id":"337623","nbrOut":1,"planned":false,"timeOff":1794927647000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.881672,44.161849],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794942000000,"id":"337624","nbrOut":1,"planned":false,"timeOff":1794927853000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.514468,44.165078],"type":"Point"},"properties":{"crewAssigned":true,"id":"337626","nbrOut":1,"planned":false,"timeOff":1794930989762},"type":"Feature"}
+{"geometry":{"coordinates":[-89.514468,44.165078],"type":"Point"},"properties":{"crewAssigned":true,"id":"337626","nbrOut":1,"planned":false,"timeOff":1794931930000},"type":"Feature"}
 ]}

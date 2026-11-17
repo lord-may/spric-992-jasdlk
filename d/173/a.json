@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.408058,41.192163],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T09:52:57.137-05:00","outageName":"QA009-002-0-0001-0000-01","outagePoint":{"lat":41.19216270356375,"lng":-85.40805771850883},"outageRecID":"2026-11-17-0190","outageStartTime":"2026-11-17T09:46:58-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

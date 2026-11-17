@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.663547,38.986321],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T08:38:05.843-05:00","outageName":"HB   20E  65N  1NU 4T","outagePoint":{"lat":38.98632145539788,"lng":-85.66354726204878},"outageRecID":"2026-11-17-0184","outageStartTime":"2026-11-17T08:25:16-05:00","outageWorkStatus":"","streetsAffected":["W OLD HIGHWAY 50"],"verified":false},"type":"Feature"}
 ]}

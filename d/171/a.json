@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.739846,38.803846],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T16:56:44.073-05:00","outageName":"B4   92","outagePoint":{"lat":38.80384611035754,"lng":-85.73984598372652},"outageRecID":"2026-11-17-0187","outageStartTime":"2026-11-17T16:06:59-05:00","outageWorkStatus":"","streetsAffected":["N TERRY RD"],"verified":false},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.424412,39.816374],"type":"Point"},"properties":{"cause":"Cause unknown","id":"273831","nbrOut":36,"planned":true,"timeOff":1794951900000},"type":"Feature"},
-{"geometry":{"coordinates":[-91.396304,39.78803],"type":"Point"},"properties":{"cause":"Cause unknown","id":"273832","nbrOut":31,"planned":true,"timeOff":1794951900000},"type":"Feature"}
+{"geometry":{"coordinates":[-91.396753,39.817761],"type":"Point"},"properties":{"cause":"Motor vehicle","id":"273831","nbrOut":1,"planned":true,"timeOff":1794952465000},"type":"Feature"},
+{"geometry":{"coordinates":[-91.396304,39.78803],"type":"Point"},"properties":{"cause":"Motor vehicle","id":"273832","nbrOut":31,"planned":true,"timeOff":1794952365000},"type":"Feature"}
 ]}

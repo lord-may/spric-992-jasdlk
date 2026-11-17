@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.473484,38.548357],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T15:07:17.22-05:00","outageName":"T11-2-135","outagePoint":{"lat":38.5483574594989,"lng":-87.47348398808771},"outageRecID":"2026-11-17-0221","outageStartTime":"2026-11-17T15:00:21-05:00","outageWorkStatus":"","streetsAffected":["S STATE ROAD 241"],"verified":false},"type":"Feature"}
 ]}

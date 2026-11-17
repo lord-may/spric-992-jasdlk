@@ -8,7 +8,7 @@
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"53"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"52"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,7 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"53","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.055907,39.641415],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/17/2026 06:00 AM","INCIDENTID":"1822160","IND":"D","LAT":"39.6414145","LNG":"-84.0559065084126","OutageTime":"11/17/2026 02:38 AM","TOTALCUSTS":"52"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.055907,39.641415],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/17/2026 08:00 AM","INCIDENTID":"1822166","IND":"D","LAT":"39.6414145","LNG":"-84.0559065084126","OutageTime":"11/17/2026 04:59 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"52","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.057519,39.640195],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/17/2026 10:00 AM","INCIDENTID":"1822160","IND":"D","LAT":"39.6401952","LNG":"-84.0575189439002","OutageTime":"11/17/2026 02:38 AM","TOTALCUSTS":"52"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.061583,39.6381],"type":"Point"},"properties":{"EstimateTime":"11/17/2026 08:00 AM","INCIDENTID":"1822167","IND":"D","LAT":"39.6380999","LNG":"-84.0615828613627","OutageTime":"11/17/2026 04:48 AM","TOTALCUSTS":"15"},"type":"Feature"}
 ]}

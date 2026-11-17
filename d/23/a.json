@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.878879,46.246696],"type":"Point"},"properties":{"cause":"Dig In, Underground Equipment","crewAssigned":true,"estimateTime":1794878100000,"id":"732514","nbrOut":1,"timeOff":1794866437000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-93.464432,46.141439],[-93.464163,46.141445],[-93.463139,46.141551],[-93.462878,46.141607],[-93.463839,46.141713],[-93.464603,46.141477],[-93.464432,46.141439]]],"type":"Polygon"},{"coordinates":[-93.463785,46.14157],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees fell on overhead equipment","crewAssigned":true,"estimateTime":1794883500000,"id":"732521","nbrOut":6,"timeOff":1794874634000},"type":"Feature"}
+{"geometry":{"coordinates":[-91.878879,46.246696],"type":"Point"},"properties":{"cause":"Dig In, Underground Equipment","crewAssigned":true,"estimateTime":1794878100000,"id":"732514","nbrOut":1,"timeOff":1794866437000},"type":"Feature"}
 ]}

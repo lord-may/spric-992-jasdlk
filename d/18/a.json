@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.131609,46.764171],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795011135000,"ETR":1795025700000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001215","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.055436,46.826057],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":106,"DATEOFF":1795017776000,"ETR":1795029300000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001242","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.954568,47.436776],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795019069000,"ETR":1795030200000,"LOCATION":"Hibbing","ORDERID":"JE.2611.001256","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.672069,46.484555],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":6,"DATEOFF":1795019262000,"ETR":1795026600000,"LOCATION":"Barnum Township","ORDERID":"JE.2611.001257","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.65555,47.745514],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":273,"DATEOFF":1795023184000,"ETR":1795034700000,"LOCATION":"Bigfork Township,Bigfork","ORDERID":"JE.2611.001276","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.954568,47.436776],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795019069000,"ETR":1795030200000,"LOCATION":"Hibbing","ORDERID":"JE.2611.001256","STATUS":"Assigned"},"type":"Feature"}
 ]}

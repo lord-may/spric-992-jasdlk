@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.130585,39.586605],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-18T19:52:36.583-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T16:52:36.647-05:00","outageName":"T-49370","outagePoint":{"lat":39.586605006455194,"lng":-83.13058496083092},"outageRecID":"2026-11-18-0671","outageStartTime":"2026-11-18T16:50:12-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.423766,41.648654],"type":"Point"},"properties":{"affected":19,"cause":"Not Yet Determined","city":"LAGRANGE","comment":"Not Yet Determined","lat":41.648654,"lng":-85.423766,"maxAffected":19,"reported":"2026-11-18T06:57:00","restore":"2026-11-18T09:45:00Z","status":"Crew Assigned","stormMode":false,"zip":"46761"},"type":"Feature"}
+{"geometry":{"coordinates":[-87.36557,41.419729],"type":"Point"},"properties":{"affected":7,"cause":"scheduled","city":"CROWN POINT","comment":"scheduled","lat":41.419729,"lng":-87.36557,"maxAffected":7,"reported":"0001-01-01T00:00:00","restore":"2026-11-18T10:00:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46307"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.423766,41.648654],"type":"Point"},"properties":{"affected":19,"cause":"Not Yet Determined","city":"LAGRANGE","comment":"Not Yet Determined","lat":41.648654,"lng":-85.423766,"maxAffected":19,"reported":"2026-11-18T06:57:00","restore":"2026-11-18T09:30:00Z","status":"Crew On-site","stormMode":false,"zip":"46761"},"type":"Feature"}
 ]}

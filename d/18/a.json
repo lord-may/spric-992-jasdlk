@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.355973,45.970303],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795010185000,"ETR":1795021200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001214","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.355973,45.970303],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795010185000,"ETR":1795021200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001214","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.131609,46.764171],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795011135000,"ETR":1795018500000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001215","STATUS":"Assigned"},"type":"Feature"}
 ]}

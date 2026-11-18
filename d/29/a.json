@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-89.946189,43.93757],[-89.946153,43.93788],[-89.946603,43.938016],[-89.946189,43.93757]]],"type":"Polygon"},{"coordinates":[-89.946315,43.937822],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"PLANNED OUTAGE NOV. 18TH FROM 8-9:30AM","crewAssigned":true,"estimateTime":1795015800000,"id":"337573","nbrOut":3,"planned":false,"timeOff":1795010400000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.799351,44.208835],"type":"Point"},"properties":{"crewAssigned":true,"id":"337668","nbrOut":1,"planned":false,"timeOff":1795010957000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.115284,44.07591],"type":"Point"},"properties":{"comment":"Member requested disconnect reconnect to upgrade service panel. Should be reconnected around noon. TM 11/18/26","crewAssigned":true,"id":"337669","nbrOut":1,"planned":false,"timeOff":1795012123000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.084957,43.214191],"type":"Point"},"properties":{"crewAssigned":true,"id":"337671","nbrOut":1,"planned":false,"timeOff":1795013654807},"type":"Feature"}

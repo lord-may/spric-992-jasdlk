@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.290685,46.361115],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-18T07:48:08-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T05:51:06.017-06:00","outageName":"Lamoure - South Feeder","outagePoint":{"lat":46.36111499967061,"lng":-98.29068500078517},"outageRecID":"2026-11-18-0815","outageStartTime":"2026-11-18T05:48:08-06:00","outageWorkStatus":"In Review","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

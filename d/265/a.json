@@ -7,6 +7,7 @@
 {"geometry":{"coordinates":[-100.07,41.47],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-100.07,41.49],"type":"Point"},"properties":{"affected":10,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-100.07,41.51],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-100.09,41.37],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-100.09,41.45],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-100.09,41.47],"type":"Point"},"properties":{"affected":2,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-100.09,41.49],"type":"Point"},"properties":{"affected":3,"status":"outage"},"type":"Feature"},
@@ -39,7 +40,5 @@
 {"geometry":{"coordinates":[-100.21,41.51],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-99.85,41.51],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-99.93,42.05],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-99.97,42.07],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-99.97,42.09],"type":"Point"},"properties":{"affected":2,"status":"outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-99.97,42.11],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-99.97,42.09],"type":"Point"},"properties":{"affected":1,"status":"outage"},"type":"Feature"}
 ]}

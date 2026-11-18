@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-86.49258,39.977547],[-86.479645,39.984561],[-86.479375,39.998794],[-86.489706,39.997947],[-86.49258,39.977547]]],"type":"Polygon"},{"coordinates":[-86.485654,39.989345],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"354218","nbrOut":37,"planned":false,"timeOff":1795005261000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-86.49258,39.977547],[-86.479645,39.984561],[-86.479375,39.998794],[-86.489706,39.997947],[-86.49258,39.977547]]],"type":"Polygon"},{"coordinates":[-86.485654,39.989345],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"70-VEHICLES OR MACHINERY","crewAssigned":true,"id":"354218","nbrOut":37,"planned":false,"timeOff":1795005261000},"type":"Feature"}
 ]}

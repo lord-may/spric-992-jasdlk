@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.084957,43.214191],"type":"Point"},"properties":{"crewAssigned":true,"id":"337671","nbrOut":1,"planned":false,"timeOff":1795013952000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-89.946171,43.946961],[-89.946189,43.947013],[-89.946288,43.94733],[-89.946854,43.947343],[-89.946809,43.947104],[-89.946171,43.946961]]],"type":"Polygon"},{"coordinates":[-89.946513,43.947181],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Linemen in route ETA 12:30pm","crewAssigned":true,"id":"337719","nbrOut":5,"planned":false,"timeOff":1795025268000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.128597,43.957897],"type":"Point"},"properties":{"comment":"On site troubleshooting outage","crewAssigned":true,"id":"337720","nbrOut":1,"planned":false,"timeOff":1795026298485},"type":"Feature"}
+{"geometry":{"coordinates":[-89.084957,43.214191],"type":"Point"},"properties":{"crewAssigned":true,"id":"337671","nbrOut":1,"planned":false,"timeOff":1795013952000},"type":"Feature"}
 ]}

@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.355973,45.970303],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795010185000,"ETR":1795021200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001214","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.355973,45.970303],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795010185000,"ETR":1795024800000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001214","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.131609,46.764171],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795011135000,"ETR":1795022100000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001215","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-93.896039,46.472833],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1795013123000,"ETR":1795024800000,"LOCATION":"Deerwood","ORDERID":"JE.2611.001217","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.089143,46.850185],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795017556000,"ETR":1795025700000,"LOCATION":"Duluth - Woodland","ORDERID":"JE.2611.001230","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.055436,46.826057],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":106,"DATEOFF":1795017776000,"ETR":1795025700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001242","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.177873,46.77087],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1795018423000,"ETR":1795026600000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001252","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.716939,47.012675],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795018871000,"ETR":1795030200000,"LOCATION":"Akeley","ORDERID":"JE.2611.001253","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.954568,47.436776],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795019069000,"ETR":1795030200000,"LOCATION":"Hibbing","ORDERID":"JE.2611.001256","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.672069,46.484555],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":6,"DATEOFF":1795019262000,"ETR":1795026600000,"LOCATION":"Barnum Township","ORDERID":"JE.2611.001257","STATUS":"Assigned"},"type":"Feature"}
 ]}

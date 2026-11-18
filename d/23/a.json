@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.814914,45.782732],"type":"Point"},"properties":{"cause":"Member Equipment- No ECE outage","crewAssigned":true,"estimateTime":1795023900000,"id":"732571","nbrOut":1,"timeOff":1795014568376},"type":"Feature"},
-{"geometry":{"coordinates":[-91.91827,46.168552],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1795022100000,"id":"732572","nbrOut":1,"timeOff":1795014836000},"type":"Feature"},
 {"geometry":{"coordinates":[-93.114098,45.935512],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1795027500000,"id":"732573","nbrOut":1,"timeOff":1795018196000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.124878,45.553168],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1795024800000,"id":"732574","nbrOut":2,"timeOff":1795018500000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.424188,45.831262],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795027500000,"id":"732575","nbrOut":1,"timeOff":1795018322956},"type":"Feature"},
-{"geometry":{"coordinates":[-93.423604,45.831043],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795027500000,"id":"732576","nbrOut":1,"timeOff":1795018331943},"type":"Feature"}
+{"geometry":{"coordinates":[-93.124878,45.553168],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1795024800000,"id":"732574","nbrOut":2,"timeOff":1795019548000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.424188,45.831262],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1795027500000,"id":"732575","nbrOut":1,"timeOff":1795020276000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.423604,45.831043],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Overhead Equipment","crewAssigned":true,"estimateTime":1795027500000,"id":"732576","nbrOut":1,"timeOff":1795020000000},"type":"Feature"},
+{"geometry":{"coordinates":[-91.919105,46.169503],"type":"Point"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1795028400000,"id":"732578","nbrOut":1,"timeOff":1795020732000},"type":"Feature"}
 ]}

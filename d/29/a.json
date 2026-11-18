@@ -5,5 +5,5 @@
 {"geometry":{"geometries":[{"coordinates":[[[-89.192179,44.003734],[-89.186062,44.004264],[-89.186331,44.006221],[-89.195036,44.004897],[-89.192179,44.003734]]],"type":"Polygon"},{"coordinates":[-89.18979,44.004852],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"PLANNED OUTAGE FROM 9:30AM-10AM","crewAssigned":true,"estimateTime":1795017600000,"id":"337670","nbrOut":6,"planned":false,"timeOff":1795015800000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.084957,43.214191],"type":"Point"},"properties":{"crewAssigned":true,"id":"337671","nbrOut":1,"planned":false,"timeOff":1795013654807},"type":"Feature"},
 {"geometry":{"coordinates":[-89.187589,44.005136],"type":"Point"},"properties":{"crewAssigned":true,"id":"337672","nbrOut":1,"planned":false,"timeOff":1795013761651},"type":"Feature"},
-{"geometry":{"coordinates":[-89.381562,43.774989],"type":"Point"},"properties":{"crewAssigned":true,"id":"337673","nbrOut":1,"planned":false,"timeOff":1795014480747},"type":"Feature"}
+{"geometry":{"coordinates":[-89.945767,43.931476],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795024980000,"id":"337674","nbrOut":1,"planned":false,"timeOff":1795017794990},"type":"Feature"}
 ]}

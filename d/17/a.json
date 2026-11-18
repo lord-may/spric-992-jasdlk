@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.687103,40.769158],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"3822","INCIDENT_ID":526293,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/18/2026 03:23 PM","X":164307.75,"Y":189146.531},"type":"Feature"},
+{"geometry":{"coordinates":[-96.781796,40.835447],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"1425","INCIDENT_ID":526365,"LES_AREA":"","REGION":4,"STATUS":0,"TIME_OUTAGE":"11/18/2026 03:30 PM","X":138102.641,"Y":213313.047},"type":"Feature"},
+{"geometry":{"coordinates":[-96.728378,40.871967],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"0522","INCIDENT_ID":526380,"LES_AREA":"","REGION":4,"STATUS":0,"TIME_OUTAGE":"11/18/2026 03:32 PM","X":152891.375,"Y":226608.344},"type":"Feature"},
+{"geometry":{"coordinates":[-96.672338,40.753743],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5821","INCIDENT_ID":526411,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/18/2026 03:35 PM","X":168398.953,"Y":183530.484},"type":"Feature"},
+{"geometry":{"coordinates":[-96.758595,40.803711],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1271,"DEVICE_FCID":100876,"FEEDER_ID":"1614","INCIDENT_ID":526414,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/18/2026 03:21 PM","X":144513.938,"Y":201743.766},"type":"Feature"},
+{"geometry":{"coordinates":[-96.657699,40.827809],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"6226","INCIDENT_ID":526417,"LES_AREA":"","REGION":1,"STATUS":0,"TIME_OUTAGE":"11/18/2026 03:38 PM","X":172445.672,"Y":210517.75},"type":"Feature"}
 ]}

@@ -20,9 +20,10 @@
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"UNION","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"0","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.158861,39.739304],"type":"Point"},"properties":{"EstimateTime":"11/17/2026 11:00 PM","INCIDENTID":"1822282","IND":"D","LAT":"39.7393043","LNG":"-84.1588613632632","OutageTime":"11/17/2026 08:42 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.155455,39.741876],"type":"Point"},"properties":{"EstimateTime":"11/18/2026 01:00 AM","INCIDENTID":"1822282","IND":"D","LAT":"39.7418764","LNG":"-84.1554545966128","OutageTime":"11/17/2026 08:42 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.343281,40.243424],"type":"Point"},"properties":{"COUNTY":"UNION","EstimateTime":"11/18/2026 01:00 AM","INCIDENTID":"1822284","IND":"D","LAT":"40.24342378","LNG":"-83.3432810314622","OutageTime":"11/17/2026 10:59 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

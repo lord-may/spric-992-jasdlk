@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.338273,37.932502],"type":"Point"},"properties":{"cause":"Scheduled","comment":"Scheduled outage - pole change","crewAssigned":true,"estimateTime":1795033800000,"id":"487944","nbrOut":1,"planned":false,"timeOff":1795015447000},"type":"Feature"},
-{"geometry":{"coordinates":[-95.007181,38.066781],"type":"Point"},"properties":{"cause":"Scheduled","comment":"Scheduled outage - pole change","crewAssigned":true,"estimateTime":1795028400000,"id":"487945","nbrOut":1,"planned":false,"timeOff":1795017161000},"type":"Feature"}
+{"geometry":{"coordinates":[-95.007181,38.066781],"type":"Point"},"properties":{"cause":"Scheduled","comment":"Scheduled outage - pole change","crewAssigned":true,"estimateTime":1795028400000,"id":"487945","nbrOut":1,"planned":false,"timeOff":1795017161000},"type":"Feature"},
+{"geometry":{"coordinates":[-95.150696,37.557595],"type":"Point"},"properties":{"cause":"Scheduled","comment":"Scheduled outage - pole change","crewAssigned":true,"estimateTime":1795028400000,"id":"487946","nbrOut":1,"planned":false,"timeOff":1795020751000},"type":"Feature"}
 ]}

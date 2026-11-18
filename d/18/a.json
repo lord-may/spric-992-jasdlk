@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.355973,45.970303],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795010185000,"ETR":1795021200000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001214","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.131609,46.764171],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795011135000,"ETR":1795018500000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001215","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.847086,46.003845],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795011706000,"ETR":1795023000000,"LOCATION":"Long Prairie Township","ORDERID":"JE.2611.001216","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.847086,46.003845],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795011706000,"ETR":1795023000000,"LOCATION":"Long Prairie Township","ORDERID":"JE.2611.001216","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.896039,46.472833],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1795013123000,"ETR":1795024800000,"LOCATION":"Deerwood","ORDERID":"JE.2611.001217","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.412095,46.725948],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1795013153000,"ETR":1795024800000,"LOCATION":"Pine River,Pine River Township","ORDERID":"JE.2611.001218","STATUS":"Assigned"},"type":"Feature"}
 ]}

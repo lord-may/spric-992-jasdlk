@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.977971,42.083593],"type":"Point"},"properties":{"adminstatus":"Created","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"40633","lat":"42.0835931200625","lng":"-89.9779714106613","name":"Fault CLA-1","priority":null,"starttime":"Nov 19 2026  3:55PM","status1":"Undefined","status2":"Unknown","substation":null,"totalaffected":"328","totalcalls":"2","totalouttime":null,"totalxfmr":null,"type":"MV | F1 Fault in own network"},"type":"Feature"},
-{"geometry":{"coordinates":[-89.977914,42.08356],"type":"Point"},"properties":{"adminstatus":"Created","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"40634","lat":"42.083560244218","lng":"-89.9779137592912","name":"Fault CLB-1","priority":null,"starttime":"Nov 19 2026  3:55PM","status1":"Undefined","status2":"Unknown","substation":null,"totalaffected":"72","totalcalls":"2","totalouttime":null,"totalxfmr":null,"type":"MV | F1 Fault in own network"},"type":"Feature"}
+
 ]}

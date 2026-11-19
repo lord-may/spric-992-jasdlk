@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.151907,38.499717],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T07:09:04.413-05:00","outageName":"T14-3-25","outagePoint":{"lat":38.4997167769989,"lng":-87.15190738738771},"outageRecID":"2026-11-19-0237","outageStartTime":"2026-11-19T07:02:00-05:00","outageWorkStatus":"","streetsAffected":["E COUNTY ROAD 550 N"],"verified":false},"type":"Feature"}
 ]}

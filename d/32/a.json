@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.951381,39.397208],"type":"Point"},"properties":{"cause":"OTHER, SCHEDULED (PLANNED)    ","crewAssigned":true,"id":"331904","nbrOut":1,"planned":true,"timeOff":1795108528000},"type":"Feature"},
+{"geometry":{"coordinates":[-86.172636,39.549457],"type":"Point"},"properties":{"crewAssigned":false,"id":"331905","nbrOut":1,"planned":false,"timeOff":1795108750000},"type":"Feature"}
 ]}

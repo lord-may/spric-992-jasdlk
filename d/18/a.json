@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-91.904024,46.903185],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795098395000,"ETR":1795113000000,"LOCATION":"Duluth Township","ORDERID":"JE.2611.001347","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.217596,46.834021],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795100192000,"ETR":1795114800000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001354","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.160914,46.821684],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795100787000,"ETR":1795112100000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001355","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.217238,46.833884],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795100192000,"ETR":1795114800000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001354","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.160914,46.821684],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795100787000,"ETR":1795115700000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001355","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.083024,46.802837],"type":"Point"},"properties":{"CAUSE":"Customer Related","CUSTCOUNT":1,"DATEOFF":1795102590000,"ETR":1795113900000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001361","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.65445,45.905844],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":2,"DATEOFF":1795104851000,"ETR":1795116600000,"LOCATION":"Burnhamville Township","ORDERID":"JE.2611.001366","STATUS":"Assigned"},"type":"Feature"}
 ]}

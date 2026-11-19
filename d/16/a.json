@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.817025,45.954877],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Assigned","ETR":"Nov 19, 10:00 a.m.","IsGlobal":false,"Latitude":45.954876652585284,"Longitude":-89.81702502643876,"OffTime":"Nov 19, 7:16 a.m.","Slices":[{"AffectedCusts":16,"City":"lac du flambeau","CityCusts":3620,"County":"vilas","CountyCusts":20640,"Region":"","RegionCusts":0,"Zip":"54538","ZipCusts":3331}]},"type":"Feature"},
+{"geometry":{"coordinates":[-89.817473,45.954749],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Assigned","ETR":"Nov 19, 10:00 a.m.","IsGlobal":false,"Latitude":45.954748569480756,"Longitude":-89.8174728422667,"OffTime":"Nov 19, 7:16 a.m.","Slices":[{"AffectedCusts":9,"City":"lac du flambeau","CityCusts":3620,"County":"vilas","CountyCusts":20640,"Region":"","RegionCusts":0,"Zip":"54538","ZipCusts":3331}]},"type":"Feature"}
 ]}

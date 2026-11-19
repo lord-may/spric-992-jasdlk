@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.14366,45.115815],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Onsite","ETR":"Nov 19, 11:00 a.m.","IsGlobal":false,"Latitude":45.115814721117864,"Longitude":-89.14366009358162,"OffTime":"Nov 19, 8:21 a.m.","Slices":[{"AffectedCusts":2,"City":"rolling","CityCusts":787,"County":"langlade","CountyCusts":13218,"Region":"","RegionCusts":0,"Zip":"54409","ZipCusts":6897}]},"type":"Feature"},
+{"geometry":{"coordinates":[-89.587432,44.909421],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"On the way","ETR":"Nov 19, 11:00 a.m.","IsGlobal":false,"Latitude":44.90942137998423,"Longitude":-89.58743233917262,"OffTime":"Nov 19, 8:27 a.m.","Slices":[{"AffectedCusts":1,"City":"weston","CityCusts":8440,"County":"marathon","CountyCusts":62617,"Region":"","RegionCusts":0,"Zip":"54476","ZipCusts":10603}]},"type":"Feature"}
 ]}

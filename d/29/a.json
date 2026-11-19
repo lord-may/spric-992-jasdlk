@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.542612,44.181656],"type":"Point"},"properties":{"crewAssigned":true,"id":"337770","nbrOut":1,"planned":false,"timeOff":1795095440783},"type":"Feature"}
+{"geometry":{"coordinates":[-89.542612,44.181656],"type":"Point"},"properties":{"crewAssigned":true,"id":"337770","nbrOut":1,"planned":false,"timeOff":1795095440783},"type":"Feature"},
+{"geometry":{"coordinates":[-89.688562,44.367584],"type":"Point"},"properties":{"comment":"The outage is for Disconnect reconnect for a member to cut some trees around their triplex wires. They'll call in when ready to be reconnected. Tm","crewAssigned":true,"id":"337771","nbrOut":1,"planned":false,"timeOff":1795098945026},"type":"Feature"}
 ]}

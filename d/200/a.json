@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.782491,37.702422],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T08:40:46-06:00","outageName":"B6 - 0904290026","outagePoint":{"lat":37.70242204881653,"lng":-88.78249127469057},"outageRecID":"2026-11-19-0214","outageStartTime":"2026-11-19T08:29:07-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

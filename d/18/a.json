@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.160914,46.821684],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795100787000,"ETR":1795115700000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001355","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.083024,46.802837],"type":"Point"},"properties":{"CAUSE":"Customer Related","CUSTCOUNT":1,"DATEOFF":1795102590000,"ETR":1795117500000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001361","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.098641,46.790438],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":56,"DATEOFF":1795112717000,"ETR":1795120200000,"LOCATION":"Duluth - Central Hillside","ORDERID":"JE.2611.001386","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.090451,46.797045],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795113600000,"ETR":1795121100000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001389","STATUS":"New Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.058378,46.823791],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":6,"DATEOFF":1795114296000,"ETR":1795122000000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001390","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.513863,46.794839],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795114517000,"ETR":1795125600000,"LOCATION":"Pine River Township","ORDERID":"JE.2611.001391","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.404954,46.720915],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795114754000,"ETR":1795126500000,"LOCATION":"Pine River","ORDERID":"JE.2611.001392","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.055521,46.824279],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":13,"DATEOFF":1795114800000,"ETR":1795122900000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001393","STATUS":"Assigned"},"type":"Feature"}
 ]}

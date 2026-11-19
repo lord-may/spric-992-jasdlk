@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.443729,44.032508],"type":"Point"},"properties":{"CREW_NAME":"Trk 534,424,542 (BO)","CUSTOMER_COUNT":9,"ID":91845,"INCIDENT_ID":"91845","TIME_OUTAGE":1795097058290,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-92.482624,44.010482],"type":"Point"},"properties":{"CREW_NAME":null,"CUSTOMER_COUNT":5,"ID":91846,"INCIDENT_ID":"91846","TIME_OUTAGE":1795097125177,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
 ]}

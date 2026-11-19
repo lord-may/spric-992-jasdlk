@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.395918,43.632983],"type":"Point"},"properties":{"cause":"Planned - Construction","crewAssigned":true,"id":"534913","nbrOut":1,"planned":true,"timeOff":1795114921000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-93.272103,43.768431],[-93.202277,43.788732],[-93.203696,43.803263],[-93.208745,43.840265],[-93.227043,43.833669],[-93.271232,43.780554],[-93.27169,43.779549],[-93.273064,43.77412],[-93.272103,43.768431]]],"type":"Polygon"},{"coordinates":[-93.231975,43.80124],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"534926","nbrOut":24,"planned":false,"timeOff":1795115527000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-93.395091,43.63152],[-93.394768,43.632001],[-93.394759,43.632385],[-93.395118,43.632619],[-93.395091,43.63152]]],"type":"Polygon"},{"coordinates":[-93.394965,43.632125],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned - Construction","crewAssigned":true,"id":"534937","nbrOut":25,"planned":true,"timeOff":1795115948000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.202277,43.788732],"type":"Point"},"properties":{"cause":"Ag Equipment","crewAssigned":true,"id":"534940","nbrOut":1,"planned":false,"timeOff":1795119209000},"type":"Feature"}
 ]}

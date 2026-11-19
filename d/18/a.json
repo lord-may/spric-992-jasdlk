@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-91.904024,46.903185],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795098395000,"ETR":1795113000000,"LOCATION":"Duluth Township","ORDERID":"JE.2611.001347","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.160914,46.821684],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795100787000,"ETR":1795115700000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001355","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.083024,46.802837],"type":"Point"},"properties":{"CAUSE":"Customer Related","CUSTCOUNT":1,"DATEOFF":1795102590000,"ETR":1795117500000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001361","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.083024,46.802837],"type":"Point"},"properties":{"CAUSE":"Customer Related","CUSTCOUNT":1,"DATEOFF":1795102590000,"ETR":1795117500000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001361","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.098641,46.790438],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":56,"DATEOFF":1795112717000,"ETR":1795120200000,"LOCATION":"Duluth - Central Hillside","ORDERID":"JE.2611.001386","STATUS":"Assigned"},"type":"Feature"}
 ]}

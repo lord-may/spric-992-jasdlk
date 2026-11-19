@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.651816,40.812122],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":6,"DEVICE_FCID":100553,"FEEDER_ID":"6011","INCIDENT_ID":526544,"LES_AREA":"","REGION":2,"STATUS":0,"TIME_OUTAGE":"11/19/2026 12:00 PM","X":174076.063,"Y":204802.875},"type":"Feature"}
+{"geometry":{"coordinates":[-96.651816,40.812122],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":6,"DEVICE_FCID":100553,"FEEDER_ID":"6011","INCIDENT_ID":526544,"LES_AREA":"ALLES CIR - S 50TH ST / N ST - M ST","REGION":2,"STATUS":1,"TIME_OUTAGE":"11/19/2026 12:00 PM","X":174076.063,"Y":204802.875},"type":"Feature"},
+{"geometry":{"coordinates":[-96.700986,40.77819],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"3813","INCIDENT_ID":526546,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/19/2026 12:33 PM","X":160462.531,"Y":192437.625},"type":"Feature"}
 ]}

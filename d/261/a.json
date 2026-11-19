@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.167818,38.207153],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T07:47:30.443-05:00","outageName":"D2-34-024","outagePoint":{"lat":38.2071534405255,"lng":-86.16781806879152},"outageRecID":"2026-11-19-0213","outageStartTime":"2026-11-19T07:47:15-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

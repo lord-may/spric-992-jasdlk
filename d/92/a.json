@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-87.066029,41.191608],"type":"Point"},"properties":{"cause":"Small animal - bird, squirrel, raccoon","crewAssigned":false,"id":"351151","nbrOut":1,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-87.066029,41.191608],"type":"Point"},"properties":{"cause":"Small animal - bird, squirrel, raccoon","crewAssigned":false,"id":"351151","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-87.122793,41.227811],[-87.122605,41.228115],[-87.122614,41.228574],[-87.126728,41.23104],[-87.126962,41.231148],[-87.128453,41.230946],[-87.130429,41.229081],[-87.130187,41.227926],[-87.129719,41.227885],[-87.126935,41.227824],[-87.122793,41.227811]]],"type":"Polygon"},{"coordinates":[-87.126827,41.229122],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Default Cause ","crewAssigned":true,"id":"351424","nbrOut":52,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-87.085576,41.210722],"type":"Point"},"properties":{"cause":"Default Cause ","crewAssigned":false,"id":"351426","nbrOut":1,"planned":true},"type":"Feature"}
 ]}

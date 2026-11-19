@@ -22,6 +22,7 @@
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"0","UMTime":"null","UMessage":"null"},"type":"Feature"}
+{"geometry":null,"properties":{"County":"WARREN","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.039089,39.339757],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/19/2026 11:00 AM","INCIDENTID":"1822481","IND":"D","LAT":"39.3397565","LNG":"-84.0390890928102","OutageTime":"11/19/2026 08:05 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.379857,39.376797],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T09:00:48.35-05:00","outageName":"T47D-1HA-1","outagePoint":{"lat":39.3767967769989,"lng":-87.37985738738772},"outageRecID":"2026-11-20-0257","outageStartTime":"2026-11-20T08:53:28-05:00","outageWorkStatus":"","streetsAffected":["SOUTHRIDGE RD","TREELINE RD"],"verified":false},"type":"Feature"}
 ]}

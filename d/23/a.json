@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.975259,46.187231],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795203000000,"id":"732669","nbrOut":1,"timeOff":1795193825995},"type":"Feature"}
+{"geometry":{"coordinates":[-91.975259,46.187231],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795203000000,"id":"732669","nbrOut":1,"timeOff":1795193825995},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-93.632965,45.763459],[-93.632363,45.763465],[-93.632399,45.763948],[-93.632938,45.764004],[-93.635498,45.763998],[-93.635687,45.763973],[-93.635418,45.763484],[-93.632965,45.763459]]],"type":"Polygon"},{"coordinates":[-93.633971,45.763734],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned Maintenance/Construction, Underground","crewAssigned":true,"estimateTime":1795207500000,"id":"732673","nbrOut":20,"timeOff":1795203600000},"type":"Feature"}
 ]}

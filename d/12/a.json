@@ -17,13 +17,14 @@
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"3"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"PREBLE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.261017,39.775725],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/20/2026 09:00 AM","INCIDENTID":"1822743","IND":"D","LAT":"39.77572462","LNG":"-84.2610172109411","OutageTime":"11/20/2026 07:03 AM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.849635,40.057688],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/20/2026 10:00 AM","INCIDENTID":"1822744","IND":"D","LAT":"40.05768842","LNG":"-83.8496348852913","OutageTime":"11/20/2026 07:20 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"5","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.262492,39.774612],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/20/2026 09:00 AM","INCIDENTID":"1822743","IND":"D","LAT":"39.77461212","LNG":"-84.2624915040799","OutageTime":"11/20/2026 07:03 AM","TOTALCUSTS":"3"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.851116,40.056576],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/20/2026 10:00 AM","INCIDENTID":"1822744","IND":"D","LAT":"40.05657592","LNG":"-83.851115733102","OutageTime":"11/20/2026 07:20 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.656972,39.63603],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/20/2026 11:00 AM","INCIDENTID":"1822745","IND":"D","LAT":"39.63602969","LNG":"-84.6569717754922","OutageTime":"11/20/2026 07:55 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

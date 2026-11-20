@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.638023,38.515459],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T20:21:43.187-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T15:21:43.237-05:00","outageName":"458620032T","outagePoint":{"lat":38.515459242983894,"lng":-85.63802338544244},"outageRecID":"2026-11-20-0196","outageStartTime":"2026-11-20T15:21:40-05:00","outageWorkStatus":"","streetsAffected":["HIDDEN VIEW FARM"],"verified":false},"type":"Feature"}
 ]}

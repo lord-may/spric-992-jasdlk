@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.694051,40.503588],"type":"Point"},"properties":{"cause":"Planned: Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T08:41:18.027-05:00","outageName":"7078-T","outagePoint":{"lat":40.5035881278931,"lng":-82.69405061583005},"outageRecID":"2026-11-20-0071","outageStartTime":"2026-11-20T08:40:35-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

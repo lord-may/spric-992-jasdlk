@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.690901,40.791973],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"3824","INCIDENT_ID":526570,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/20/2026 11:44 AM","X":163255.875,"Y":197459.281},"type":"Feature"},
-{"geometry":{"coordinates":[-96.66886,40.790548],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5613","INCIDENT_ID":526571,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/20/2026 11:48 AM","X":169359.531,"Y":196940.625},"type":"Feature"},
-{"geometry":{"coordinates":[-96.667713,40.791323],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"5613","INCIDENT_ID":526572,"LES_AREA":"","REGION":3,"STATUS":0,"TIME_OUTAGE":"11/20/2026 11:49 AM","X":169677.219,"Y":197223.234},"type":"Feature"}
+{"geometry":{"coordinates":[-96.668649,40.791552],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":79,"DEVICE_FCID":100870,"FEEDER_ID":"5613","INCIDENT_ID":526578,"LES_AREA":"S 36TH - S 38TH / SOUSH ST - SMITH ST","REGION":3,"STATUS":1,"TIME_OUTAGE":"11/20/2026 11:48 AM","X":169417.859,"Y":197306.531},"type":"Feature"}
 ]}

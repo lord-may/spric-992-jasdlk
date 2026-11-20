@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-87.112143,41.515366],"type":"Point"},"properties":{"affected":1,"cause":"equipment","city":"VALPARAISO","comment":"equipment","lat":41.515366,"lng":-87.112143,"maxAffected":1,"reported":"2026-11-20T00:06:00","restore":"2026-11-20T12:00:00Z","status":"","stormMode":false,"zip":"46385"},"type":"Feature"},
-{"geometry":{"coordinates":[-87.495302,41.572644],"type":"Point"},"properties":{"affected":1,"cause":"equipment","city":"HAMMOND","comment":"equipment","lat":41.572644,"lng":-87.495302,"maxAffected":1,"reported":"2026-11-20T03:01:00","restore":"2026-11-20T07:00:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46324"},"type":"Feature"}
+{"geometry":{"coordinates":[-87.495302,41.572644],"type":"Point"},"properties":{"affected":1,"cause":"equipment","city":"HAMMOND","comment":"equipment","lat":41.572644,"lng":-87.495302,"maxAffected":1,"reported":"2026-11-20T03:01:00","restore":"2026-11-20T07:15:00Z","status":"Assessment in Progress","stormMode":false,"zip":"46324"},"type":"Feature"}
 ]}

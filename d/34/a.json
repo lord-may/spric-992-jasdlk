@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-101.464684,38.230993],"type":"Point"},"properties":{"cause":"120 Planned Restoration Work","crewAssigned":true,"id":"450264","nbrOut":1,"planned":true,"timeOff":1794892945000},"type":"Feature"}
+{"geometry":{"coordinates":[-101.464684,38.230993],"type":"Point"},"properties":{"cause":"120 Planned Restoration Work","crewAssigned":true,"id":"450264","nbrOut":1,"planned":true,"timeOff":1794892945000},"type":"Feature"},
+{"geometry":{"coordinates":[-100.918868,37.972892],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":true,"id":"450266","nbrOut":1,"planned":true,"timeOff":1795187554000},"type":"Feature"}
 ]}

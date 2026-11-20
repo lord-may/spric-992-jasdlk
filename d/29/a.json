@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.710094,44.076472],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 11/19/26 FROM 10:30-11:30AM","crewAssigned":false,"estimateTime":1795109400000,"id":"337627","nbrOut":1,"planned":true,"timeOff":1795105800000},"type":"Feature"},
-{"geometry":{"coordinates":[-89.222543,43.577133],"type":"Point"},"properties":{"crewAssigned":false,"id":"337818","nbrOut":1,"planned":false,"timeOff":1795153038000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.222543,43.577133],"type":"Point"},"properties":{"crewAssigned":true,"id":"337818","nbrOut":1,"planned":false,"timeOff":1795153038000},"type":"Feature"}
 ]}

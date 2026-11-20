@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.163838,38.574394],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T10:34:34.343-05:00","outageName":"MB   29E  23S 94S  3W  9","outagePoint":{"lat":38.57439433620048,"lng":-86.16383846617843},"outageRecID":"2026-11-20-0195","outageStartTime":"2026-11-20T10:34:29-05:00","outageWorkStatus":"","streetsAffected":["W STATE ROAD 56"],"verified":false},"type":"Feature"}
 ]}

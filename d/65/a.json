@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.652004,40.632011],"type":"Point"},"properties":{"crewAssigned":true,"id":"309395","nbrOut":2,"timeOff":1795186542091},"type":"Feature"},
+{"geometry":{"coordinates":[-86.652004,40.632011],"type":"Point"},"properties":{"cause":"VIBRATION & DETERIORATION     ","crewAssigned":true,"id":"309395","nbrOut":2,"timeOff":1795186542091},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-86.713638,40.448304],[-86.711886,40.449349],[-86.710575,40.450197],[-86.710143,40.451428],[-86.711248,40.451626],[-86.712227,40.451257],[-86.713476,40.450751],[-86.713638,40.448304]]],"type":"Polygon"},{"coordinates":[-86.712102,40.450238],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"309397","nbrOut":10,"timeOff":1795187485858},"type":"Feature"}
 ]}

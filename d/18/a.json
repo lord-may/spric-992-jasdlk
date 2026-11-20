@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.053313,46.824504],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795185589000,"ETR":1795193100000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001429","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.053313,46.824504],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795185589000,"ETR":1795196700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001429","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.241788,47.52966],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795186164000,"ETR":1795197600000,"LOCATION":"Aurora","ORDERID":"JE.2611.001432","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.465003,46.726327],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795187386000,"ETR":1795194900000,"LOCATION":"Cloquet","ORDERID":"JE.2611.001438","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.522839,46.923725],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795187461000,"ETR":1795198500000,"LOCATION":"Hackensack","ORDERID":"JE.2611.001439","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.462779,46.632584],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":12,"DATEOFF":1795188503000,"ETR":1795196700000,"LOCATION":"Twin Lakes Township","ORDERID":"JE.2611.001442","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.522839,46.923725],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795187461000,"ETR":1795198500000,"LOCATION":"Hackensack","ORDERID":"JE.2611.001439","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.384992,39.751268],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T10:36:39.03-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T07:36:39.09-05:00","outageName":"T-72066","outagePoint":{"lat":39.75126754424612,"lng":-82.38499194543378},"outageRecID":"2026-11-20-0730","outageStartTime":"2026-11-20T07:35:20-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

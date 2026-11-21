@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-88.649068,44.199176],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting assignment","ETR":"Nov 21, 2:30 a.m.","IsGlobal":false,"Latitude":44.199176038647785,"Longitude":-88.64906847686473,"OffTime":"Nov 20, 11:32 p.m.","Slices":[{"AffectedCusts":11,"City":"winchester","CityCusts":756,"County":"winnebago","CountyCusts":48129,"Region":"","RegionCusts":0,"Zip":"54947","ZipCusts":1250}]},"type":"Feature"}
+{"geometry":{"coordinates":[-88.649068,44.199176],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Assigned","ETR":"Nov 21, 2:30 a.m.","IsGlobal":false,"Latitude":44.199176038647785,"Longitude":-88.64906847686473,"OffTime":"Nov 20, 11:32 p.m.","Slices":[{"AffectedCusts":11,"City":"winchester","CityCusts":756,"County":"winnebago","CountyCusts":48129,"Region":"","RegionCusts":0,"Zip":"54947","ZipCusts":1250}]},"type":"Feature"}
 ]}

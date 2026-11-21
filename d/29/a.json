@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.710094,44.076472],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 11/19/26 FROM 10:30-11:30AM","crewAssigned":false,"estimateTime":1795109400000,"id":"337627","nbrOut":1,"planned":true,"timeOff":1795105800000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-89.94018,43.953112],[-89.939982,43.953325],[-89.939542,43.953894],[-89.94018,43.953112]]],"type":"Polygon"},{"coordinates":[-89.939901,43.953442],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"On site troubleshooting","crewAssigned":true,"id":"337922","nbrOut":3,"planned":false,"timeOff":1795255680000},"type":"Feature"}
+{"geometry":{"coordinates":[-89.710094,44.076472],"type":"Point"},"properties":{"comment":"PLANNED OUTAGE FOR MAINTENANCE ON 11/19/26 FROM 10:30-11:30AM","crewAssigned":false,"estimateTime":1795109400000,"id":"337627","nbrOut":1,"planned":true,"timeOff":1795105800000},"type":"Feature"}
 ]}

@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.071329,46.807247],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795277699000,"ETR":1795285800000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001498","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.071329,46.807247],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795277699000,"ETR":1795285800000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001498","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.071329,46.807247],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795282455000,"ETR":1795290300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001502","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.071329,46.807247],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795282470000,"ETR":1795290300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001503","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.513488,46.81867],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795283226000,"ETR":1795294800000,"LOCATION":"Backus","ORDERID":"JE.2611.001506","STATUS":"Assigned"},"type":"Feature"}
 ]}

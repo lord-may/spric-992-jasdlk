@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.958106,45.517144],"type":"Point"},"properties":{"cause":"Trees fell on overhead equipment","crewAssigned":true,"estimateTime":1795228200000,"id":"732677","nbrOut":1,"timeOff":1795218927000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.505732,46.660814],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795229100000,"id":"732678","nbrOut":1,"timeOff":1795219415000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.957189,45.517226],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795229100000,"id":"732679","nbrOut":1,"timeOff":1795221397000},"type":"Feature"}
+{"geometry":{"coordinates":[-92.957675,45.516867],"type":"Point"},"properties":{"cause":"Trees fell on overhead equipment","crewAssigned":true,"estimateTime":1795229100000,"id":"732677","nbrOut":2,"timeOff":1795218927000},"type":"Feature"},
+{"geometry":{"coordinates":[-92.505732,46.660814],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795229100000,"id":"732678","nbrOut":1,"timeOff":1795219415000},"type":"Feature"}
 ]}

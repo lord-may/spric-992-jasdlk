@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.056579,41.592361],"type":"Point"},"properties":{"CreateDatetime":"11-20  11:39 PM","District":"579A","Downstream":1,"ETA":"","ETR":"11-21  02:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640156","Latitude":41.592361,"LocationCause":"","Longitude":-95.056579,"MAJ_OTG_ID":"0","METRO_AREA":"Fort Dodge","StatusCd":"EN ROUTE"},"type":"Feature"}
+{"geometry":{"coordinates":[-95.056579,41.592361],"type":"Point"},"properties":{"CreateDatetime":"11-20  11:39 PM","District":"579A","Downstream":1,"ETA":"","ETR":"11-21  02:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640156","Latitude":41.592361,"LocationCause":"","Longitude":-95.056579,"MAJ_OTG_ID":"0","METRO_AREA":"Fort Dodge","StatusCd":"WORKING"},"type":"Feature"}
 ]}

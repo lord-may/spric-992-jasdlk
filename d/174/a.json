@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.480728,38.631893],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T08:40:46.993-05:00","outageName":"T11-3D-13.1","outagePoint":{"lat":38.631893,"lng":-87.480728},"outageRecID":"2026-11-21-0264","outageStartTime":"2026-11-21T08:40:30-05:00","outageWorkStatus":"","streetsAffected":["S LOWER HART ST RD"],"verified":false},"type":"Feature"}
 ]}

@@ -14,16 +14,18 @@
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MIAMI","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MIAMI","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.378672,40.246275],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/21/2026 12:00 PM","INCIDENTID":"1823045","IND":"D","LAT":"40.24627519","LNG":"-84.3786717280022","OutageTime":"11/21/2026 07:34 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.356139,40.080342],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/21/2026 02:00 PM","INCIDENTID":"1823061","IND":"D","LAT":"40.08034177","LNG":"-84.3561389083599","OutageTime":"11/21/2026 10:47 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.378351,40.246515],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/21/2026 12:00 PM","INCIDENTID":"1823045","IND":"D","LAT":"40.24651549","LNG":"-84.3783509105333","OutageTime":"11/21/2026 07:34 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.355819,40.080582],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/21/2026 02:00 PM","INCIDENTID":"1823061","IND":"D","LAT":"40.08058207","LNG":"-84.3558189348165","OutageTime":"11/21/2026 10:47 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.039131,40.36645],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/21/2026 01:00 PM","INCIDENTID":"1823064","IND":"D","LAT":"40.3664497","LNG":"-84.0391312380424","OutageTime":"11/21/2026 11:05 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.248586,40.053586],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/21/2026 01:00 PM","INCIDENTID":"1823068","IND":"D","LAT":"40.05358623","LNG":"-84.2485856999474","OutageTime":"11/21/2026 11:08 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -11,7 +11,7 @@
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"LOGAN","TotOut":"3"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"5","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.380917,40.244593],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/21/2026 10:00 AM","INCIDENTID":"1823045","IND":"D","LAT":"40.24459309","LNG":"-84.3809174502846","OutageTime":"11/21/2026 07:34 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.741413,40.522294],"type":"Point"},"properties":{"COUNTY":"LOGAN","EstimateTime":"11/21/2026 11:00 AM","INCIDENTID":"1823049","IND":"D","LAT":"40.52229414","LNG":"-83.741412981817","OutageTime":"11/21/2026 07:59 AM","TOTALCUSTS":"3"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.722952,40.70222],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/21/2026 11:00 AM","INCIDENTID":"1823053","IND":"D","LAT":"40.70222035","LNG":"-84.7229517655987","OutageTime":"11/21/2026 08:52 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.37847,40.246426],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/21/2026 10:00 AM","INCIDENTID":"1823045","IND":"D","LAT":"40.24642649","LNG":"-84.3784697318181","OutageTime":"11/21/2026 07:34 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.720486,40.704054],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/21/2026 11:00 AM","INCIDENTID":"1823053","IND":"D","LAT":"40.70405375","LNG":"-84.7204859975404","OutageTime":"11/21/2026 08:52 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

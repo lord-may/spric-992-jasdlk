@@ -13,7 +13,7 @@
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MERCER","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MERCER","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
@@ -23,6 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.718475,40.554561],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/22/2026 04:00 PM","INCIDENTID":"1823171","IND":"D","LAT":"40.55456097","LNG":"-84.7184746515547","OutageTime":"11/22/2026 01:29 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.716003,40.556403],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/22/2026 07:00 PM","INCIDENTID":"1823171","IND":"D","LAT":"40.55640327","LNG":"-84.716002741903","OutageTime":"11/22/2026 01:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.54338,40.51204],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/22/2026 06:00 PM","INCIDENTID":"1823178","IND":"D","LAT":"40.51204034","LNG":"-84.5433797216366","OutageTime":"11/22/2026 03:55 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

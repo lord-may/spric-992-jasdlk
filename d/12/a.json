@@ -8,7 +8,7 @@
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"1"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,9 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"1"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"3","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.513883,39.707366],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/22/2026 10:00 AM","INCIDENTID":"1823150","IND":"D","LAT":"39.7073663","LNG":"-83.5138830924143","OutageTime":"11/22/2026 08:14 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.400146,40.061482],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/22/2026 10:00 AM","INCIDENTID":"1823151","IND":"D","LAT":"40.06148207","LNG":"-84.4001458125111","OutageTime":"11/22/2026 08:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.122926,39.556565],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/22/2026 12:00 PM","INCIDENTID":"1823153","IND":"D","LAT":"39.55656494","LNG":"-84.122925634856","OutageTime":"11/22/2026 08:21 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"4","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.513117,39.707945],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/22/2026 10:00 AM","INCIDENTID":"1823150","IND":"D","LAT":"39.7079448","LNG":"-83.5131172646519","OutageTime":"11/22/2026 08:14 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.399376,40.062061],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/22/2026 10:00 AM","INCIDENTID":"1823151","IND":"D","LAT":"40.06206057","LNG":"-84.3993757110317","OutageTime":"11/22/2026 08:08 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.122162,39.557143],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/22/2026 11:00 AM","INCIDENTID":"1823153","IND":"D","LAT":"39.55714344","LNG":"-84.1221616033106","OutageTime":"11/22/2026 08:21 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.022082,39.810868],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/22/2026 10:00 AM","INCIDENTID":"1823154","IND":"D","LAT":"39.81086787","LNG":"-84.0220823319559","OutageTime":"11/22/2026 08:27 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-92.765633,45.277048],[-92.775883,45.283799],[-92.777464,45.282358],[-92.779709,45.278451],[-92.77873,45.277465],[-92.765633,45.277048]]],"type":"Polygon"},{"coordinates":[-92.773987,45.279545],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Poles down or Broken Pole","crewAssigned":true,"estimateTime":1795377600000,"id":"732723","nbrOut":7,"timeOff":1795369136000},"type":"Feature"},
-{"geometry":{"coordinates":[-93.263012,46.101347],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795384800000,"id":"732724","nbrOut":1,"timeOff":1795375022000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.263012,46.101347],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795384800000,"id":"732724","nbrOut":1,"timeOff":1795375022000},"type":"Feature"}
 ]}

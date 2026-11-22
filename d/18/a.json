@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.283735,46.901541],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795354030000,"ETR":1795361400000,"LOCATION":"Canosia Township","ORDERID":"JE.2611.001524","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.279145,46.898581],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":4,"DATEOFF":1795354030000,"ETR":1795361400000,"LOCATION":"Canosia Township","ORDERID":"JE.2611.001525","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.217225,45.963961],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795355047000,"ETR":1795366800000,"LOCATION":"Agram Township","ORDERID":"JE.2611.001527","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.217225,45.963961],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795355047000,"ETR":1795366800000,"LOCATION":"Agram Township","ORDERID":"JE.2611.001527","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.369596,46.068017],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1795357695000,"ETR":1795369500000,"LOCATION":"Green Prairie Township","ORDERID":"JE.2611.001529","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.941267,46.088764],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795357968000,"ETR":1795365900000,"LOCATION":"Dell Grove Township","ORDERID":"JE.2611.001530","STATUS":"New Outage"},"type":"Feature"}
 ]}

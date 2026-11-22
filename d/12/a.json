@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"9","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.36318,39.365255],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/22/2026 12:00 AM","INCIDENTID":"1823116","IND":"D","LAT":"39.36525534","LNG":"-83.3631799440208","OutageTime":"11/21/2026 03:43 PM","TOTALCUSTS":"4"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.103972,39.675292],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/21/2026 09:00 PM","INCIDENTID":"1823117","IND":"D","LAT":"39.67529215","LNG":"-84.1039724547221","OutageTime":"11/21/2026 04:20 PM","TOTALCUSTS":"5"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.364188,39.36449],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/22/2026 12:00 AM","INCIDENTID":"1823116","IND":"D","LAT":"39.36448994","LNG":"-83.3641877996285","OutageTime":"11/21/2026 03:43 PM","TOTALCUSTS":"4"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.104985,39.674527],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/21/2026 09:00 PM","INCIDENTID":"1823117","IND":"D","LAT":"39.67452675","LNG":"-84.1049851676359","OutageTime":"11/21/2026 04:20 PM","TOTALCUSTS":"5"},"type":"Feature"}
 ]}

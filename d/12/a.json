@@ -5,10 +5,10 @@
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"22"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,5 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"0","UMTime":"null","UMessage":"null"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"23","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.613343,40.112939],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/22/2026 03:00 PM","INCIDENTID":"1823168","IND":"D","LAT":"40.11293949","LNG":"-84.6133428785212","OutageTime":"11/22/2026 01:22 PM","TOTALCUSTS":"22"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.086459,39.65078],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/22/2026 04:00 PM","INCIDENTID":"1823169","IND":"D","LAT":"39.65078024","LNG":"-84.086459327139","OutageTime":"11/22/2026 01:24 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

@@ -5,7 +5,7 @@
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"22"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"24","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.614576,40.112014],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/22/2026 03:00 PM","INCIDENTID":"1823168","IND":"D","LAT":"40.11201389","LNG":"-84.6145760041946","OutageTime":"11/22/2026 01:22 PM","TOTALCUSTS":"22"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.714952,40.557186],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/22/2026 04:00 PM","INCIDENTID":"1823171","IND":"D","LAT":"40.55718647","LNG":"-84.7149518817613","OutageTime":"11/22/2026 01:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.435807,39.563467],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/22/2026 05:00 PM","INCIDENTID":"1823172","IND":"D","LAT":"39.56346707","LNG":"-83.4358070308383","OutageTime":"11/22/2026 01:52 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.717483,40.5553],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/22/2026 04:00 PM","INCIDENTID":"1823171","IND":"D","LAT":"40.55529967","LNG":"-84.7174834993756","OutageTime":"11/22/2026 01:29 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.438299,39.56158],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/22/2026 05:00 PM","INCIDENTID":"1823172","IND":"D","LAT":"39.56158027","LNG":"-83.4382991711159","OutageTime":"11/22/2026 01:52 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

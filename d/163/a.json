@@ -6,7 +6,9 @@
 {"geometry":{"coordinates":[-86.473689,43.656814],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795464900000,"id":"1981994","nbrOut":6,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.838095,44.005834],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795472100000,"id":"1981996","nbrOut":3,"planned":false},"type":"Feature"},
 {"geometry":{"coordinates":[-85.492863,43.796961],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795473000000,"id":"1981998","nbrOut":3,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-86.174047,43.59271],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795473000000,"id":"1982000","nbrOut":2,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-84.402677,44.94376],"type":"Point"},"properties":{"crewAssigned":false,"id":"1982007","nbrOut":127,"planned":false},"type":"Feature"},
-{"geometry":{"coordinates":[-85.449555,43.793343],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795473900000,"id":"1982009","nbrOut":3,"planned":false},"type":"Feature"}
+{"geometry":{"coordinates":[-86.174047,43.59271],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795473000000,"id":"1982000","nbrOut":2,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.449555,43.793343],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795473900000,"id":"1982009","nbrOut":3,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.357819,42.571397],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795473900000,"id":"1982010","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.696421,43.521139],"type":"Point"},"properties":{"crewAssigned":false,"id":"1982012","nbrOut":1,"planned":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.127132,44.727363],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795473900000,"id":"1982014","nbrOut":3,"planned":false},"type":"Feature"}
 ]}

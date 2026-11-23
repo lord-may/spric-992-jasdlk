@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.339447,45.970537],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":50,"DATEOFF":1795445839000,"ETR":1795464000000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001577","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.181472,46.788512],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795449737000,"ETR":1795464900000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001590","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.333764,46.766663],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795464569000,"ETR":1795479300000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001630","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.333764,46.766663],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795464569000,"ETR":1795479300000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001630","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.333866,46.765569],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795475177000,"ETR":1795482900000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001647","STATUS":"New Outage"},"type":"Feature"}
 ]}

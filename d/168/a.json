@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.903803,44.4616],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1795449743000,"id":"448165","nbrOut":1,"timeOff":1795009080000},"type":"Feature"},
-{"geometry":{"coordinates":[-96.692654,44.323983],"type":"Point"},"properties":{"cause":"MEMBER CAUSED                 ","crewAssigned":true,"id":"448170","nbrOut":1,"timeOff":1795033012000},"type":"Feature"}
+{"geometry":{"coordinates":[-96.692654,44.323983],"type":"Point"},"properties":{"cause":"MEMBER CAUSED                 ","crewAssigned":true,"id":"448170","nbrOut":1,"timeOff":1795033012000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-96.82043,43.872899],[-96.81487,43.877717],[-96.828156,43.88131],[-96.828892,43.880002],[-96.82043,43.872899]]],"type":"Polygon"},{"coordinates":[-96.821913,43.877432],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"VEHICLE--FARM                 ","crewAssigned":true,"estimateTime":1795456800000,"id":"448327","nbrOut":4,"timeOff":1795447800000},"type":"Feature"}
 ]}

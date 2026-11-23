@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-92.371222,46.72742],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795453030000,"ETR":1795467600000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001597","STATUS":"New Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.054807,46.823522],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":6,"DATEOFF":1795461565000,"ETR":1795469400000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001616","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.141126,46.714717],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1795462702000,"ETR":1795473900000,"LOCATION":"Superior","ORDERID":"JE.2611.001621","STATUS":"New Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.365049,46.706686],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795464003000,"ETR":1795472100000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001626","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.080859,46.84445],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":4,"DATEOFF":1795464308000,"ETR":1795472100000,"LOCATION":"Duluth - Woodland","ORDERID":"JE.2611.001627","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.333764,46.766663],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795464569000,"ETR":1795472100000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001630","STATUS":"New Outage"},"type":"Feature"}
 ]}

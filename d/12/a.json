@@ -23,5 +23,6 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"0","UMTime":"null","UMessage":"null"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"0","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.137485,40.326913],"type":"Point"},"properties":{"EstimateTime":"11/23/2026 09:00 AM","INCIDENTID":"1823192","IND":"D","LAT":"40.326913","LNG":"-84.1374853243016","OutageTime":"11/23/2026 05:34 AM","TOTALCUSTS":"2"},"type":"Feature"}
 ]}

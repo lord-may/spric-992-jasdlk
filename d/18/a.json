@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.098707,46.800453],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795443407000,"ETR":1795451400000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001569","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.074157,46.807258],"type":"Point"},"properties":{"CAUSE":"Customer Related","CUSTCOUNT":1,"DATEOFF":1795444450000,"ETR":1795452300000,"LOCATION":"Duluth - East Hillside Endion","ORDERID":"JE.2611.001572","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.871775,46.259698],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795444750000,"ETR":1795452300000,"LOCATION":"Rutledge","ORDERID":"JE.2611.001573","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.339447,45.970537],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":50,"DATEOFF":1795445839000,"ETR":1795456800000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001577","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.339447,45.970537],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":50,"DATEOFF":1795445839000,"ETR":1795456800000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001577","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.962803,45.977219],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795446071000,"ETR":1795457700000,"LOCATION":"Reynolds Township","ORDERID":"JE.2611.001578","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -24,8 +24,7 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.135854,40.326726],"type":"Point"},"properties":{"EstimateTime":"11/23/2026 09:00 AM","INCIDENTID":"1823195","IND":"D","LAT":"40.3267261","LNG":"-84.1358541722044","OutageTime":"11/23/2026 05:34 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.186476,40.479359],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/23/2026 09:00 AM","INCIDENTID":"1823196","IND":"D","LAT":"40.47935938","LNG":"-84.1864756403167","OutageTime":"11/23/2026 05:58 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.109819,39.788297],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"null","INCIDENTID":"1823199","IND":"D","LAT":"39.7882965902669","LNG":"-84.1098189100108","OutageTime":"11/23/2026 06:42 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.078392,39.983939],"type":"Point"},"properties":{"EstimateTime":"null","INCIDENTID":"1823200","IND":"D","LAT":"39.9839391","LNG":"-84.0783923088615","OutageTime":"11/23/2026 06:37 AM","TOTALCUSTS":"2"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.138376,40.324839],"type":"Point"},"properties":{"EstimateTime":"11/23/2026 09:00 AM","INCIDENTID":"1823195","IND":"D","LAT":"40.3248393","LNG":"-84.1383764462701","OutageTime":"11/23/2026 05:34 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.189004,40.477473],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/23/2026 09:00 AM","INCIDENTID":"1823196","IND":"D","LAT":"40.47747258","LNG":"-84.1890040866342","OutageTime":"11/23/2026 05:58 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.11232,39.78641],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/23/2026 10:00 AM","INCIDENTID":"1823199","IND":"D","LAT":"39.7864097902669","LNG":"-84.112319799188","OutageTime":"11/23/2026 06:42 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

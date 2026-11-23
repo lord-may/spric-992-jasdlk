@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.996034,45.66352],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting assignment","ETR":"Nov 22, 10:30 p.m.","IsGlobal":false,"Latitude":45.66351992244495,"Longitude":-88.99603358807589,"OffTime":"Nov 22, 7:28 p.m.","Slices":[{"AffectedCusts":4,"City":"hiles","CityCusts":731,"County":"forest","CountyCusts":9354,"Region":"","RegionCusts":0,"Zip":"54511","ZipCusts":1205}]},"type":"Feature"},
+{"geometry":{"coordinates":[-88.047434,44.430653],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting assignment","ETR":"Nov 22, 10:30 p.m.","IsGlobal":false,"Latitude":44.43065306353722,"Longitude":-88.04743410611269,"OffTime":"Nov 22, 7:37 p.m.","Slices":[{"AffectedCusts":1,"City":"de pere","CityCusts":12178,"County":"brown","CountyCusts":137482,"Region":"","RegionCusts":0,"Zip":"54115","ZipCusts":25096}]},"type":"Feature"}
 ]}

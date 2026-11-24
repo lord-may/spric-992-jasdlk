@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-101.093986,38.017767],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"450305","nbrOut":2,"planned":true,"timeOff":1795548212000},"type":"Feature"},
-{"geometry":{"coordinates":[-101.093141,38.017781],"type":"Point"},"properties":{"cause":"190 Other - planned","crewAssigned":true,"id":"450307","nbrOut":2,"planned":true,"timeOff":1795551146000},"type":"Feature"},
 {"geometry":{"coordinates":[-101.285417,37.886213],"type":"Point"},"properties":{"cause":"600 Small animals (bird, squirrel, snake)","crewAssigned":true,"id":"450309","nbrOut":3,"planned":false,"timeOff":1795551628000},"type":"Feature"}
 ]}

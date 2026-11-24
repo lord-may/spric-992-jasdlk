@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.101604,46.757436],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795543342000,"ETR":1795551300000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001737","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.151163,45.967037],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795546944000,"ETR":1795558500000,"LOCATION":"Agram Township","ORDERID":"JE.2611.001741","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.057312,46.825595],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795548871000,"ETR":1795556700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001742","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.057538,46.825445],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1795548871000,"ETR":1795556700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001742","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.569838,46.807708],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795549063000,"ETR":1795556700000,"LOCATION":"Stoney Brook Township","ORDERID":"JE.2611.001744","STATUS":"New Outage"},"type":"Feature"}
 ]}

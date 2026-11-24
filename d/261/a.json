@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.11583,38.382706],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T13:38:50-05:00","outageName":"B3-31-063","outagePoint":{"lat":38.38270597698733,"lng":-86.11582990147112},"outageRecID":"2026-11-24-0275","outageStartTime":"2026-11-24T13:35:15-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.451589,42.467002],"type":"Point"},"properties":{"affectedAreas":[{"extension":{"OutageDetailAttribute1":null,"OutageDetailAttribute2":null},"lat":42.46700249,"location":"SOUTH SIOUX CITY","locationType":1,"lon":-96.45158912,"zipCode":"68776"}],"affectedCount":1,"crewStatus":"Incident is unassigned","description":"No Reason Assigned","endTime":"12/31/9999 12:00:00 AM","extension":{"OutageAttribute1":"Utility","OutageAttribute2":"11-24-2026 07:54","OutageAttribute3":"9999-12-31","OutageAttribute4":null,"OutageAttribute5":null},"incidentId":"INC 0002986-1","lat":42.46700249,"location":"SOUTH SIOUX CITY","locationType":1,"lon":-96.45158912,"name":null,"notes":"Utility","outageType":2,"restorationTime":"00:00","serviceType":1,"startTime":"11/24/2026 07:54:00","status":1,"zipCode":"68776"},"type":"Feature"}
 ]}

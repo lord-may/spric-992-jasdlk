@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.319039,46.012758],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T10:16:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T08:22:34.673-06:00","outageName":"NASHUA TINTAH - TINTAH FE","outagePoint":{"lat":46.012758186481754,"lng":-96.31903861227484},"outageRecID":"2026-11-24-1173","outageStartTime":"2026-11-24T08:16:00-06:00","outageWorkStatus":"Service Rep Initiated","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

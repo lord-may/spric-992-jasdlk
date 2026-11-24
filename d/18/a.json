@@ -2,7 +2,7 @@
 {"geometry":{"coordinates":[-92.151762,46.796081],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":35,"DATEOFF":1795533980000,"ETR":1795548600000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001721","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.367679,46.385659],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795541165000,"ETR":1795552200000,"LOCATION":"East Gull Lake","ORDERID":"JE.2611.001732","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.101604,46.757436],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795543342000,"ETR":1795551300000,"LOCATION":"Duluth - Lincoln Park","ORDERID":"JE.2611.001737","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.260705,45.854588],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795543900000,"ETR":1795554900000,"LOCATION":"Bellevue Township","ORDERID":"JE.2611.001739","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-94.260705,45.854588],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795543900000,"ETR":1795554900000,"LOCATION":"Bellevue Township","ORDERID":"JE.2611.001739","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.365049,46.706686],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795546619000,"ETR":1795554000000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001740","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.151163,45.967037],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":5,"DATEOFF":1795546944000,"ETR":1795558500000,"LOCATION":"Agram Township","ORDERID":"JE.2611.001741","STATUS":"Assigned"},"type":"Feature"}
 ]}

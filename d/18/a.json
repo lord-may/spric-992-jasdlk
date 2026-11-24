@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.339447,45.970537],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":50,"DATEOFF":1795445839000,"ETR":1795464000000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001577","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.333764,46.766663],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795464569000,"ETR":1795479300000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001630","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.333764,46.766663],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795464569000,"ETR":1795479300000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001630","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.333866,46.765569],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795475177000,"ETR":1795486500000,"LOCATION":"Solway Township","ORDERID":"JE.2611.001647","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-93.944773,46.481375],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795478907000,"ETR":1795490100000,"LOCATION":"Crosby","ORDERID":"JE.2611.001652","STATUS":"Assigned"},"type":"Feature"}
 ]}

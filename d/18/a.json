@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.345763,46.706326],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795530227000,"ETR":1795537800000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001718","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.141126,46.714717],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1795531327000,"ETR":1795542300000,"LOCATION":"Superior","ORDERID":"JE.2611.001719","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.05572,46.825931],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795532609000,"ETR":1795540500000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001720","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.151762,46.796081],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":35,"DATEOFF":1795533980000,"ETR":1795541400000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001721","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.332984,46.699382],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795534329000,"ETR":1795542300000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001723","STATUS":"New Outage"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.27802,42.470278],"type":"Point"},"properties":{"CreateDatetime":"11-24  12:56 AM","District":"540A","Downstream":1,"ETA":"","ETR":"11-24  04:00 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640502","Latitude":42.470278,"LocationCause":"","Longitude":-92.27802,"MAJ_OTG_ID":"0","METRO_AREA":"Waterloo","StatusCd":""},"type":"Feature"}
+{"geometry":{"coordinates":[-92.27802,42.470278],"type":"Point"},"properties":{"CreateDatetime":"11-24  12:56 AM","District":"540A","Downstream":1,"ETA":"","ETR":"11-24  04:00 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640502","Latitude":42.470278,"LocationCause":"","Longitude":-92.27802,"MAJ_OTG_ID":"0","METRO_AREA":"Waterloo","StatusCd":"EN ROUTE"},"type":"Feature"}
 ]}

@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.345763,46.706326],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795530227000,"ETR":1795545000000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001718","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.151762,46.796081],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":35,"DATEOFF":1795533980000,"ETR":1795545000000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001721","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.603417,47.391037],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1795539308000,"ETR":1795550400000,"LOCATION":"Clinton Township","ORDERID":"JE.2611.001731","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.603417,47.391037],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1795539308000,"ETR":1795550400000,"LOCATION":"Clinton Township","ORDERID":"JE.2611.001731","STATUS":"Repairs in Progress"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.367679,46.385659],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795541165000,"ETR":1795552200000,"LOCATION":"East Gull Lake","ORDERID":"JE.2611.001732","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.080981,46.844674],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795541460000,"ETR":1795549500000,"LOCATION":"Duluth - Woodland","ORDERID":"JE.2611.001733","STATUS":"Assigned"},"type":"Feature"}
 ]}

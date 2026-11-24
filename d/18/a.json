@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.345763,46.706326],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795530227000,"ETR":1795537800000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001718","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.345763,46.706326],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795530227000,"ETR":1795537800000,"LOCATION":"Thomson Township","ORDERID":"JE.2611.001718","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.141126,46.714717],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":2,"DATEOFF":1795531327000,"ETR":1795542300000,"LOCATION":"Superior","ORDERID":"JE.2611.001719","STATUS":"Assigned"},"type":"Feature"}
 ]}

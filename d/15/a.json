@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.91423,43.118136],"type":"Point"},"properties":{"Cause":"Not yet determined","CrewStatus":"Awaiting Assignment","ETR":"Nov 24, 11:30 a.m.","IsGlobal":false,"Latitude":43.11813616724364,"Longitude":-87.91422987830812,"OffTime":"Nov 24, 8:44 a.m.","Slices":[{"AffectedCusts":4,"City":"milwaukee","CityCusts":351863,"County":"milwaukee","CountyCusts":479842,"Region":"southeast wi","RegionCusts":1075582,"Zip":"53217","ZipCusts":15172},{"AffectedCusts":1,"City":"glendale","CityCusts":3861,"County":"milwaukee","CountyCusts":479842,"Region":"southeast wi","RegionCusts":1075582,"Zip":"53217","ZipCusts":15172},{"AffectedCusts":1,"City":"whitefish bay","CityCusts":1809,"County":"milwaukee","CountyCusts":479842,"Region":"southeast wi","RegionCusts":1075582,"Zip":"53217","ZipCusts":15172}]},"type":"Feature"}
 ]}

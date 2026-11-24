@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-89.192179,44.003734],[-89.186062,44.004264],[-89.184364,44.006234],[-89.187086,44.016087],[-89.191712,44.014536],[-89.195036,44.004897],[-89.192179,44.003734]]],"type":"Polygon"},{"coordinates":[-89.189458,44.009038],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Nothing obvious breaking it down cabinet by cabinet","crewAssigned":true,"id":"338030","nbrOut":19,"planned":false,"timeOff":1795547915000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-89.192179,44.003734],[-89.186062,44.004264],[-89.188074,44.004496],[-89.195036,44.004897],[-89.192179,44.003734]]],"type":"Polygon"},{"coordinates":[-89.190976,44.004322],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"338032","nbrOut":4,"planned":false,"timeOff":1795552473000},"type":"Feature"}
 ]}

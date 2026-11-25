@@ -19,10 +19,11 @@
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"70","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.616303,39.442693],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 06:00 AM","INCIDENTID":"1823589","IND":"D","LAT":"39.44269332","LNG":"-83.6163028443903","OutageTime":"11/25/2026 03:22 AM","TOTALCUSTS":"70"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"71","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.615047,39.443646],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 06:00 AM","INCIDENTID":"1823589","IND":"D","LAT":"39.44364562","LNG":"-83.6150473514874","OutageTime":"11/25/2026 03:22 AM","TOTALCUSTS":"70"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.15981,40.371852],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/25/2026 08:00 AM","INCIDENTID":"1823596","IND":"D","LAT":"40.37185195","LNG":"-84.1598095786246","OutageTime":"11/25/2026 05:22 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

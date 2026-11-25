@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.939788,40.408232],"type":"Point"},"properties":{"cause":"Planned: Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-25T14:00:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T11:57:46.807-05:00","outageName":"21256-T","outagePoint":{"lat":40.40823214854226,"lng":-82.93978757543492},"outageRecID":"2026-11-25-0107","outageStartTime":"2026-11-25T11:56:57-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

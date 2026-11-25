@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.005709,38.886029],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T05:14:28.147-05:00","outageName":"WA  121W  55N  2","outagePoint":{"lat":38.88602941596626,"lng":-86.00570868091243},"outageRecID":"2026-11-25-0209","outageStartTime":"2026-11-25T05:14:25-05:00","outageWorkStatus":"","streetsAffected":["E COUNTY ROAD 25 N"],"verified":false},"type":"Feature"}
 ]}

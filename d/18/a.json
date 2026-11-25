@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.214931,46.687505],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795615390000,"ETR":1795630500000,"LOCATION":"Duluth - Morgan Park","ORDERID":"JE.2611.001771","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.233004,47.532406],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795618981000,"ETR":1795634100000,"LOCATION":"Aurora","ORDERID":"JE.2611.001788","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.243806,46.837562],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795622945000,"ETR":1795634100000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001802","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.538371,45.80152],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795627221000,"ETR":1795638600000,"LOCATION":"Elmdale Township","ORDERID":"JE.2611.001814","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.056963,46.826626],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1795628750000,"ETR":1795636800000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001820","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.056963,46.826626],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":14,"DATEOFF":1795628750000,"ETR":1795636800000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001820","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.057558,46.828172],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1795630043000,"ETR":1795637700000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001823","STATUS":"Assigned"},"type":"Feature"}
 ]}

@@ -1,8 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.214931,46.687505],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795615390000,"ETR":1795623300000,"LOCATION":"Duluth - Morgan Park","ORDERID":"JE.2611.001771","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.214931,46.687505],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795615390000,"ETR":1795626900000,"LOCATION":"Duluth - Morgan Park","ORDERID":"JE.2611.001771","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-94.33141,45.978277],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":58,"DATEOFF":1795617037000,"ETR":1795628700000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001777","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.14528,46.797533],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795617894000,"ETR":1795626000000,"LOCATION":"Duluth - Heights","ORDERID":"JE.2611.001780","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-92.963956,46.079886],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":3,"DATEOFF":1795618566000,"ETR":1795626000000,"LOCATION":"Dell Grove Township","ORDERID":"JE.2611.001783","STATUS":"Assigned"},"type":"Feature"},
 {"geometry":{"coordinates":[-95.095599,46.268096],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":18,"DATEOFF":1795618710000,"ETR":1795630500000,"LOCATION":"Bertha Township","ORDERID":"JE.2611.001784","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.233004,47.532406],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795618981000,"ETR":1795630500000,"LOCATION":"Aurora","ORDERID":"JE.2611.001788","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.233004,47.532406],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795618981000,"ETR":1795630500000,"LOCATION":"Aurora","ORDERID":"JE.2611.001788","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.471529,46.718323],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":9,"DATEOFF":1795620980000,"ETR":1795628700000,"LOCATION":"Cloquet","ORDERID":"JE.2611.001794","STATUS":"New Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.067701,46.687549],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795621451000,"ETR":1795633200000,"LOCATION":"Superior","ORDERID":"JE.2611.001798","STATUS":"New Outage"},"type":"Feature"}
 ]}

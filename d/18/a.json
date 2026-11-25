@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.233004,47.532406],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795618981000,"ETR":1795637700000,"LOCATION":"Aurora","ORDERID":"JE.2611.001788","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.243806,46.837562],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795622945000,"ETR":1795637700000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001802","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.243806,46.837562],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795622945000,"ETR":1795637700000,"LOCATION":"Hermantown","ORDERID":"JE.2611.001802","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.056514,46.827332],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795636841000,"ETR":1795644900000,"LOCATION":"Duluth - Congdon Park","ORDERID":"JE.2611.001829","STATUS":"Assigned"},"type":"Feature"}
 ]}

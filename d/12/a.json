@@ -24,7 +24,7 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"13","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.795795,39.589493],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/25/2026 01:00 AM","INCIDENTID":"1823579","IND":"D","LAT":"39.58949327","LNG":"-83.7957945909272","OutageTime":"11/24/2026 07:04 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.42571,39.530429],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/24/2026 11:00 PM","INCIDENTID":"1823580","IND":"D","LAT":"39.53042862","LNG":"-83.4257099982306","OutageTime":"11/24/2026 08:28 PM","TOTALCUSTS":"11"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.770785,39.509123],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 12:00 AM","INCIDENTID":"1823582","IND":"D","LAT":"39.50912293","LNG":"-83.7707851248191","OutageTime":"11/24/2026 08:50 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-83.795689,39.589573],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/25/2026 01:00 AM","INCIDENTID":"1823579","IND":"D","LAT":"39.58957337","LNG":"-83.7956887483308","OutageTime":"11/24/2026 07:04 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.425604,39.530509],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/24/2026 11:00 PM","INCIDENTID":"1823580","IND":"D","LAT":"39.53050872","LNG":"-83.4256042526802","OutageTime":"11/24/2026 08:28 PM","TOTALCUSTS":"11"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.770679,39.509203],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 12:00 AM","INCIDENTID":"1823582","IND":"D","LAT":"39.50920303","LNG":"-83.770679414202","OutageTime":"11/24/2026 08:50 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

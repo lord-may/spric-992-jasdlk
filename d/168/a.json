@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.903803,44.4616],"type":"Point"},"properties":{"cause":"PLANNED CONSTRUCTION          ","crewAssigned":true,"estimateTime":1795449743000,"id":"448165","nbrOut":1,"timeOff":1795009080000},"type":"Feature"},
-{"geometry":{"coordinates":[-96.692654,44.323983],"type":"Point"},"properties":{"cause":"MEMBER CAUSED                 ","crewAssigned":true,"id":"448170","nbrOut":1,"timeOff":1795033012000},"type":"Feature"}
+{"geometry":{"coordinates":[-96.692654,44.323983],"type":"Point"},"properties":{"cause":"MEMBER CAUSED                 ","crewAssigned":true,"id":"448170","nbrOut":1,"timeOff":1795033012000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-97.077699,43.984973],[-97.086116,43.990331],[-97.084382,43.988373],[-97.077699,43.984973]]],"type":"Polygon"},{"coordinates":[-97.082729,43.987894],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"PLANNED CONSTRUCTION          ","comment":"Crews will be replacing equipment along Highway 34 east of Madison on Wednesday, November 25th.  They will need to have the power off at 9:00 a.m. for approximately 2 hours.  Call Dispatch at 1-800-234-1960 if you have any questions.  Thank you.","crewAssigned":true,"estimateTime":1795626000000,"id":"448469","nbrOut":4,"timeOff":1795618800000},"type":"Feature"}
 ]}

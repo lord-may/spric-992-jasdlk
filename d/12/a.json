@@ -5,7 +5,7 @@
 {"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"71"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"DARKE","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"DARKE","TotOut":"2"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
@@ -23,10 +23,11 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"78","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.61527,39.443477],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 10:00 AM","INCIDENTID":"1823589","IND":"D","LAT":"39.44347652","LNG":"-83.6152702894795","OutageTime":"11/25/2026 03:22 AM","TOTALCUSTS":"70"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.169453,39.81787],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/25/2026 09:00 AM","INCIDENTID":"1823597","IND":"D","LAT":"39.81787001","LNG":"-84.1694529813901","OutageTime":"11/25/2026 06:36 AM","TOTALCUSTS":"5"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.065836,40.347822],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/25/2026 10:00 AM","INCIDENTID":"1823601","IND":"D","LAT":"40.3478221","LNG":"-84.0658358179046","OutageTime":"11/25/2026 06:56 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.596976,39.466292],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 10:00 AM","INCIDENTID":"1823604","IND":"D","LAT":"39.466292","LNG":"-83.5969757171766","OutageTime":"11/25/2026 07:30 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.67851,40.03085],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/25/2026 11:00 AM","INCIDENTID":"1823609","IND":"D","LAT":"40.03084975","LNG":"-84.6785098721881","OutageTime":"11/25/2026 08:28 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"79","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.614296,39.444215],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 10:00 AM","INCIDENTID":"1823589","IND":"D","LAT":"39.44421522","LNG":"-83.6142964024614","OutageTime":"11/25/2026 03:22 AM","TOTALCUSTS":"70"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.168473,39.818609],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/25/2026 09:00 AM","INCIDENTID":"1823597","IND":"D","LAT":"39.81860871","LNG":"-84.1684734005662","OutageTime":"11/25/2026 06:36 AM","TOTALCUSTS":"5"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.064848,40.348561],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/25/2026 10:00 AM","INCIDENTID":"1823601","IND":"D","LAT":"40.3485608","LNG":"-84.0648479854875","OutageTime":"11/25/2026 06:56 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.596001,39.467031],"type":"Point"},"properties":{"COUNTY":"CLINTON","EstimateTime":"11/25/2026 10:00 AM","INCIDENTID":"1823604","IND":"D","LAT":"39.4670307","LNG":"-83.5960014863372","OutageTime":"11/25/2026 07:30 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.677527,40.031588],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/25/2026 11:00 AM","INCIDENTID":"1823609","IND":"D","LAT":"40.03158845","LNG":"-84.6775270025409","OutageTime":"11/25/2026 08:28 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.608203,40.116709],"type":"Point"},"properties":{"COUNTY":"DARKE","EstimateTime":"11/25/2026 11:00 AM","INCIDENTID":"1823611","IND":"D","LAT":"40.11670917","LNG":"-84.6082034692392","OutageTime":"11/25/2026 08:34 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

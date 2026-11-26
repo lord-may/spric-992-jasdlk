@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.572267,39.188357],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T21:32:13.81-05:00","outageName":"T44-4L-47","outagePoint":{"lat":39.1883567769989,"lng":-87.5722673873877},"outageRecID":"2026-11-25-0329","outageStartTime":"2026-11-25T21:23:04-05:00","outageWorkStatus":"","streetsAffected":["N COUNTY ROAD 900 W"],"verified":false},"type":"Feature"}
 ]}

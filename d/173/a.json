@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.130775,41.211352],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T18:43:25.583-05:00","outageName":"KB015-000-0-0005-00P0-01","outagePoint":{"lat":41.21135150471366,"lng":-85.13077532808059},"outageRecID":"2026-11-26-0239","outageStartTime":"2026-11-26T18:37:06-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

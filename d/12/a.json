@@ -8,7 +8,7 @@
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DELAWARE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"FAYETTE","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"GREENE","TotOut":"1"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"GREENE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HARDIN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"HIGHLAND","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
@@ -23,8 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"347","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.196449,39.801765],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/26/2026 02:00 PM","INCIDENTID":"1823738","IND":"D","LAT":"39.80176475","LNG":"-84.196449135848","OutageTime":"11/26/2026 12:03 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.907289,39.712373],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"null","INCIDENTID":"1823752","IND":"D","LAT":"39.7123729","LNG":"-83.907288882976","OutageTime":"11/26/2026 01:14 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.070153,40.567088],"type":"Point"},"properties":{"COUNTY":"AUGLAIZE","EstimateTime":"null","INCIDENTID":"1823759","IND":"D","LAT":"40.56708793","LNG":"-84.0701525627661","OutageTime":"11/26/2026 01:08 PM","TOTALCUSTS":"345"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"346","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.19665,39.801613],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/26/2026 02:00 PM","INCIDENTID":"1823738","IND":"D","LAT":"39.80161345","LNG":"-84.1966497233122","OutageTime":"11/26/2026 12:03 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.070356,40.566937],"type":"Point"},"properties":{"COUNTY":"AUGLAIZE","EstimateTime":"11/26/2026 03:00 PM","INCIDENTID":"1823759","IND":"D","LAT":"40.56693663","LNG":"-84.0703556040487","OutageTime":"11/26/2026 01:08 PM","TOTALCUSTS":"345"},"type":"Feature"}
 ]}

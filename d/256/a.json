@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.520657,39.125428],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T07:25:18.203-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T04:25:18.293-05:00","outageName":"FUS663-014-0008","outagePoint":{"lat":39.12542767597184,"lng":-83.52065668205407},"outageRecID":"2026-11-26-0951","outageStartTime":"2026-11-26T04:23:49-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.976013,38.333268],"type":"Point"},"properties":{"crewAssigned":true,"id":"137798","nbrOut":4,"planned":false,"timeOff":1795667172000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.960832,38.402833],"type":"Point"},"properties":{"crewAssigned":true,"id":"137805","nbrOut":31,"planned":false,"timeOff":1795669898000},"type":"Feature"},
 {"geometry":{"coordinates":[-89.955173,38.253648],"type":"Point"},"properties":{"crewAssigned":true,"id":"137810","nbrOut":4,"planned":false,"timeOff":1795671625000},"type":"Feature"},
 {"geometry":{"coordinates":[-90.331117,38.352101],"type":"Point"},"properties":{"crewAssigned":true,"id":"137813","nbrOut":3,"planned":false,"timeOff":1795673395000},"type":"Feature"},
@@ -12,5 +11,7 @@
 {"geometry":{"coordinates":[-90.123553,38.528581],"type":"Point"},"properties":{"crewAssigned":false,"id":"137835","nbrOut":10,"planned":false,"timeOff":1795678077000},"type":"Feature"},
 {"geometry":{"coordinates":[-90.049729,38.305387],"type":"Point"},"properties":{"crewAssigned":false,"id":"137841","nbrOut":18,"planned":false,"timeOff":1795678205000},"type":"Feature"},
 {"geometry":{"coordinates":[-90.229985,38.44202],"type":"Point"},"properties":{"crewAssigned":true,"id":"137856","nbrOut":165,"planned":false,"timeOff":1795678320000},"type":"Feature"},
-{"geometry":{"coordinates":[-90.17208,38.226646],"type":"Point"},"properties":{"crewAssigned":false,"id":"137857","nbrOut":1,"planned":false,"timeOff":1795678596000},"type":"Feature"}
+{"geometry":{"coordinates":[-90.17208,38.226646],"type":"Point"},"properties":{"crewAssigned":false,"id":"137857","nbrOut":1,"planned":false,"timeOff":1795678596000},"type":"Feature"},
+{"geometry":{"coordinates":[-90.143971,38.259693],"type":"Point"},"properties":{"crewAssigned":false,"id":"137860","nbrOut":5,"planned":false,"timeOff":1795678980000},"type":"Feature"},
+{"geometry":{"coordinates":[-90.267364,38.216957],"type":"Point"},"properties":{"crewAssigned":false,"id":"137861","nbrOut":1,"planned":false,"timeOff":1795679161000},"type":"Feature"}
 ]}

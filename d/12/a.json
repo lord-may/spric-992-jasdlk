@@ -24,8 +24,8 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"21","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.078041,39.911351],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/26/2026 08:00 PM","INCIDENTID":"1823766","IND":"D","LAT":"39.91135138","LNG":"-84.078041040562","OutageTime":"11/26/2026 02:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.795223,39.860096],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/26/2026 07:00 PM","INCIDENTID":"1823858","IND":"D","LAT":"39.86009584","LNG":"-84.795222563535","OutageTime":"11/26/2026 04:08 PM","TOTALCUSTS":"16"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.071693,40.56594],"type":"Point"},"properties":{"COUNTY":"AUGLAIZE","EstimateTime":"11/26/2026 08:00 PM","INCIDENTID":"1823861","IND":"D","LAT":"40.56593983","LNG":"-84.0716932877928","OutageTime":"11/26/2026 04:56 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.079468,39.750472],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/26/2026 08:00 PM","INCIDENTID":"1823863","IND":"D","LAT":"39.75047223","LNG":"-84.0794679548263","OutageTime":"11/26/2026 05:06 PM","TOTALCUSTS":"3"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.076457,39.912544],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/26/2026 08:00 PM","INCIDENTID":"1823766","IND":"D","LAT":"39.91254398","LNG":"-84.0764571883206","OutageTime":"11/26/2026 02:50 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.79364,39.861288],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/26/2026 07:00 PM","INCIDENTID":"1823858","IND":"D","LAT":"39.86128844","LNG":"-84.793639986638","OutageTime":"11/26/2026 04:08 PM","TOTALCUSTS":"16"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.070093,40.567132],"type":"Point"},"properties":{"COUNTY":"AUGLAIZE","EstimateTime":"11/26/2026 08:00 PM","INCIDENTID":"1823861","IND":"D","LAT":"40.56713243","LNG":"-84.0700928447418","OutageTime":"11/26/2026 04:56 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.077888,39.751665],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/26/2026 08:00 PM","INCIDENTID":"1823863","IND":"D","LAT":"39.75166483","LNG":"-84.0778880942034","OutageTime":"11/26/2026 05:06 PM","TOTALCUSTS":"3"},"type":"Feature"}
 ]}

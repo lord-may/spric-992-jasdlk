@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.451067,42.642337],"type":"Point"},"properties":{"CreateDatetime":"11-26  07:46 AM","District":"540A","Downstream":1,"ETA":"","ETR":"11-26  10:00 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"EN ROUTE","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640783","Latitude":42.642337,"LocationCause":"","Longitude":-92.451067,"MAJ_OTG_ID":"0","METRO_AREA":"Waterloo","StatusCd":"EN ROUTE"},"type":"Feature"},
 {"geometry":{"coordinates":[-96.064656,42.482176],"type":"Point"},"properties":{"CreateDatetime":"11-26  08:11 AM","District":"576A","Downstream":1,"ETA":"","ETR":"11-26  11:45 AM","ETR_SOURCE":"SYS","FacJobStatusCd":"","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640784","Latitude":42.482176,"LocationCause":"","Longitude":-96.064656,"MAJ_OTG_ID":"0","METRO_AREA":"Sioux City","StatusCd":""},"type":"Feature"}
 ]}

@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-90.16307,36.95301],"type":"Point"},"properties":{"id":"624599","nbrOut":1,"planned":false,"timeOff":1795699202683},"type":"Feature"},
-{"geometry":{"coordinates":[-90.743282,36.984396],"type":"Point"},"properties":{"id":"624603","nbrOut":10,"planned":false,"timeOff":1795699247724},"type":"Feature"},
 {"geometry":{"coordinates":[-90.352497,36.948652],"type":"Point"},"properties":{"id":"624624","nbrOut":18,"planned":false,"timeOff":1795700884672},"type":"Feature"},
 {"geometry":{"coordinates":[-90.448967,36.999377],"type":"Point"},"properties":{"id":"624690","nbrOut":47,"planned":false,"timeOff":1795701525908},"type":"Feature"},
 {"geometry":{"coordinates":[-90.045839,36.9641],"type":"Point"},"properties":{"id":"624707","nbrOut":1,"planned":false,"timeOff":1795702069464},"type":"Feature"},
@@ -11,7 +10,6 @@
 {"geometry":{"coordinates":[-90.834551,37.066636],"type":"Point"},"properties":{"id":"624769","nbrOut":4,"planned":false,"timeOff":1795705886372},"type":"Feature"},
 {"geometry":{"coordinates":[-90.406603,36.927823],"type":"Point"},"properties":{"id":"624780","nbrOut":21,"planned":false,"timeOff":1795706873384},"type":"Feature"},
 {"geometry":{"coordinates":[-90.467706,37.026721],"type":"Point"},"properties":{"id":"624792","nbrOut":45,"planned":false,"timeOff":1795707198960},"type":"Feature"},
-{"geometry":{"coordinates":[-90.716944,36.973014],"type":"Point"},"properties":{"id":"624796","nbrOut":25,"planned":false,"timeOff":1795707097790},"type":"Feature"},
 {"geometry":{"coordinates":[-90.398545,36.960841],"type":"Point"},"properties":{"id":"624806","nbrOut":23,"planned":false,"timeOff":1795707441286},"type":"Feature"},
 {"geometry":{"coordinates":[-90.188384,36.898791],"type":"Point"},"properties":{"id":"624809","nbrOut":12,"planned":false,"timeOff":1795707668280},"type":"Feature"},
 {"geometry":{"coordinates":[-90.279608,36.966483],"type":"Point"},"properties":{"id":"624811","nbrOut":272,"planned":false,"timeOff":1795708036927},"type":"Feature"},
@@ -19,7 +17,6 @@
 {"geometry":{"coordinates":[-90.296326,37.042139],"type":"Point"},"properties":{"id":"624822","nbrOut":33,"planned":false,"timeOff":1795709101542},"type":"Feature"},
 {"geometry":{"coordinates":[-90.31784,36.995137],"type":"Point"},"properties":{"id":"624826","nbrOut":1,"planned":false,"timeOff":1795709561029},"type":"Feature"},
 {"geometry":{"coordinates":[-90.03594,36.822871],"type":"Point"},"properties":{"id":"624835","nbrOut":5,"planned":false,"timeOff":1795709876176},"type":"Feature"},
-{"geometry":{"coordinates":[-90.0628,36.563654],"type":"Point"},"properties":{"id":"624836","nbrOut":23,"planned":false,"timeOff":1795709981458},"type":"Feature"},
 {"geometry":{"coordinates":[-90.303782,36.992411],"type":"Point"},"properties":{"id":"624841","nbrOut":55,"planned":false,"timeOff":1795710085877},"type":"Feature"},
 {"geometry":{"coordinates":[-90.822927,36.963469],"type":"Point"},"properties":{"id":"624865","nbrOut":27,"planned":false,"timeOff":1795710878470},"type":"Feature"},
 {"geometry":{"coordinates":[-90.840121,36.885076],"type":"Point"},"properties":{"id":"624868","nbrOut":5,"planned":false,"timeOff":1795711152397},"type":"Feature"},
@@ -39,5 +36,5 @@
 {"geometry":{"coordinates":[-90.170912,36.903612],"type":"Point"},"properties":{"id":"624936","nbrOut":3,"planned":false,"timeOff":1795714914885},"type":"Feature"},
 {"geometry":{"coordinates":[-90.885019,36.862914],"type":"Point"},"properties":{"id":"624938","nbrOut":4,"planned":false,"timeOff":1795714951015},"type":"Feature"},
 {"geometry":{"coordinates":[-90.295481,36.981942],"type":"Point"},"properties":{"id":"624941","nbrOut":2,"planned":false,"timeOff":1795715202664},"type":"Feature"},
-{"geometry":{"coordinates":[-90.316178,37.048599],"type":"Point"},"properties":{"id":"624946","nbrOut":1,"planned":false,"timeOff":1795715436671},"type":"Feature"}
+{"geometry":{"coordinates":[-90.743282,36.984396],"type":"Point"},"properties":{"id":"624950","nbrOut":10,"planned":false,"timeOff":1795716131341},"type":"Feature"}
 ]}

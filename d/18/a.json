@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.603417,47.391037],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":6,"DATEOFF":1795710066000,"ETR":1795721400000,"LOCATION":"Clinton Township","ORDERID":"JE.2611.001859","STATUS":"Assigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-94.343933,45.991852],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1795710928000,"ETR":1795722300000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001860","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.343933,45.991852],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":3,"DATEOFF":1795710928000,"ETR":1795722300000,"LOCATION":"Little Falls","ORDERID":"JE.2611.001860","STATUS":"Repairs in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.830072,46.315739],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":1,"DATEOFF":1795712538000,"ETR":1795720500000,"LOCATION":"Willow River","ORDERID":"JE.2611.001862","STATUS":"Assigned"},"type":"Feature"}
 ]}

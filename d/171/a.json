@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.728394,38.976161],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T08:08:02.217-05:00","outageName":"HB   39N   2","outagePoint":{"lat":38.9761614757811,"lng":-85.72839401845707},"outageRecID":"2026-11-26-0214","outageStartTime":"2026-11-26T08:08:00-05:00","outageWorkStatus":"","streetsAffected":["S HICKORY HILL DR"],"verified":false},"type":"Feature"}
 ]}

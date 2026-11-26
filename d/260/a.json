@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.625975,38.462143],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T13:25:40.157-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T08:25:40.213-05:00","outageName":"558560003T","outagePoint":{"lat":38.46214334151334,"lng":-85.62597481878504},"outageRecID":"2026-11-26-0204","outageStartTime":"2026-11-26T08:24:58-05:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 62"],"verified":false},"type":"Feature"}
 ]}

@@ -2,7 +2,7 @@
 {"geometry":null,"properties":{"County":"AUGLAIZE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BROWN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"BUTLER","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"CHAMPAIGN","TotOut":"4"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLARK","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"CLINTON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"DARKE","TotOut":"0"},"type":"Feature"},
@@ -23,6 +23,7 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.135917,40.316737],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/27/2026 05:00 PM","INCIDENTID":"1823947","IND":"D","LAT":"40.31673723","LNG":"-84.1359165408753","OutageTime":"11/27/2026 02:19 PM","TOTALCUSTS":"2"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"6","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.135143,40.317316],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/27/2026 05:00 PM","INCIDENTID":"1823947","IND":"D","LAT":"40.31731573","LNG":"-84.1351433144658","OutageTime":"11/27/2026 02:19 PM","TOTALCUSTS":"2"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.540796,40.239148],"type":"Point"},"properties":{"COUNTY":"CHAMPAIGN","EstimateTime":"11/27/2026 06:00 PM","INCIDENTID":"1823950","IND":"D","LAT":"40.2391481","LNG":"-83.5407961851142","OutageTime":"11/27/2026 03:17 PM","TOTALCUSTS":"4"},"type":"Feature"}
 ]}

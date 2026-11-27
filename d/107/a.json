@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.921153,38.304069],"type":"Point"},"properties":{"crewAssigned":true,"id":"137936","nbrOut":1,"planned":false,"timeOff":1795688651000},"type":"Feature"},
-{"geometry":{"coordinates":[-90.335879,38.276486],"type":"Point"},"properties":{"cause":"OTHER, DETERIORATION          ","crewAssigned":true,"id":"138157","nbrOut":2,"planned":false,"timeOff":1795703409107},"type":"Feature"},
 {"geometry":{"coordinates":[-90.029652,38.450097],"type":"Point"},"properties":{"crewAssigned":false,"id":"138226","nbrOut":1,"planned":false,"timeOff":1795714380000},"type":"Feature"},
 {"geometry":{"coordinates":[-90.110114,38.463048],"type":"Point"},"properties":{"crewAssigned":false,"id":"138271","nbrOut":1,"planned":false,"timeOff":1795733580000},"type":"Feature"},
 {"geometry":{"coordinates":[-90.122906,38.462077],"type":"Point"},"properties":{"cause":"MAJOR STORM                   ","crewAssigned":true,"id":"138275","nbrOut":21,"planned":false,"timeOff":1795731420000},"type":"Feature"}

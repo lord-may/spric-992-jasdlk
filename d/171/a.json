@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.691891,38.790752],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T16:07:24.173-05:00","outageName":"B3   18N 127","outagePoint":{"lat":38.79075205099364,"lng":-85.69189141090264},"outageRecID":"2026-11-27-0231","outageStartTime":"2026-11-27T16:07:21-05:00","outageWorkStatus":"","streetsAffected":["E QUICK CREEK RD"],"verified":false},"type":"Feature"}
 ]}

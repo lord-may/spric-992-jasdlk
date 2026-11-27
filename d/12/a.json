@@ -24,6 +24,6 @@
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.004969,39.395779],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/27/2026 12:00 PM","INCIDENTID":"1823924","IND":"D","LAT":"39.3957792","LNG":"-84.0049685055632","OutageTime":"11/27/2026 09:24 AM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.635305,40.433391],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/27/2026 01:00 PM","INCIDENTID":"1823931","IND":"D","LAT":"40.43339124","LNG":"-84.6353050177458","OutageTime":"11/27/2026 10:37 AM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":{"coordinates":[-84.003386,39.396981],"type":"Point"},"properties":{"COUNTY":"WARREN","EstimateTime":"11/27/2026 12:00 PM","INCIDENTID":"1823924","IND":"D","LAT":"39.3969807","LNG":"-84.0033856518243","OutageTime":"11/27/2026 09:24 AM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.633696,40.434593],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/27/2026 01:00 PM","INCIDENTID":"1823931","IND":"D","LAT":"40.43459274","LNG":"-84.6336961133671","OutageTime":"11/27/2026 10:37 AM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

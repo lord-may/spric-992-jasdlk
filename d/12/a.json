@@ -14,7 +14,7 @@
 {"geometry":null,"properties":{"County":"LOGAN","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MADISON","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MERCER","TotOut":"1"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"MIAMI","TotOut":"2"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"MIAMI","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"MONTGOMERY","TotOut":"31"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"16"},"type":"Feature"},
@@ -23,12 +23,11 @@
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"55","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.795849,39.859624],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823858","IND":"D","LAT":"39.85962414","LNG":"-84.7958485081286","OutageTime":"11/26/2026 04:08 PM","TOTALCUSTS":"16"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.080093,39.750001],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823863","IND":"D","LAT":"39.75000053","LNG":"-84.0800928250726","OutageTime":"11/26/2026 05:06 PM","TOTALCUSTS":"4"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.654074,40.70083],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/26/2026 11:00 PM","INCIDENTID":"1823871","IND":"D","LAT":"40.70082971","LNG":"-84.6540740450448","OutageTime":"11/26/2026 07:09 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.392009,39.362948],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/26/2026 10:00 PM","INCIDENTID":"1823872","IND":"D","LAT":"39.36294826","LNG":"-83.392009398351","OutageTime":"11/26/2026 07:15 PM","TOTALCUSTS":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.112261,39.644233],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823875","IND":"D","LAT":"39.64423314","LNG":"-84.112260900406","OutageTime":"11/26/2026 08:56 PM","TOTALCUSTS":"28"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.379554,40.111658],"type":"Point"},"properties":{"COUNTY":"MIAMI","EstimateTime":"11/27/2026 01:00 AM","INCIDENTID":"1823879","IND":"D","LAT":"40.11165753","LNG":"-84.3795536304288","OutageTime":"11/26/2026 09:15 PM","TOTALCUSTS":"2"},"type":"Feature"},
-{"geometry":{"coordinates":[-84.257629,39.758892],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823880","IND":"D","LAT":"39.75889229","LNG":"-84.2576285867914","OutageTime":"11/26/2026 09:27 PM","TOTALCUSTS":"3"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"53","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.794266,39.860817],"type":"Point"},"properties":{"COUNTY":"PREBLE","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823858","IND":"D","LAT":"39.86081674","LNG":"-84.7942659312316","OutageTime":"11/26/2026 04:08 PM","TOTALCUSTS":"16"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.078513,39.751193],"type":"Point"},"properties":{"COUNTY":"GREENE","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823863","IND":"D","LAT":"39.75119313","LNG":"-84.0785129644498","OutageTime":"11/26/2026 05:06 PM","TOTALCUSTS":"4"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.65247,40.702022],"type":"Point"},"properties":{"COUNTY":"MERCER","EstimateTime":"11/26/2026 11:00 PM","INCIDENTID":"1823871","IND":"D","LAT":"40.70202231","LNG":"-84.6524700998146","OutageTime":"11/26/2026 07:09 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.390439,39.364141],"type":"Point"},"properties":{"COUNTY":"HIGHLAND","EstimateTime":"11/26/2026 10:00 PM","INCIDENTID":"1823872","IND":"D","LAT":"39.36414086","LNG":"-83.3904390053689","OutageTime":"11/26/2026 07:15 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.110684,39.645426],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823875","IND":"D","LAT":"39.64542574","LNG":"-84.1106836458724","OutageTime":"11/26/2026 08:56 PM","TOTALCUSTS":"28"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.256049,39.760085],"type":"Point"},"properties":{"COUNTY":"MONTGOMERY","EstimateTime":"11/27/2026 12:00 AM","INCIDENTID":"1823880","IND":"D","LAT":"39.76008489","LNG":"-84.2560485064236","OutageTime":"11/26/2026 09:27 PM","TOTALCUSTS":"3"},"type":"Feature"}
 ]}

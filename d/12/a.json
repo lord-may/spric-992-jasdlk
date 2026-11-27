@@ -19,10 +19,11 @@
 {"geometry":null,"properties":{"County":"PICKAWAY","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"PREBLE","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"ROSS","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"County":"SHELBY","TotOut":"0"},"type":"Feature"},
+{"geometry":null,"properties":{"County":"SHELBY","TotOut":"1"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"UNION","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"VAN WERT","TotOut":"0"},"type":"Feature"},
 {"geometry":null,"properties":{"County":"WARREN","TotOut":"0"},"type":"Feature"},
-{"geometry":null,"properties":{"TotalOut":"1","UMTime":"null","UMessage":"null"},"type":"Feature"},
-{"geometry":{"coordinates":[-83.455405,39.540098],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/27/2026 04:00 PM","INCIDENTID":"1823945","IND":"D","LAT":"39.5400984","LNG":"-83.4554049088937","OutageTime":"11/27/2026 01:37 PM","TOTALCUSTS":"1"},"type":"Feature"}
+{"geometry":null,"properties":{"TotalOut":"2","UMTime":"null","UMessage":"null"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.457074,39.538835],"type":"Point"},"properties":{"COUNTY":"FAYETTE","EstimateTime":"11/27/2026 04:00 PM","INCIDENTID":"1823945","IND":"D","LAT":"39.5388346","LNG":"-83.4570735429484","OutageTime":"11/27/2026 01:37 PM","TOTALCUSTS":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.135334,40.317173],"type":"Point"},"properties":{"COUNTY":"SHELBY","EstimateTime":"11/27/2026 05:00 PM","INCIDENTID":"1823947","IND":"D","LAT":"40.31717333","LNG":"-84.1353336471205","OutageTime":"11/27/2026 02:24 PM","TOTALCUSTS":"1"},"type":"Feature"}
 ]}

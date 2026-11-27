@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.058118,46.835471],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795788750000,"ETR":1795803300000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.001876","STATUS":"Assigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-92.058118,46.835471],"type":"Point"},"properties":{"CAUSE":"Planned","CUSTCOUNT":1,"DATEOFF":1795788750000,"ETR":1795803300000,"LOCATION":"Duluth - Parkview","ORDERID":"JE.2611.001876","STATUS":"Assigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.029604,46.894577],"type":"Point"},"properties":{"CAUSE":null,"CUSTCOUNT":5,"DATEOFF":1795802922000,"ETR":1795814100000,"LOCATION":"Lakewood Township","ORDERID":"JE.2611.001890","STATUS":"Assigned"},"type":"Feature"}
 ]}

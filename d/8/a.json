@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.624325,41.527456],"type":"Point"},"properties":{"CreateDatetime":"11-27  07:44 PM","District":"236A","Downstream":7,"ETA":"","ETR":"11-28  03:45 AM","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640946","Latitude":41.527456,"LocationCause":"A THIRD-PARTY VEHICLE ACCIDENT","Longitude":-93.624325,"MAJ_OTG_ID":"","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"}
+{"geometry":{"coordinates":[-93.624325,41.527456],"type":"Point"},"properties":{"CreateDatetime":"11-27  07:44 PM","District":"236A","Downstream":7,"ETA":"","ETR":"","ETR_SOURCE":"MAN","FacJobStatusCd":"WORKING","HasActiveASM":"","IS_STORM_ACTIVE":"","IncidentID":"2005640946","Latitude":41.527456,"LocationCause":"A THIRD-PARTY VEHICLE ACCIDENT","Longitude":-93.624325,"MAJ_OTG_ID":"","METRO_AREA":"Des Moines","StatusCd":"WORKING"},"type":"Feature"}
 ]}

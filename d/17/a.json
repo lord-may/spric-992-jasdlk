@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.699949,40.855352],"type":"Point"},"properties":{"CAUSE":0,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"0525","INCIDENT_ID":526703,"LES_AREA":"","REGION":4,"STATUS":0,"TIME_OUTAGE":"11/27/2026 09:31 AM","X":160753.563,"Y":220552.141},"type":"Feature"},
-{"geometry":{"coordinates":[-96.658606,40.80207],"type":"Point"},"properties":{"CAUSE":105,"CUSTOMER_COUNT":39,"DEVICE_FCID":100870,"FEEDER_ID":"5624","INCIDENT_ID":526718,"LES_AREA":"Valley to Mohawk / S 44th to S 47th","REGION":2,"STATUS":1,"TIME_OUTAGE":"11/27/2026 04:25 PM","X":172197.625,"Y":201139.656},"type":"Feature"}
+{"geometry":{"coordinates":[-96.699949,40.855352],"type":"Point"},"properties":{"CAUSE":10,"CUSTOMER_COUNT":1,"DEVICE_FCID":100554,"FEEDER_ID":"0525","INCIDENT_ID":526703,"LES_AREA":"","REGION":3,"STATUS":1,"TIME_OUTAGE":"11/27/2026 09:31 AM","X":160753.563,"Y":220552.141},"type":"Feature"}
 ]}
